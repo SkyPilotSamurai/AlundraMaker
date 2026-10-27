@@ -9,9 +9,7 @@ mkdir "Output\AlundraMaker"
 xcopy /e /i /q "build\dist\Alundra Maker" "Output\AlundraMaker\Alundra Maker" >nul
 xcopy /e /i /q tools "Output\AlundraMaker\tools" >nul
 xcopy /e /i /q data "Output\AlundraMaker\data" >nul
-xcopy /e /i /q extras "Output\AlundraMaker\extras" >nul
-xcopy /e /i /q Randomizer "Output\AlundraMaker\Randomizer" >nul
-if exist "Output\AlundraMaker\tools\__pycache__" rmdir /s /q "Output\AlundraMaker\tools\__pycache__"
+xcopy /e /i /q extras "Output\AlundraMaker\extras" >nulif exist "Output\AlundraMaker\tools\__pycache__" rmdir /s /q "Output\AlundraMaker\tools\__pycache__"
 if exist Output\AlundraMaker.zip del Output\AlundraMaker.zip
 powershell -NoProfile -Command "Compress-Archive -Path 'Output\AlundraMaker\*' -DestinationPath 'Output\AlundraMaker.zip'"
 echo Done: Output\AlundraMaker.zip

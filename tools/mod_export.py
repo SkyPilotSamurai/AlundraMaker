@@ -621,7 +621,7 @@ def _build_game(session,source,destination,progress=lambda text:None,overwrite=F
   wanted[SLUS_NAME]=_patch_slus(read_datas(source,SLUS_NAME),slus_options)
  fast=_patch_previous_build(source,destination,cue,wanted,progress)
  if fast is not None:return fast
- tools=ROOT/"Randomizer/tools"
+ tools=ROOT/"tools" if (ROOT/"tools/mkpsxiso.exe").is_file() else ROOT/"Randomizer/tools"   # (AlundraMaker keeps them in tools)
  for name in ("dumpsxiso.exe","mkpsxiso.exe"):
   if not (tools/name).is_file():raise ValueError(f"Missing bundled build tool: {name}")
  private=ROOT/"private-inputs";private.mkdir(exist_ok=True)
