@@ -1,0 +1,365 @@
+{
+  "runtime": "pass",
+  "evidence": "private-inputs\\editor-100-case-tests\\route-recovery-v51\\runtime-1",
+  "scope": "Right/left autonomous C loop with empty Contents at native100 speed",
+  "fixture_hashes": {
+    "compiled_datas_sha256": "f73c89a38515c10c5d580ede9d4f64b10b860fa93c58eb31ac8dfa115d1a29b7",
+    "datas_sha256": "81e144f7023760f22e591e38052754b2c11a10b1886bc4d0baa45cd66a5492a2",
+    "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981"
+  },
+  "payload_archive": "private-inputs\\editor-100-case-tests\\route-recovery-v51\\test-route.payloads.zip",
+  "blocked_frames": [
+    3850,
+    4010
+  ],
+  "blocked_count": 161,
+  "blocked_cursor": 2149037696,
+  "before": {
+    "turns": 32,
+    "low_x": 204.75,
+    "high_x": 228.75,
+    "changes": [
+      {
+        "frame": 3318,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3335,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3352,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3369,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3386,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3403,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3420,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3437,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3454,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3471,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3488,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3505,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3522,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3539,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3556,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3573,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3590,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3607,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3624,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3641,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3658,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3675,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3692,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3709,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3726,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3743,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3760,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3777,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3794,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3811,
+        "direction": 24,
+        "x": 204.75
+      },
+      {
+        "frame": 3828,
+        "direction": 8,
+        "x": 228.75
+      },
+      {
+        "frame": 3845,
+        "direction": 24,
+        "x": 204.75
+      }
+    ]
+  },
+  "after": {
+    "turns": 33,
+    "low_x": 205.71875,
+    "high_x": 229.71875,
+    "changes": [
+      {
+        "frame": 4042,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4059,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4076,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4093,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4110,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4127,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4144,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4161,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4178,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4195,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4212,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4229,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4246,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4263,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4280,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4297,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4314,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4331,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4348,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4365,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4382,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4399,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4416,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4433,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4450,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4467,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4484,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4501,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4518,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4535,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4552,
+        "direction": 24,
+        "x": 205.71875
+      },
+      {
+        "frame": 4569,
+        "direction": 8,
+        "x": 229.71875
+      },
+      {
+        "frame": 4586,
+        "direction": 24,
+        "x": 205.71875
+      }
+    ]
+  },
+  "collision_baseline_translation_x": 0.96875,
+  "ram_writes": false,
+  "savestate_used": false,
+  "sound_volume": 0,
+  "limitations": [
+    "Native collision can translate relative route baseline once",
+    "Other routes/classes and authored interaction interruption need independent proof",
+    "No per-instance speed or memory-card persistence proof"
+  ]
+}

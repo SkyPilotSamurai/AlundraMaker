@@ -1,0 +1,3 @@
+mkpsxiso.exe and dumpsxiso.exe are MKPSXISO 2.02 by John "Lameguy" Wilbert Villamor
+(Lameguy64) and contributors, distributed unmodified under the GNU General Public
+License v2. Source code: https://github.com/Lameguy64/mkpsxiso (tag v2.02).

@@ -1,0 +1,34 @@
+{
+  "runtime": "pass_scoped",
+  "catalogue": 303,
+  "evidence": "private-inputs\\editor-100-case-tests\\book-303-interact-v5\\runtime-1",
+  "actual_editor_module_source": null,
+  "fixture_hashes": {
+    "datas_sha256": "95fa46e0cf368e9b4a45d415da8542179df8bf149cf1a5a739dbcf381ae53146",
+    "exe_sha256": "8f5642f83ccb8135b881244affca3036012f95af165c880af32862911239974c"
+  },
+  "dialog_frame": 3422,
+  "reward_frame": 3740,
+  "text_held_frames": 180,
+  "final_money": 14,
+  "deliberate_second_interaction": {
+    "dialog_frame": 4023,
+    "reward_frame": 4364,
+    "text_held_frames": 180
+  },
+  "button_interaction": {
+    "no_button_contact_frames": 91,
+    "native_flag_mask": "00008000",
+    "runtime_F": "FFFFFF88",
+    "manual_F_restore": false
+  },
+  "scope": "New hook-free Book retained Interact text hold/close then Money7; native graphic survives",
+  "production_compiler": true,
+  "no_ram_writes": true,
+  "no_savestates": true,
+  "sound_volume": 0,
+  "limitations": [
+    "Bounded Book profile only",
+    "No arbitrary existing stock hook replacement, activation, movement or save persistence proof"
+  ]
+}

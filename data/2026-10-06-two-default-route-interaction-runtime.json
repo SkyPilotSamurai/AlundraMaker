@@ -1,0 +1,82 @@
+{
+  "runtime": "pass",
+  "scope": "Indexed two-NPC Jess\u2192Beaumont\u2192Jess immediate interaction, blocked-route restoration and repeat isolation",
+  "evidence": "private-inputs\\editor-100-case-tests\\two-default-routes-v1\\runtime-1",
+  "fixture_hashes": {
+    "datas_sha256": "d63dc6e8acd4422031265dce352e30931d00a45a713dcc4c32fc8d497aa5103e",
+    "exe_sha256": "8727ebd44824be747449843ef90583b3bb9a5e7e153f076a1ef559058b85255e"
+  },
+  "interactions": [
+    {
+      "stage": 0,
+      "ref": 18,
+      "held_frames": 212,
+      "held_money": 0,
+      "restored_cursor": 2149033184,
+      "snapshot_owner": 2149246440,
+      "money_after_close": 1
+    },
+    {
+      "stage": 1,
+      "ref": 19,
+      "held_frames": 217,
+      "held_money": 1,
+      "restored_cursor": 2149033240,
+      "snapshot_owner": 2149247100,
+      "money_after_close": 2
+    },
+    {
+      "stage": 2,
+      "ref": 18,
+      "held_frames": 209,
+      "held_money": 2,
+      "restored_cursor": 2149033184,
+      "snapshot_owner": 2149246440,
+      "money_after_close": 3
+    }
+  ],
+  "resumed_routes": [
+    {
+      "ref": 18,
+      "turns": 17,
+      "endpoints": {
+        "8": 229.71875,
+        "24": 205.71875
+      }
+    },
+    {
+      "ref": 19,
+      "turns": 17,
+      "endpoints": {
+        "8": 301.015625,
+        "24": 277.015625
+      }
+    }
+  ],
+  "money_final": 3,
+  "prefix_readback": {
+    "load_address": 2147608576,
+    "length": 6144,
+    "mutable_state_address": 2147611648,
+    "mutable_state_length": 1024,
+    "expected_sha256": "366e4c375eba5ceeb658f9720825ccdb77b7c34420c14b5a7cd4006bcaef7bf2",
+    "extra_mutable_ranges": [
+      {
+        "address": 2147611488,
+        "size": 160
+      }
+    ],
+    "immutable_prefix_unchanged": true,
+    "final_sha256_including_state": "af587a8821c936bcaf6ae5824b77e85d2f3f57befc2d3d6e7f2ad333371d990a",
+    "final_switch0": 0,
+    "final_variable0": 0
+  },
+  "ram_writes": false,
+  "savestate_used": false,
+  "sound_volume": 0,
+  "production": false,
+  "limitations": [
+    "Two tested NPC classes/right-left loop only",
+    "No save or hardware certification"
+  ]
+}

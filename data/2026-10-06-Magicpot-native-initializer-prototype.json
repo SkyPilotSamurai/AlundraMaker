@@ -1,0 +1,229 @@
+{
+  "scope": "Owned C initializer prototype only; no production or all-object audit pass inherited",
+  "fixture": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\fixture.json",
+  "fixture_fingerprints": {
+    "compiled_datas_sha256": "0027a425ebacba9a313d5e0c529ad04c5fa5615c1910f300ead9d6a74b61945b",
+    "datas_sha256": "43ead244df74d43200d5a8ffb68b403a31240cdfc1b966471add8805c5670a5e",
+    "exe_sha256": "8f5642f83ccb8135b881244affca3036012f95af165c880af32862911239974c"
+  },
+  "test_only_changes": "C initializer 1A01/400200/FF plus five NewGame player/camera instructions; native A20 and C74 preserved",
+  "ram_writes": false,
+  "savestate_used": false,
+  "production_compiler_unchanged": true,
+  "source_commit": "242b09a20ae1186c90278ba5f15f0f9a84104ef4",
+  "source_paths": {
+    "A": "AlundraTools/AlundraEngine/Gameplay/Scripts/FunctionTypeA.cs:172",
+    "C": "AlundraTools/AlundraEngine/Gameplay/Scripts/FunctionTypeC.cs:6987"
+  },
+  "native_module": "stock USA v1.1 ALUN_CD.EXE",
+  "native_module_sha256": "12f12eafa3e34dac6aca40b52f4f85f95811d40de7e48db77c52a35aa18833a3",
+  "observed_native_instructions": [
+    {
+      "virtual_address": "0x80063bcc",
+      "file_offset": "0x443cc",
+      "word": "0x8c82011c",
+      "meaning": "LW V0, entity+11C(A0): native Z read",
+      "native_width_bits": 32
+    },
+    {
+      "virtual_address": "0x80063bd4",
+      "file_offset": "0x443d4",
+      "word": "0xac820274",
+      "meaning": "SW V0, entity+274(A0): native saved Z write",
+      "native_width_bits": 32
+    },
+    {
+      "virtual_address": "0x8007e544",
+      "file_offset": "0x5ed44",
+      "word": "0x3c020009",
+      "meaning": "LUI V0,9",
+      "native_width_bits": 32
+    },
+    {
+      "virtual_address": "0x8007e548",
+      "file_offset": "0x5ed48",
+      "word": "0x34428000",
+      "meaning": "ORI V0,V0,8000: 9.5 fixed-point",
+      "native_width_bits": 32
+    },
+    {
+      "virtual_address": "0x8007e54c",
+      "file_offset": "0x5ed4c",
+      "word": "0x3c01801b",
+      "meaning": "LUI AT,801B",
+      "native_width_bits": 32
+    },
+    {
+      "virtual_address": "0x8007e550",
+      "file_offset": "0x5ed50",
+      "word": "0xac22c7b0",
+      "meaning": "SW V0, C7B0(AT): player ForceZ physical1AC7B0",
+      "native_width_bits": 32
+    }
+  ],
+  "runs": [
+    {
+      "attempt": 1,
+      "controller": "natural player jumps",
+      "trace": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\runtime-1\\bounce.csv",
+      "runtime_directory": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\runtime-1",
+      "completion": "arrival=2762 combat=2868 enemy_seen=true player_hp=10 route_recoveries=0 carried_at=nil",
+      "animations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saved_z_values": [
+        1048577
+      ],
+      "native_callbacks": [
+        [
+          20,
+          74
+        ]
+      ],
+      "runtime_C_roots": [
+        0,
+        4294967173
+      ],
+      "player_z_range": [
+        16.00002,
+        115.00002
+      ],
+      "player_riding_samples": 65,
+      "observed_post_update_0x90000_launch_samples": [],
+      "owned_pid_closed": true
+    },
+    {
+      "attempt": 2,
+      "controller": "natural player jumps",
+      "trace": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\runtime-2\\bounce.csv",
+      "runtime_directory": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\runtime-2",
+      "completion": "arrival=2762 combat=2868 enemy_seen=true player_hp=10 route_recoveries=0 carried_at=nil",
+      "animations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "saved_z_values": [
+        1048577
+      ],
+      "native_callbacks": [
+        [
+          20,
+          74
+        ]
+      ],
+      "runtime_C_roots": [
+        0,
+        4294967173
+      ],
+      "player_z_range": [
+        16.00002,
+        115.00002
+      ],
+      "player_riding_samples": 317,
+      "observed_post_update_0x90000_launch_samples": [
+        {
+          "frame": "3073",
+          "status": "2",
+          "animation": "5",
+          "z": "4.00002",
+          "saved_z_bytes274": "1048577",
+          "runtime_A_root": "0",
+          "runtime_C_root": "0",
+          "native_A": "20",
+          "native_C": "74",
+          "player_riding_ptr": "0",
+          "player_z": "38.50002",
+          "player_force_z_raw": "589824"
+        },
+        {
+          "frame": "3193",
+          "status": "2",
+          "animation": "5",
+          "z": "4.00002",
+          "saved_z_bytes274": "1048577",
+          "runtime_A_root": "0",
+          "runtime_C_root": "0",
+          "native_A": "20",
+          "native_C": "74",
+          "player_riding_ptr": "0",
+          "player_z": "38.50002",
+          "player_force_z_raw": "589824"
+        },
+        {
+          "frame": "3313",
+          "status": "2",
+          "animation": "5",
+          "z": "4.00002",
+          "saved_z_bytes274": "1048577",
+          "runtime_A_root": "0",
+          "runtime_C_root": "0",
+          "native_A": "20",
+          "native_C": "74",
+          "player_riding_ptr": "0",
+          "player_z": "38.50002",
+          "player_force_z_raw": "589824"
+        }
+      ],
+      "owned_pid_closed": true
+    },
+    {
+      "attempt": 3,
+      "controller": "standing without jump",
+      "trace": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\runtime-3\\bounce.csv",
+      "runtime_directory": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\runtime-3",
+      "completion": "arrival=2762 combat=2868 enemy_seen=true player_hp=10 route_recoveries=0 carried_at=nil",
+      "animations": [
+        0,
+        1,
+        2
+      ],
+      "saved_z_values": [
+        1048577
+      ],
+      "native_callbacks": [
+        [
+          20,
+          74
+        ]
+      ],
+      "runtime_C_roots": [
+        0,
+        4294967173
+      ],
+      "player_z_range": [
+        16.00002,
+        16.00002
+      ],
+      "player_riding_samples": 0,
+      "observed_post_update_0x90000_launch_samples": [],
+      "owned_pid_closed": true
+    }
+  ],
+  "historical_dormant_control": "data/2026-10-06-Magicpot-ironballs-runtime-partials.json",
+  "payload_archive": {
+    "disc_sha256": "48d96719f62a2671d8af351a75f967210df954f694d50efb09d6db717bc95338",
+    "datas_sha256": "43ead244df74d43200d5a8ffb68b403a31240cdfc1b966471add8805c5670a5e",
+    "exe_sha256": "8f5642f83ccb8135b881244affca3036012f95af165c880af32862911239974c",
+    "modules_preserved": [
+      "DATA/DATAS.BIN",
+      "ALUN_CD.EXE"
+    ],
+    "scope": "Exact tested module bytes; other assets remain in original input; no raw-sector reconstruction claim",
+    "archive": "private-inputs\\editor-100-case-tests\\OBJECT-409\\object-cold-fresh-safe-ez-direct-native-C-init-prototype-v2\\OBJECT-409-near.payloads.zip",
+    "archive_bytes": 62148704,
+    "verified": true
+  },
+  "limits": [
+    "No assigned activation event or room/save persistence test",
+    "No sound certification: muted emulator"
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "module": "ALUN_CD.EXE",
+  "sha256": "12f12eafa3e34dac6aca40b52f4f85f95811d40de7e48db77c52a35aa18833a3",
+  "build": "Local USA-labelled Rev1 input, exact fingerprint",
+  "native_sites": [
+    {
+      "virtual_address": "0x80039434",
+      "exe_offset": "0x19C34",
+      "words": [
+        "8E0501C4"
+      ]
+    },
+    {
+      "virtual_address": "0x80039464",
+      "exe_offset": "0x19C64",
+      "words": [
+        "90A3000E",
+        "00000000",
+        "10600009",
+        "24C20001",
+        "0043102A",
+        "10400004",
+        "00061040",
+        "00451021",
+        "0800E526",
+        "24420011",
+        "0800E526",
+        "24A2000F",
+        "00001021",
+        "AE0201C8"
+      ]
+    },
+    {
+      "virtual_address": "0x800455DC",
+      "exe_offset": "0x25DDC",
+      "words": [
+        "90870000",
+        "00000000",
+        "10E00068",
+        "30E2000F",
+        "00A21021",
+        "90490002",
+        "00000000",
+        "312300C0"
+      ]
+    },
+    {
+      "virtual_address": "0x80045614",
+      "exe_offset": "0x25E14",
+      "words": [
+        "90880001",
+        "30E20080",
+        "10400021",
+        "01090018",
+        "3C028015",
+        "8C4233B0",
+        "00002821",
+        "244A0001",
+        "00021040",
+        "2447000F",
+        "3C01801F",
+        "00250821",
+        "8C239E68"
+      ]
+    },
+    {
+      "virtual_address": "0x80045654",
+      "exe_offset": "0x25E54",
+      "words": [
+        "9062000E",
+        "00000000",
+        "10400007",
+        "0142102A",
+        "10400003",
+        "00671021",
+        "080115A0",
+        "24420002",
+        "080115A0",
+        "2462000F",
+        "00001021",
+        "10400004",
+        "00000000",
+        "90420001",
+        "00000000",
+        "01024021",
+        "24A50008",
+        "28A20018",
+        "1440FFE7",
+        "01090018"
+      ]
+    },
+    {
+      "virtual_address": "0x800456A4",
+      "exe_offset": "0x25EA4",
+      "words": [
+        "00005812",
+        "000B1903",
+        "14600003",
+        "0066102A",
+        "24030001",
+        "0066102A",
+        "10400002",
+        "00002821",
+        "00C32823"
+      ]
+    },
+    {
+      "virtual_address": "0x800455FC",
+      "exe_offset": "0x25DFC",
+      "words": [
+        "10600005",
+        "24020040",
+        "10620049",
+        "00C01021",
+        "080115E3",
+        "00000000"
+      ]
+    },
+    {
+      "virtual_address": "0x8004572C",
+      "exe_offset": "0x25F2C",
+      "words": [
+        "3C02801B",
+        "8C42C6C8",
+        "00000000",
+        "04410014",
+        "00001021",
+        "3C02801B",
+        "8C42C6CC",
+        "00000000",
+        "30420800",
+        "1040000E",
+        "00001021"
+      ]
+    },
+    {
+      "virtual_address": "0x80045780",
+      "exe_offset": "0x25F80",
+      "words": [
+        "080115E3",
+        "00000000",
+        "00C01021",
+        "03E00008",
+        "00000000"
+      ]
+    }
+  ],
+  "routing": "count zero => null; animation+1 < count => pair animation+1; otherwise pair0",
+  "record_attack_count_offset": 14,
+  "record_pairs_offset": 15,
+  "pair_size": 2,
+  "native_attribute_width_bits": 8,
+  "native_power_width_bits": 8,
+  "entity_balance_pointer_offset": "0x1C4",
+  "entity_attack_pointer_offset": "0x1C8",
+  "native_pointer_width_bits": 32,
+  "equipped_animation_id_address": "0x801533B0",
+  "equipped_balance_pointer_base": "0x801E9E68",
+  "equipped_record_stride": 8,
+  "equipped_slots": 3,
+  "runtime_verified": false,
+  "contact_damage_identity_proven": false,
+  "weapon_charge_threshold_address": null,
+  "limitations": [
+    "Selected native routing/damage slices, not complete combat/AI",
+    "Fallback pair0 is shared, not universally contact damage",
+    "No charge duration or attack collision classification established"
+  ],
+  "balance_module": "DATA/BALANCE.BIN",
+  "balance_sha256": "6c3f125fc7a8709e75539df9b62f1cbeeec6bc48e7140c2e6d1575d4c642a9b2",
+  "local_samples": [
+    {
+      "entry": 0,
+      "record_offset": 1024,
+      "attack_count": 77,
+      "alias_entries": [
+        0
+      ],
+      "animation_routes": {
+        "0": {
+          "attribute": 0,
+          "power": 0,
+          "index": 1,
+          "attribute_offset": 1041,
+          "power_offset": 1042,
+          "fallback": false,
+          "uses_equipment_power": false,
+          "response_type": 0
+        },
+        "1": {
+          "attribute": 0,
+          "power": 0,
+          "index": 2,
+          "attribute_offset": 1043,
+          "power_offset": 1044,
+          "fallback": false,
+          "uses_equipment_power": false,
+          "response_type": 0
+        },
+        "16": {
+          "attribute": 129,
+          "power": 1,
+          "index": 17,
+          "attribute_offset": 1073,
+          "power_offset": 1074,
+          "fallback": false,
+          "uses_equipment_power": true,
+          "response_type": 1
+        },
+        "24": {
+          "attribute": 129,
+          "power": 8,
+          "index": 25,
+          "attribute_offset": 1089,
+          "power_offset": 1090,
+          "fallback": false,
+          "uses_equipment_power": true,
+          "response_type": 1
+        },
+        "25": {
+          "attribute": 130,
+          "power": 12,
+          "index": 26,
+          "attribute_offset": 1091,
+          "power_offset": 1092,
+          "fallback": false,
+          "uses_equipment_power": true,
+          "response_type": 2
+        }
+      }
+    },
+    {
+      "entry": 30,
+      "record_offset": 1686,
+      "attack_count": 0,
+      "alias_entries": [
+        30
+      ],
+      "animation_routes": {
+        "0": null,
+        "1": null,
+        "16": null,
+        "24": null,
+        "25": null
+      }
+    },
+    {
+      "entry": 31,
+      "record_offset": 1701,
+      "attack_count": 1,
+      "alias_entries": [
+        31
+      ],
+      "animation_routes": {
+        "0": {
+          "attribute": 1,
+          "power": 1,
+          "index": 0,
+          "attribute_offset": 1716,
+          "power_offset": 1717,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "1": {
+          "attribute": 1,
+          "power": 1,
+          "index": 0,
+          "attribute_offset": 1716,
+          "power_offset": 1717,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "16": {
+          "attribute": 1,
+          "power": 1,
+          "index": 0,
+          "attribute_offset": 1716,
+          "power_offset": 1717,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "24": {
+          "attribute": 1,
+          "power": 1,
+          "index": 0,
+          "attribute_offset": 1716,
+          "power_offset": 1717,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "25": {
+          "attribute": 1,
+          "power": 1,
+          "index": 0,
+          "attribute_offset": 1716,
+          "power_offset": 1717,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        }
+      }
+    },
+    {
+      "entry": 32,
+      "record_offset": 1718,
+      "attack_count": 1,
+      "alias_entries": [
+        32
+      ],
+      "animation_routes": {
+        "0": {
+          "attribute": 1,
+          "power": 2,
+          "index": 0,
+          "attribute_offset": 1733,
+          "power_offset": 1734,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "1": {
+          "attribute": 1,
+          "power": 2,
+          "index": 0,
+          "attribute_offset": 1733,
+          "power_offset": 1734,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "16": {
+          "attribute": 1,
+          "power": 2,
+          "index": 0,
+          "attribute_offset": 1733,
+          "power_offset": 1734,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "24": {
+          "attribute": 1,
+          "power": 2,
+          "index": 0,
+          "attribute_offset": 1733,
+          "power_offset": 1734,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "25": {
+          "attribute": 1,
+          "power": 2,
+          "index": 0,
+          "attribute_offset": 1733,
+          "power_offset": 1734,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        }
+      }
+    },
+    {
+      "entry": 33,
+      "record_offset": 1735,
+      "attack_count": 1,
+      "alias_entries": [
+        33
+      ],
+      "animation_routes": {
+        "0": {
+          "attribute": 1,
+          "power": 4,
+          "index": 0,
+          "attribute_offset": 1750,
+          "power_offset": 1751,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "1": {
+          "attribute": 1,
+          "power": 4,
+          "index": 0,
+          "attribute_offset": 1750,
+          "power_offset": 1751,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "16": {
+          "attribute": 1,
+          "power": 4,
+          "index": 0,
+          "attribute_offset": 1750,
+          "power_offset": 1751,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "24": {
+          "attribute": 1,
+          "power": 4,
+          "index": 0,
+          "attribute_offset": 1750,
+          "power_offset": 1751,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        },
+        "25": {
+          "attribute": 1,
+          "power": 4,
+          "index": 0,
+          "attribute_offset": 1750,
+          "power_offset": 1751,
+          "fallback": true,
+          "uses_equipment_power": false,
+          "response_type": 1
+        }
+      }
+    },
+    {
+      "entry": 128,
+      "record_offset": 3170,
+      "attack_count": 0,
+      "alias_entries": [
+        128
+      ],
+      "animation_routes": {
+        "0": null,
+        "1": null,
+        "16": null,
+        "24": null,
+        "25": null
+      }
+    },
+    {
+      "entry": 257,
+      "record_offset": 5341,
+      "attack_count": 0,
+      "alias_entries": [
+        257
+      ],
+      "animation_routes": {
+        "0": null,
+        "1": null,
+        "16": null,
+        "24": null,
+        "25": null
+      }
+    }
+  ],
+  "in_memory_stock_validation": {
+    "entry": 0,
+    "animation": 24,
+    "selected_pair": 25,
+    "changed_offsets": [
+      1090
+    ],
+    "expected_power_offset": 1090,
+    "undo_exact": true,
+    "original_input_sha256": "6c3f125fc7a8709e75539df9b62f1cbeeec6bc48e7140c2e6d1575d4c642a9b2",
+    "file_write_performed": false
+  }
+}

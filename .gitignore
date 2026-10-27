@@ -1,0 +1,11 @@
+private-inputs/
+Output/
+build/
+*.bin
+*.cue
+*.iso
+*.EXE
+*.exe
+*.zip
+__pycache__/
+*.pyc

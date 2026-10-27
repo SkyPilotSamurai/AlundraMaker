@@ -1,0 +1,87 @@
+{
+  "experimental": true,
+  "production_guard_retained": true,
+  "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v1\\test-route.bin",
+  "datas_sha256": "edb3b970a39365c4f4c54d5e02aed3ae5e134c70d4ddbee2b29cc7f0a8d729e4",
+  "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+  "programs": {
+    "C": "ff",
+    "F": "6604000009101a011e100009001a011e10001a0000980100ff"
+  },
+  "allocations": {
+    "C": {
+      "map_id": 163,
+      "bank": "C",
+      "root_index": 5,
+      "hook_value": 133,
+      "code_bytes": 1,
+      "preserved_code_bytes": 7688,
+      "existing_entities": 19,
+      "existing_map_events": 4,
+      "sprite_info_growth": 8212,
+      "gameplay_verified": false
+    },
+    "F": {
+      "map_id": 163,
+      "bank": "F",
+      "root_index": 8,
+      "hook_value": 136,
+      "code_bytes": 25,
+      "preserved_code_bytes": 7690,
+      "existing_entities": 19,
+      "existing_map_events": 4,
+      "sprite_info_growth": 8240,
+      "gameplay_verified": false
+    }
+  },
+  "profile": {
+    "kind": "new-fixed-npc-owned-route",
+    "catalogue": 260,
+    "source": "native F opcode66 transfers cursor/context to owned C",
+    "blocked_behavior": "wait",
+    "moving_animation": 1,
+    "idle_animation": 0,
+    "speed_percent": 100,
+    "limits": [
+      "New fixed NPC only",
+      "Native shared movement speed only",
+      "Physical touch interruption requires runtime validation",
+      "No repeated/default route or arbitrary-object AI replacement"
+    ],
+    "runtime_verified": false
+  },
+  "test_only_new_game_spawn": true,
+  "test_only_shared_speed_percent": 100,
+  "route": [
+    "up",
+    "down"
+  ],
+  "entity_ref": 18,
+  "observations": {
+    "runtime": "pass",
+    "cold_boot": true,
+    "ram_writes": false,
+    "savestate_used": false,
+    "observed_walking_direction_order": [
+      16,
+      0
+    ],
+    "blocked_frames": 110,
+    "blocked_range": [
+      3846,
+      3955
+    ],
+    "resume_frame": 3966,
+    "reward_frame": 4000,
+    "stable_reward_frames": 556,
+    "first_position": [
+      13369344,
+      16252928
+    ],
+    "final_position": [
+      13369344,
+      16252927
+    ],
+    "log": "private-inputs\\editor-100-case-tests\\route-recovery-v1\\runtime-1\\route.csv"
+  }
+}

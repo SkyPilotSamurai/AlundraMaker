@@ -1,0 +1,712 @@
+{
+  "cases": [
+    {
+      "experimental": true,
+      "production_route_compiler": false,
+      "compiled_datas_sha256": "89b4b7fdd98182dd65b017be91ff9345e818d67d04ff0527d3a7a8c5c08335b4",
+      "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v11\\test-route.bin",
+      "datas_sha256": "ba4e7f6625aaba0fdc8dd1651e9f6dbdb3584a448349fe9cf769b07c68f2aa0d",
+      "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+      "programs": {
+        "C": "ff",
+        "F": "6604000009101a011e100009001a011e10001a0000980100ff"
+      },
+      "allocations": {
+        "C": {
+          "map_id": 163,
+          "bank": "C",
+          "root_index": 5,
+          "hook_value": 133,
+          "code_bytes": 1,
+          "preserved_code_bytes": 1184,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1708,
+          "gameplay_verified": false
+        },
+        "F": {
+          "map_id": 163,
+          "bank": "F",
+          "root_index": 8,
+          "hook_value": 136,
+          "code_bytes": 25,
+          "preserved_code_bytes": 1186,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1736,
+          "gameplay_verified": false
+        }
+      },
+      "profile": {
+        "kind": "new-fixed-npc-owned-route",
+        "catalogue": 256,
+        "source": "native F opcode66 transfers cursor/context to owned C",
+        "blocked_behavior": "wait",
+        "moving_animation": 1,
+        "idle_animation": 0,
+        "speed_percent": 100,
+        "limits": [
+          "New fixed NPC only",
+          "Native shared movement speed only",
+          "Physical touch interruption requires runtime validation",
+          "No repeated/default route or arbitrary-object AI replacement"
+        ],
+        "runtime_verified": false
+      },
+      "test_only_new_game_spawn": true,
+      "test_only_shared_speed_percent": 100,
+      "route": [
+        "up",
+        "down"
+      ],
+      "entity_ref": 18,
+      "after_route_reward": true,
+      "observations": {
+        "runtime": "pass",
+        "cold_boot": true,
+        "ram_writes": false,
+        "savestate_used": false,
+        "observed_walking_direction_order": [
+          16,
+          0
+        ],
+        "distance_wait_cursors": [
+          2149028758,
+          2149028765
+        ],
+        "blocked_frames": 110,
+        "blocked_range": [
+          3798,
+          3907
+        ],
+        "resume_frame": 3918,
+        "reward_frame": 3952,
+        "completed_frame": 3951,
+        "stable_reward_frames": 556,
+        "first_position": [
+          13369344,
+          16252928
+        ],
+        "final_position": [
+          13369344,
+          16252927
+        ],
+        "log": "private-inputs\\editor-100-case-tests\\route-recovery-v11\\runtime-1\\route.csv"
+      }
+    },
+    {
+      "experimental": true,
+      "production_route_compiler": false,
+      "compiled_datas_sha256": "767c08e0cc816726ce2f9a7c758cdecc3195f5dec645ede783906a79c7438334",
+      "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v12\\test-route.bin",
+      "datas_sha256": "1939eb01d7d342a033460d107838790c307252e332726ef7a4a22a9b9affcc0e",
+      "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+      "programs": {
+        "C": "ff",
+        "F": "6604000009101a011e100009001a011e10001a0000980100ff"
+      },
+      "allocations": {
+        "C": {
+          "map_id": 163,
+          "bank": "C",
+          "root_index": 5,
+          "hook_value": 133,
+          "code_bytes": 1,
+          "preserved_code_bytes": 1184,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1708,
+          "gameplay_verified": false
+        },
+        "F": {
+          "map_id": 163,
+          "bank": "F",
+          "root_index": 8,
+          "hook_value": 136,
+          "code_bytes": 25,
+          "preserved_code_bytes": 1186,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1736,
+          "gameplay_verified": false
+        }
+      },
+      "profile": {
+        "kind": "new-fixed-npc-owned-route",
+        "catalogue": 265,
+        "source": "native F opcode66 transfers cursor/context to owned C",
+        "blocked_behavior": "wait",
+        "moving_animation": 1,
+        "idle_animation": 0,
+        "speed_percent": 100,
+        "limits": [
+          "New fixed NPC only",
+          "Native shared movement speed only",
+          "Physical touch interruption requires runtime validation",
+          "No repeated/default route or arbitrary-object AI replacement"
+        ],
+        "runtime_verified": false
+      },
+      "test_only_new_game_spawn": true,
+      "test_only_shared_speed_percent": 100,
+      "route": [
+        "up",
+        "down"
+      ],
+      "entity_ref": 18,
+      "after_route_reward": true,
+      "observations": {
+        "runtime": "pass",
+        "cold_boot": true,
+        "ram_writes": false,
+        "savestate_used": false,
+        "observed_walking_direction_order": [
+          16,
+          0
+        ],
+        "distance_wait_cursors": [
+          2149028618,
+          2149028625
+        ],
+        "blocked_frames": 110,
+        "blocked_range": [
+          3846,
+          3955
+        ],
+        "resume_frame": 3966,
+        "reward_frame": 4000,
+        "completed_frame": 3999,
+        "stable_reward_frames": 556,
+        "first_position": [
+          13369344,
+          16252928
+        ],
+        "final_position": [
+          13369344,
+          16252927
+        ],
+        "log": "private-inputs\\editor-100-case-tests\\route-recovery-v12\\runtime-1\\route.csv"
+      }
+    },
+    {
+      "experimental": true,
+      "production_route_compiler": false,
+      "compiled_datas_sha256": "ee1da25b52ea944a93439e09104bd04d0faccc7f20a2263758c8630eaa65a59c",
+      "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v13\\test-route.bin",
+      "datas_sha256": "bc2e5beb65eb8d4341f918500e589e27aa413532726a8156a05117fd085b8b95",
+      "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+      "programs": {
+        "C": "ff",
+        "F": "6604000009101a011e100009001a011e10001a0000980100ff"
+      },
+      "allocations": {
+        "C": {
+          "map_id": 163,
+          "bank": "C",
+          "root_index": 5,
+          "hook_value": 133,
+          "code_bytes": 1,
+          "preserved_code_bytes": 1184,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1708,
+          "gameplay_verified": false
+        },
+        "F": {
+          "map_id": 163,
+          "bank": "F",
+          "root_index": 8,
+          "hook_value": 136,
+          "code_bytes": 25,
+          "preserved_code_bytes": 1186,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1736,
+          "gameplay_verified": false
+        }
+      },
+      "profile": {
+        "kind": "new-fixed-npc-owned-route",
+        "catalogue": 268,
+        "source": "native F opcode66 transfers cursor/context to owned C",
+        "blocked_behavior": "wait",
+        "moving_animation": 1,
+        "idle_animation": 0,
+        "speed_percent": 100,
+        "limits": [
+          "New fixed NPC only",
+          "Native shared movement speed only",
+          "Physical touch interruption requires runtime validation",
+          "No repeated/default route or arbitrary-object AI replacement"
+        ],
+        "runtime_verified": false
+      },
+      "test_only_new_game_spawn": true,
+      "test_only_shared_speed_percent": 100,
+      "route": [
+        "up",
+        "down"
+      ],
+      "entity_ref": 18,
+      "after_route_reward": true,
+      "observations": {
+        "runtime": "pass",
+        "cold_boot": true,
+        "ram_writes": false,
+        "savestate_used": false,
+        "observed_walking_direction_order": [
+          16,
+          0
+        ],
+        "distance_wait_cursors": [
+          2149029034,
+          2149029041
+        ],
+        "blocked_frames": 110,
+        "blocked_range": [
+          3798,
+          3907
+        ],
+        "resume_frame": 3918,
+        "reward_frame": 3952,
+        "completed_frame": 3951,
+        "stable_reward_frames": 556,
+        "first_position": [
+          13369344,
+          16252928
+        ],
+        "final_position": [
+          13369344,
+          16252928
+        ],
+        "log": "private-inputs\\editor-100-case-tests\\route-recovery-v13\\runtime-2\\route.csv"
+      }
+    },
+    {
+      "experimental": true,
+      "production_route_compiler": false,
+      "compiled_datas_sha256": "d396c7c3d056f392001624b64f607ec4f7612b88774f4ff7eefcd78df66dcd93",
+      "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v15\\test-route.bin",
+      "datas_sha256": "faa5aa572ee3fbe098fcb38cdff7cd567cbf248d422c87e6e9dbd8a87f34bd06",
+      "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+      "programs": {
+        "C": "ff",
+        "F": "6604000009101a011e100009081a011e180009001a011e100009181a011e18001a0000980100ff"
+      },
+      "allocations": {
+        "C": {
+          "map_id": 163,
+          "bank": "C",
+          "root_index": 5,
+          "hook_value": 133,
+          "code_bytes": 1,
+          "preserved_code_bytes": 1184,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1708,
+          "gameplay_verified": false
+        },
+        "F": {
+          "map_id": 163,
+          "bank": "F",
+          "root_index": 8,
+          "hook_value": 136,
+          "code_bytes": 39,
+          "preserved_code_bytes": 1186,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1752,
+          "gameplay_verified": false
+        }
+      },
+      "profile": {
+        "kind": "new-fixed-npc-owned-route",
+        "catalogue": 256,
+        "source": "native F opcode66 transfers cursor/context to owned C",
+        "blocked_behavior": "wait",
+        "moving_animation": 1,
+        "idle_animation": 0,
+        "speed_percent": 100,
+        "limits": [
+          "New fixed NPC only",
+          "Native shared movement speed only",
+          "Physical touch interruption requires runtime validation",
+          "No repeated/default route or arbitrary-object AI replacement"
+        ],
+        "runtime_verified": false
+      },
+      "test_only_new_game_spawn": true,
+      "test_only_shared_speed_percent": 100,
+      "route": [
+        "up",
+        "left",
+        "down",
+        "right"
+      ],
+      "entity_ref": 18,
+      "after_route_reward": true,
+      "observations": {
+        "runtime": "pass",
+        "cold_boot": true,
+        "ram_writes": false,
+        "savestate_used": false,
+        "observed_walking_direction_order": [
+          16,
+          8,
+          0,
+          24
+        ],
+        "distance_wait_cursors": [
+          2149028758,
+          2149028765,
+          2149028772,
+          2149028779
+        ],
+        "blocked_frames": 110,
+        "blocked_range": [
+          3798,
+          3907
+        ],
+        "resume_frame": 3918,
+        "reward_frame": 3986,
+        "completed_frame": 3985,
+        "stable_reward_frames": 522,
+        "first_position": [
+          13369344,
+          16252928
+        ],
+        "final_position": [
+          13320192,
+          16285696
+        ],
+        "log": "private-inputs\\editor-100-case-tests\\route-recovery-v15\\runtime-1\\route.csv"
+      }
+    },
+    {
+      "experimental": true,
+      "production_route_compiler": false,
+      "compiled_datas_sha256": "744453b8b51b29d6be1beeecb33791c108b478a8b78ab4abae5d5858140f63d6",
+      "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v16\\test-route.bin",
+      "datas_sha256": "bb7f8a637a9e71c1c0ddb3e098e68cc244a3fb0b3f411ce8b03734a439b95bb9",
+      "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+      "programs": {
+        "C": "ff",
+        "F": "6604000009101a011e100009081a011e180009001a011e100009181a011e18001a0000980100ff"
+      },
+      "allocations": {
+        "C": {
+          "map_id": 163,
+          "bank": "C",
+          "root_index": 5,
+          "hook_value": 133,
+          "code_bytes": 1,
+          "preserved_code_bytes": 1184,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1708,
+          "gameplay_verified": false
+        },
+        "F": {
+          "map_id": 163,
+          "bank": "F",
+          "root_index": 8,
+          "hook_value": 136,
+          "code_bytes": 39,
+          "preserved_code_bytes": 1186,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1752,
+          "gameplay_verified": false
+        }
+      },
+      "profile": {
+        "kind": "new-fixed-npc-owned-route",
+        "catalogue": 265,
+        "source": "native F opcode66 transfers cursor/context to owned C",
+        "blocked_behavior": "wait",
+        "moving_animation": 1,
+        "idle_animation": 0,
+        "speed_percent": 100,
+        "limits": [
+          "New fixed NPC only",
+          "Native shared movement speed only",
+          "Physical touch interruption requires runtime validation",
+          "No repeated/default route or arbitrary-object AI replacement"
+        ],
+        "runtime_verified": false
+      },
+      "test_only_new_game_spawn": true,
+      "test_only_shared_speed_percent": 100,
+      "route": [
+        "up",
+        "left",
+        "down",
+        "right"
+      ],
+      "entity_ref": 18,
+      "after_route_reward": true,
+      "observations": {
+        "runtime": "pass",
+        "cold_boot": true,
+        "ram_writes": false,
+        "savestate_used": false,
+        "observed_walking_direction_order": [
+          16,
+          8,
+          0,
+          24
+        ],
+        "distance_wait_cursors": [
+          2149028618,
+          2149028625,
+          2149028632,
+          2149028639
+        ],
+        "blocked_frames": 110,
+        "blocked_range": [
+          3846,
+          3955
+        ],
+        "resume_frame": 3966,
+        "reward_frame": 4034,
+        "completed_frame": 4033,
+        "stable_reward_frames": 522,
+        "first_position": [
+          13369344,
+          16252928
+        ],
+        "final_position": [
+          13320192,
+          16285696
+        ],
+        "log": "private-inputs\\editor-100-case-tests\\route-recovery-v16\\runtime-1\\route.csv"
+      }
+    },
+    {
+      "experimental": true,
+      "production_route_compiler": false,
+      "compiled_datas_sha256": "fd8878b3063970dbcb2282e91b80f61576d5f531179e1b7a26d2122d37cfad01",
+      "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v17\\test-route.bin",
+      "datas_sha256": "6c4e08c453d038a055bcebebc9e73508a917130e415052dbe68032142b5f6e77",
+      "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+      "programs": {
+        "C": "ff",
+        "F": "6604000009101a011e100009081a011e180009001a011e100009181a011e18001a0000980100ff"
+      },
+      "allocations": {
+        "C": {
+          "map_id": 163,
+          "bank": "C",
+          "root_index": 5,
+          "hook_value": 133,
+          "code_bytes": 1,
+          "preserved_code_bytes": 1184,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1708,
+          "gameplay_verified": false
+        },
+        "F": {
+          "map_id": 163,
+          "bank": "F",
+          "root_index": 8,
+          "hook_value": 136,
+          "code_bytes": 39,
+          "preserved_code_bytes": 1186,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1752,
+          "gameplay_verified": false
+        }
+      },
+      "profile": {
+        "kind": "new-fixed-npc-owned-route",
+        "catalogue": 268,
+        "source": "native F opcode66 transfers cursor/context to owned C",
+        "blocked_behavior": "wait",
+        "moving_animation": 1,
+        "idle_animation": 0,
+        "speed_percent": 100,
+        "limits": [
+          "New fixed NPC only",
+          "Native shared movement speed only",
+          "Physical touch interruption requires runtime validation",
+          "No repeated/default route or arbitrary-object AI replacement"
+        ],
+        "runtime_verified": false
+      },
+      "test_only_new_game_spawn": true,
+      "test_only_shared_speed_percent": 100,
+      "route": [
+        "up",
+        "left",
+        "down",
+        "right"
+      ],
+      "entity_ref": 18,
+      "after_route_reward": true,
+      "observations": {
+        "runtime": "pass",
+        "cold_boot": true,
+        "ram_writes": false,
+        "savestate_used": false,
+        "observed_walking_direction_order": [
+          16,
+          8,
+          0,
+          24
+        ],
+        "distance_wait_cursors": [
+          2149029034,
+          2149029041,
+          2149029048,
+          2149029055
+        ],
+        "blocked_frames": 110,
+        "blocked_range": [
+          3798,
+          3907
+        ],
+        "resume_frame": 3918,
+        "reward_frame": 3986,
+        "completed_frame": 3985,
+        "stable_reward_frames": 522,
+        "first_position": [
+          13369344,
+          16252928
+        ],
+        "final_position": [
+          13320192,
+          16285696
+        ],
+        "log": "private-inputs\\editor-100-case-tests\\route-recovery-v17\\runtime-1\\route.csv"
+      }
+    },
+    {
+      "experimental": true,
+      "production_route_compiler": false,
+      "compiled_datas_sha256": "65a24c26885e5e2c3b69bec42b6652c57528518438de2c651f815b7bdcc8e2ad",
+      "disc": "C:\\Users\\Comp\\Desktop\\Alundra Decomp\\private-inputs\\editor-100-case-tests\\route-recovery-v18\\test-route.bin",
+      "datas_sha256": "e660f09a58393a11fe868f0e72619a885b2d3c9c3b49346a004d3b7f2ed67100",
+      "exe_sha256": "807e95f1a9aadcfdc96adb7e3bf49f1281e40000a78ebe5c19089dc6b5edb981",
+      "programs": {
+        "C": "ff",
+        "F": "6604000009101a011e100009081a011e180009001a011e100009181a011e18001a0000980100ff",
+        "A": "62808000ff"
+      },
+      "allocations": {
+        "C": {
+          "map_id": 163,
+          "bank": "C",
+          "root_index": 5,
+          "hook_value": 133,
+          "code_bytes": 1,
+          "preserved_code_bytes": 1184,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1708,
+          "gameplay_verified": false
+        },
+        "F": {
+          "map_id": 163,
+          "bank": "F",
+          "root_index": 8,
+          "hook_value": 136,
+          "code_bytes": 39,
+          "preserved_code_bytes": 1186,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1752,
+          "gameplay_verified": false
+        },
+        "A": {
+          "map_id": 163,
+          "bank": "A",
+          "root_index": 4,
+          "hook_value": 132,
+          "code_bytes": 5,
+          "preserved_code_bytes": 1228,
+          "existing_entities": 19,
+          "existing_map_events": 4,
+          "sprite_info_growth": 1760,
+          "gameplay_verified": false
+        }
+      },
+      "profile": {
+        "kind": "new-fixed-npc-owned-route",
+        "catalogue": 289,
+        "source": "native F opcode66 transfers cursor/context to owned C",
+        "blocked_behavior": "wait",
+        "moving_animation": 1,
+        "idle_animation": 0,
+        "speed_percent": 100,
+        "limits": [
+          "New fixed NPC only",
+          "Native shared movement speed only",
+          "Physical touch interruption requires runtime validation",
+          "No repeated/default route or arbitrary-object AI replacement"
+        ],
+        "runtime_verified": false,
+        "experimental_self_collidable_flag": true
+      },
+      "test_only_new_game_spawn": true,
+      "test_only_shared_speed_percent": 100,
+      "route": [
+        "up",
+        "left",
+        "down",
+        "right"
+      ],
+      "entity_ref": 18,
+      "after_route_reward": true,
+      "observations": {
+        "runtime": "pass",
+        "cold_boot": true,
+        "ram_writes": false,
+        "savestate_used": false,
+        "observed_walking_direction_order": [
+          16,
+          8,
+          0,
+          24
+        ],
+        "distance_wait_cursors": [
+          2149030668,
+          2149030675,
+          2149030682,
+          2149030689
+        ],
+        "blocked_frames": 110,
+        "blocked_range": [
+          3846,
+          3955
+        ],
+        "resume_frame": 3965,
+        "reward_frame": 4033,
+        "completed_frame": 4032,
+        "stable_reward_frames": 523,
+        "first_position": [
+          13369344,
+          16252928
+        ],
+        "final_position": [
+          13320192,
+          16285696
+        ],
+        "log": "private-inputs\\editor-100-case-tests\\route-recovery-v18\\runtime-1\\route.csv"
+      }
+    }
+  ],
+  "preserved_failures": [
+    {
+      "catalogue": 268,
+      "log": "private-inputs/editor-100-case-tests/route-recovery-v13/runtime-1/route.csv",
+      "reason": "No interaction selected with3facingframes;20framesatthesamefixture selectsF, routepasses"
+    },
+    {
+      "catalogue": 289,
+      "log": "private-inputs/editor-100-case-tests/route-recovery-v14/runtime-1/route.csv",
+      "reason": "NoFinteraction selected, flags0x3A100 lacks0x80collision; A62newinstanceflagtestpending"
+    }
+  ]
+}
