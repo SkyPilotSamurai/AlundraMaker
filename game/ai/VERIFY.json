@@ -1,0 +1,5097 @@
+{
+ "80063930": {
+  "programs": [
+   "A0"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063930 ai_a0: 378/378 match",
+   "    coverage 3/3 instructions"
+  ]
+ },
+ "80063948": {
+  "programs": [
+   "A2"
+  ],
+  "maps": [
+   58,
+   8,
+   63,
+   3,
+   12,
+   52
+  ],
+  "only": "A2",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063948 ai_a2: 140/140 match",
+   "    coverage 22/22 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063948 ai_a2: 112/112 match",
+   "    coverage 22/22 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063948 ai_a2: 56/56 match",
+   "    coverage 22/22 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063948 ai_a2: 28/28 match",
+   "    coverage 22/22 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063948 ai_a2: 28/28 match",
+   "    coverage 22/22 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063948 ai_a2: 0/0 match",
+   "    coverage 0/22 instructions: never ran 80063948-8006399C"
+  ]
+ },
+ "800639AC": {
+  "programs": [
+   "A4"
+  ],
+  "maps": [
+   101,
+   102,
+   100,
+   103,
+   106,
+   125
+  ],
+  "only": "A4",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639AC ai_a4: 56/56 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639AC ai_a4: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639AC-800639B4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639AC ai_a4: 70/70 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639AC ai_a4: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639AC-800639B4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639AC ai_a4: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639AC-800639B4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639AC ai_a4: 42/42 match",
+   "    coverage 3/3 instructions"
+  ]
+ },
+ "800639C4": {
+  "programs": [
+   "A6"
+  ],
+  "maps": [
+   383,
+   386,
+   382,
+   2,
+   384
+  ],
+  "only": "A6",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639C4 ai_a6: 140/140 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639C4 ai_a6: 70/70 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639C4 ai_a6: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639C4-800639CC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639C4 ai_a6: 42/42 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639C4 ai_a6: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639C4-800639CC"
+  ]
+ },
+ "800639DC": {
+  "programs": [
+   "A8"
+  ],
+  "maps": [
+   76
+  ],
+  "only": "A8",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639DC ai_a8: 14/14 match",
+   "    coverage 5/5 instructions"
+  ]
+ },
+ "800639FC": {
+  "programs": [
+   "A10"
+  ],
+  "maps": [
+   25,
+   34,
+   399
+  ],
+  "only": "A10",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639FC ai_a10: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639FC-80063A04",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639FC ai_a10: 14/14 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639FC ai_a10: 14/14 match",
+   "    coverage 3/3 instructions"
+  ]
+ },
+ "80063A70": {
+  "programs": [
+   "A12"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "A12",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063A70 ai_a12: 56/56 match",
+   "    coverage 37/37 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063A70 ai_a12: 14/14 match",
+   "    coverage 37/37 instructions"
+  ]
+ },
+ "80063B1C": {
+  "programs": [
+   "A15"
+  ],
+  "maps": [
+   325
+  ],
+  "only": "A15",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063B1C ai_a15: 14/14 match",
+   "    coverage 26/26 instructions"
+  ]
+ },
+ "80063B98": {
+  "programs": [
+   "A17"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "A17",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063B98 ai_a17: 7/7 match",
+   "    coverage 6/6 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063B98 ai_a17: 35/35 match",
+   "    coverage 6/6 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063B98 ai_a17: 14/14 match",
+   "    coverage 6/6 instructions"
+  ]
+ },
+ "80063BC0": {
+  "programs": [
+   "A19"
+  ],
+  "maps": [
+   158,
+   88,
+   92,
+   87,
+   90,
+   94
+  ],
+  "only": "A19",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BC0 ai_a19: 70/70 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BC0 ai_a19: 98/98 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BC0 ai_a19: 0/0 match",
+   "    coverage 0/3 instructions: never ran 80063BC0-80063BC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BC0 ai_a19: 0/0 match",
+   "    coverage 0/3 instructions: never ran 80063BC0-80063BC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BC0 ai_a19: 0/0 match",
+   "    coverage 0/3 instructions: never ran 80063BC0-80063BC8"
+  ]
+ },
+ "80063BD8": {
+  "programs": [
+   "A21"
+  ],
+  "maps": [
+   435,
+   437,
+   436,
+   438
+  ],
+  "only": "A21",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BD8 ai_a21: 7/7 match",
+   "    coverage 33/33 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BD8 ai_a21: 7/7 match",
+   "    coverage 33/33 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BD8 ai_a21: 7/7 match",
+   "    coverage 33/33 instructions"
+  ]
+ },
+ "80063DBC": {
+  "programs": [
+   "A254"
+  ],
+  "maps": [
+   17,
+   48,
+   52
+  ],
+  "only": "A254",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063DBC ai_a254: 0/0 match",
+   "    coverage 0/2 instructions: never ran 80063DBC-80063DC0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063DBC ai_a254: 0/0 match",
+   "    coverage 0/2 instructions: never ran 80063DBC-80063DC0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063DBC ai_a254: 0/0 match",
+   "    coverage 0/2 instructions: never ran 80063DBC-80063DC0"
+  ]
+ },
+ "80063F08": {
+  "programs": [
+   "C88"
+  ],
+  "maps": [
+   471
+  ],
+  "only": "C88",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063F08 ai_c88: 14/14 match",
+   "    coverage 66/111 instructions: never ran 80063F38-80063F68 80063F94-80063FC8 80063FDC-80064020"
+  ]
+ },
+ "80064E14": {
+  "programs": [
+   "C90"
+  ],
+  "maps": [
+   471
+  ],
+  "only": "C90",
+  "ok": true,
+  "log": [
+   "m471_420.bin original stopped: memory 3153294C",
+   "m471_420.bin original stopped: memory 5328394C",
+   "m471_420.bin original stopped: memory E8140114",
+   "m471_420.bin original stopped: memory BFC0605C",
+   "m471_420.bin original stopped: memory 80808194",
+   "m471_420.bin original stopped: memory 3153294C",
+   "m471_420.bin original stopped: memory 3153294C",
+   "m471_420.bin original stopped: memory A8BFC173",
+   "m471_420.bin original stopped: memory 4C544A68",
+   "m471_420.bin original stopped: memory 80808194",
+   "m471_420.bin original stopped: memory BFC0605C",
+   "m471_420.bin original stopped: memory 5328394C",
+   "80064E14 ai_c90: 72/72 match",
+   "    coverage 180/777 instructions: never ran 80064E50-80064EBC 80064FD4 80064FFC 80065084-800650B4 800650D8-800650F4 80065130-80065958 80065970 80065984-80065988 800659A0-800659B8 800659D0-80065A00"
+  ]
+ },
+ "80065F44": {
+  "programs": [
+   "C92"
+  ],
+  "maps": [
+   289,
+   371,
+   169,
+   162,
+   176,
+   193
+  ],
+  "only": "C92",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065F44 ai_c92: 84/84 match",
+   "    coverage 25/66 instructions: never ran 80065F80-80066018 80066030-80066034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065F44 ai_c92: 84/84 match",
+   "    coverage 34/66 instructions: never ran 80065FA4-80066018 80066030-80066034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065F44 ai_c92: 42/42 match",
+   "    coverage 30/66 instructions: never ran 80065F94-80066018 80066030-80066034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065F44 ai_c92: 28/28 match",
+   "    coverage 25/66 instructions: never ran 80065F80-80066018 80066030-80066034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065F44 ai_c92: 28/28 match",
+   "    coverage 25/66 instructions: never ran 80065F80-80066018 80066030-80066034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065F44 ai_c92: 28/28 match",
+   "    coverage 25/66 instructions: never ran 80065F80-80066018 80066030-80066034"
+  ]
+ },
+ "80066544": {
+  "programs": [
+   "C95"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80066544 ai_c95: 378/378 match",
+   "    coverage 17/337 instructions: never ran 8006656C-80066A68"
+  ]
+ },
+ "80066B5C": {
+  "programs": [
+   "C97"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80066B5C ai_c97: 378/378 match",
+   "    coverage 23/331 instructions: never ran 80066BA4-80067070"
+  ]
+ },
+ "80067400": {
+  "programs": [
+   "C99"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80067400 ai_c99: 378/378 match",
+   "    coverage 16/65 instructions: never ran 80067430-800674F0"
+  ]
+ },
+ "80067A80": {
+  "programs": [
+   "C101"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80067A80 ai_c101: 378/378 match",
+   "    coverage 160/244 instructions: never ran 80067AF8-80067AFC 80067B44-80067B68 80067BA4 80067C98-80067CE8 80067D00-80067D3C 80067D90-80067E14"
+  ]
+ },
+ "8006821C": {
+  "programs": [
+   "C1"
+  ],
+  "maps": [
+   7,
+   116,
+   144,
+   9,
+   12,
+   14
+  ],
+  "only": "C1",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006821C ai_c1: 70/70 match",
+   "    coverage 139/226 instructions: never ran 80068294-80068308 80068370-800683AC 80068450-800684A4 800684BC-800684D4 80068520-80068530 8006856C-80068584",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006821C ai_c1: 98/98 match",
+   "    coverage 139/226 instructions: never ran 80068294-80068308 80068370-800683AC 80068450-800684A4 800684BC-800684D4 80068520-80068530 8006856C-80068584",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006821C ai_c1: 0/0 match",
+   "    coverage 0/226 instructions: never ran 8006821C-800685A0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006821C ai_c1: 84/84 match",
+   "    coverage 139/226 instructions: never ran 80068294-80068308 80068370-800683AC 80068450-800684A4 800684BC-800684D4 80068520-80068530 8006856C-80068584",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006821C ai_c1: 42/42 match",
+   "    coverage 106/226 instructions: never ran 80068294-80068308 80068370-800683AC 800683CC-800684A4 800684BC-800684D4 80068520-80068530 8006856C-80068584",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006821C ai_c1: 98/98 match",
+   "    coverage 139/226 instructions: never ran 80068294-80068308 80068370-800683AC 80068450-800684A4 800684BC-800684D4 80068520-80068530 8006856C-80068584"
+  ]
+ },
+ "800688F8": {
+  "programs": [
+   "C3"
+  ],
+  "maps": [
+   58,
+   8,
+   63,
+   3,
+   12,
+   52
+  ],
+  "only": "C3",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800688F8 ai_c3: 140/140 match",
+   "    coverage 213/250 instructions: never ran 80068984-800689A4 800689C8-80068A04 80068AE0-80068AF0 80068B5C 80068C34-80068C48",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800688F8 ai_c3: 112/112 match",
+   "    coverage 174/250 instructions: never ran 80068970-800689A4 800689C8-80068A04 80068ACC-80068AF0 80068B5C 80068BE4-80068C58 80068C7C-80068C8C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800688F8 ai_c3: 56/56 match",
+   "    coverage 129/250 instructions: never ran 80068970-800689A4 800689C8-80068A04 80068ACC-80068AF0 80068B5C 80068B7C-80068C58 80068C6C-80068CC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800688F8 ai_c3: 28/28 match",
+   "    coverage 119/250 instructions: never ran 80068970-800689A4 800689B8-80068A1C 80068ACC-80068AF0 80068B5C 80068B7C-80068C58 80068C6C-80068CC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800688F8 ai_c3: 28/28 match",
+   "    coverage 119/250 instructions: never ran 80068970-800689A4 800689B8-80068A1C 80068ACC-80068AF0 80068B5C 80068B7C-80068C58 80068C6C-80068CC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800688F8 ai_c3: 0/0 match",
+   "    coverage 0/250 instructions: never ran 800688F8-80068CDC"
+  ]
+ },
+ "80068F50": {
+  "programs": [
+   "C5"
+  ],
+  "maps": [
+   29,
+   31,
+   33,
+   27,
+   30,
+   32
+  ],
+  "only": "C5",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068F50 ai_c5: 42/42 match",
+   "    coverage 101/207 instructions: never ran 80068FBC-8006902C 80069048 80069088-800690B4 80069120-800691A8 800691C0 800691F4-8006920C 80069220-80069270",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068F50 ai_c5: 112/112 match",
+   "    coverage 117/207 instructions: never ran 80068FBC-8006902C 80069048 80069088-800690B4 80069120-800691A8 800691C0 800691F4-8006920C 80069230-80069240",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068F50 ai_c5: 98/98 match",
+   "    coverage 122/207 instructions: never ran 80068FBC-8006902C 80069048 80069088-800690B4 80069134-800691A8 800691C0 800691F4-8006920C 80069230-80069240",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068F50 ai_c5: 0/0 match",
+   "    coverage 0/207 instructions: never ran 80068F50-80069288",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068F50 ai_c5: 0/0 match",
+   "    coverage 0/207 instructions: never ran 80068F50-80069288",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068F50 ai_c5: 0/0 match",
+   "    coverage 0/207 instructions: never ran 80068F50-80069288"
+  ]
+ },
+ "80069490": {
+  "programs": [
+   "C7"
+  ],
+  "maps": [
+   88,
+   86,
+   106,
+   87,
+   89,
+   92
+  ],
+  "only": "C7",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80069490 ai_c7: 0/0 match",
+   "    coverage 0/506 instructions: never ran 80069490-80069C74",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80069490 ai_c7: 28/28 match",
+   "    coverage 313/506 instructions: never ran 80069520-80069550 8006959C-800695FC 80069694-800696BC 80069720-80069754 80069770-80069778 800697D8-800698A4 800698B8-800698C0 800698D8-800698E4 8006990C-80069970 80069990-800699EC 80069A68-80069A80 80069AD4-80069ADC 80069C00-80069C1C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80069490 ai_c7: 56/56 match",
+   "    coverage 380/506 instructions: never ran 80069520-80069550 8006959C-800695FC 800696B8-800696BC 8006984C-8006987C 8006988C-800698A4 800698D8-800698E4 8006990C-80069970 80069990-800699E0 80069A68-80069A80 80069C00-80069C1C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80069490 ai_c7: 21/21 match",
+   "    coverage 251/506 instructions: never ran 80069520-80069550 80069584-800695FC 8006965C-80069680 80069694-800696BC 80069720-80069754 80069770-80069778 8006979C-800697D4 8006984C-8006987C 8006988C-800698A4 800698B8-800698C0 800698D8-800698E4 8006990C-80069970 80069990-800699EC 80069A58-80069B78 80069C00-80069C1C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80069490 ai_c7: 0/0 match",
+   "    coverage 0/506 instructions: never ran 80069490-80069C74",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80069490 ai_c7: 70/70 match",
+   "    coverage 350/506 instructions: never ran 80069534-80069550 8006959C-800695FC 80069678-80069680 800696B0-800696B4 80069720-80069754 8006979C-800697D4 8006984C-8006987C 8006988C-800698A4 800698D8-800698E4 8006990C-80069970 80069990-800699E0 80069A68-80069A80 80069AD4-80069ADC 80069C00-80069C1C"
+  ]
+ },
+ "8006A10C": {
+  "programs": [
+   "C9"
+  ],
+  "maps": [
+   353,
+   351,
+   21
+  ],
+  "only": "C9",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A10C ai_c9: 0/0 match",
+   "    coverage 0/238 instructions: never ran 8006A10C-8006A4C0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A10C ai_c9: 0/0 match",
+   "    coverage 0/238 instructions: never ran 8006A10C-8006A4C0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A10C ai_c9: 0/0 match",
+   "    coverage 0/238 instructions: never ran 8006A10C-8006A4C0"
+  ]
+ },
+ "8006ACCC": {
+  "programs": [
+   "C11"
+  ],
+  "maps": [
+   54,
+   352,
+   50,
+   337,
+   338,
+   351
+  ],
+  "only": "C11",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006ACCC ai_c11: 84/84 match",
+   "    coverage 179/231 instructions: never ran 8006AD6C-8006ADDC 8006AF68-8006AFAC 8006B020-8006B030",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006ACCC ai_c11: 28/28 match",
+   "    coverage 191/231 instructions: never ran 8006AD80-8006ADA0 8006ADE0-8006ADF0 8006AEF4-8006AF08 8006AF24-8006AF28 8006AF7C-8006AFAC 8006B020-8006B030",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006ACCC ai_c11: 0/0 match",
+   "    coverage 0/231 instructions: never ran 8006ACCC-8006B064",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006ACCC ai_c11: 28/28 match",
+   "    coverage 161/231 instructions: never ran 8006AD58-8006ADDC 8006AEF4-8006AF08 8006AF24-8006AF28 8006AF54-8006AFAC 8006B020-8006B030"
+  ]
+ },
+ "8006BA1C": {
+  "programs": [
+   "C13"
+  ],
+  "maps": [
+   78,
+   426,
+   17,
+   35,
+   38,
+   40
+  ],
+  "only": "C13",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BA1C ai_c13: 0/0 match",
+   "    coverage 0/207 instructions: never ran 8006BA1C-8006BD54",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BA1C ai_c13: 0/0 match",
+   "    coverage 0/207 instructions: never ran 8006BA1C-8006BD54",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BA1C ai_c13: 0/0 match",
+   "    coverage 0/207 instructions: never ran 8006BA1C-8006BD54",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BA1C ai_c13: 0/0 match",
+   "    coverage 0/207 instructions: never ran 8006BA1C-8006BD54",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BA1C ai_c13: 0/0 match",
+   "    coverage 0/207 instructions: never ran 8006BA1C-8006BD54",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BA1C ai_c13: 0/0 match",
+   "    coverage 0/207 instructions: never ran 8006BA1C-8006BD54"
+  ]
+ },
+ "8006C028": {
+  "programs": [
+   "C15"
+  ],
+  "maps": [
+   4,
+   18,
+   450,
+   5,
+   19,
+   119
+  ],
+  "only": "C15",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C028 ai_c15: 84/84 match",
+   "    coverage 119/176 instructions: never ran 8006C130-8006C188 8006C20C-8006C264 8006C290-8006C2A0 8006C2B8-8006C2CC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C028 ai_c15: 84/84 match",
+   "    coverage 119/176 instructions: never ran 8006C130-8006C188 8006C20C-8006C264 8006C290-8006C2A0 8006C2B8-8006C2CC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C028 ai_c15: 84/84 match",
+   "    coverage 119/176 instructions: never ran 8006C130-8006C188 8006C20C-8006C264 8006C290-8006C2A0 8006C2B8-8006C2CC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C028 ai_c15: 42/42 match",
+   "    coverage 119/176 instructions: never ran 8006C130-8006C188 8006C20C-8006C264 8006C290-8006C2A0 8006C2B8-8006C2CC"
+  ]
+ },
+ "8006C654": {
+  "programs": [
+   "C17"
+  ],
+  "maps": [
+   3
+  ],
+  "only": "C17",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C654 ai_c17: 28/28 match",
+   "    coverage 89/180 instructions: never ran 8006C710-8006C75C 8006C77C-8006C780 8006C794-8006C830 8006C85C-8006C860 8006C8A4-8006C90C"
+  ]
+ },
+ "8006CD44": {
+  "programs": [
+   "C19"
+  ],
+  "maps": [
+   79,
+   139,
+   158,
+   4,
+   8,
+   12
+  ],
+  "only": "C19",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CD44 ai_c19: 56/56 match",
+   "    coverage 108/147 instructions: never ran 8006CD7C-8006CD80 8006CE18-8006CE94 8006CF58-8006CF68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CD44 ai_c19: 196/196 match",
+   "    coverage 113/147 instructions: never ran 8006CD7C-8006CD80 8006CE2C-8006CE94 8006CF58-8006CF68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CD44 ai_c19: 84/84 match",
+   "    coverage 108/147 instructions: never ran 8006CD7C-8006CD80 8006CE18-8006CE94 8006CF58-8006CF68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CD44 ai_c19: 42/42 match",
+   "    coverage 95/147 instructions: never ran 8006CD7C-8006CD80 8006CDC0-8006CDF0 8006CE18-8006CE94 8006CF58-8006CF68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CD44 ai_c19: 42/42 match",
+   "    coverage 95/147 instructions: never ran 8006CD7C-8006CD80 8006CDC0-8006CDF0 8006CE18-8006CE94 8006CF58-8006CF68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CD44 ai_c19: 42/42 match",
+   "    coverage 95/147 instructions: never ran 8006CD7C-8006CD80 8006CDC0-8006CDF0 8006CE18-8006CE94 8006CF58-8006CF68"
+  ]
+ },
+ "8006D640": {
+  "programs": [
+   "C21"
+  ],
+  "maps": [
+   24,
+   22,
+   41,
+   21
+  ],
+  "only": "C21",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006D640 ai_c21: 0/0 match",
+   "    coverage 0/186 instructions: never ran 8006D640-8006D924",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006D640 ai_c21: 0/0 match",
+   "    coverage 0/186 instructions: never ran 8006D640-8006D924",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006D640 ai_c21: 0/0 match",
+   "    coverage 0/186 instructions: never ran 8006D640-8006D924",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006D640 ai_c21: 0/0 match",
+   "    coverage 0/186 instructions: never ran 8006D640-8006D924"
+  ]
+ },
+ "8006DC6C": {
+  "programs": [
+   "C23"
+  ],
+  "maps": [
+   167,
+   174,
+   181,
+   21,
+   22,
+   23
+  ],
+  "only": "C23",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DC6C ai_c23: 56/56 match",
+   "    coverage 6/32 instructions: never ran 8006DC7C-8006DCE0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DC6C ai_c23: 42/42 match",
+   "    coverage 6/32 instructions: never ran 8006DC7C-8006DCE0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DC6C ai_c23: 56/56 match",
+   "    coverage 6/32 instructions: never ran 8006DC7C-8006DCE0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DC6C ai_c23: 0/0 match",
+   "    coverage 0/32 instructions: never ran 8006DC6C-8006DCE8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DC6C ai_c23: 0/0 match",
+   "    coverage 0/32 instructions: never ran 8006DC6C-8006DCE8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DC6C ai_c23: 0/0 match",
+   "    coverage 0/32 instructions: never ran 8006DC6C-8006DCE8"
+  ]
+ },
+ "8006DCF4": {
+  "programs": [
+   "C25"
+  ],
+  "maps": [
+   383,
+   386,
+   384,
+   2,
+   382
+  ],
+  "only": "C25",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCF4 ai_c25: 140/140 match",
+   "    coverage 248/280 instructions: never ran 8006DE88-8006DED4 8006E084-8006E09C 8006E11C-8006E12C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCF4 ai_c25: 70/70 match",
+   "    coverage 222/280 instructions: never ran 8006DD50-8006DD7C 8006DDBC-8006DDFC 8006DE28-8006DE2C 8006DE44-8006DE68 8006DEB0-8006DEC0 8006E084-8006E09C 8006E11C-8006E12C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCF4 ai_c25: 0/0 match",
+   "    coverage 0/280 instructions: never ran 8006DCF4-8006E150",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCF4 ai_c25: 42/42 match",
+   "    coverage 194/280 instructions: never ran 8006DD64-8006DD7C 8006DDBC-8006DDFC 8006DE28-8006DE2C 8006DE44-8006DE68 8006DE88-8006DED4 8006E03C-8006E09C 8006E11C-8006E12C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCF4 ai_c25: 0/0 match",
+   "    coverage 0/280 instructions: never ran 8006DCF4-8006E150"
+  ]
+ },
+ "8006E530": {
+  "programs": [
+   "C27"
+  ],
+  "maps": [
+   13,
+   4
+  ],
+  "only": "C27",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E530 ai_c27: 70/70 match",
+   "    coverage 270/315 instructions: never ran 8006E59C-8006E5C8 8006E630-8006E680 8006E850-8006E85C 8006E8F8-8006E900 8006E990-8006E9A0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E530 ai_c27: 14/14 match",
+   "    coverage 123/315 instructions: never ran 8006E5B0-8006E5C8 8006E630-8006E680 8006E694-8006E760 8006E774-8006E780 8006E7B8-8006E82C 8006E840-8006E8D4 8006E8F8-8006E900 8006E914-8006E924 8006E970-8006E9EC"
+  ]
+ },
+ "8006EEA8": {
+  "programs": [
+   "C29"
+  ],
+  "maps": [
+   51,
+   32,
+   26,
+   18,
+   19,
+   27
+  ],
+  "only": "C29",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EEA8 ai_c29: 84/84 match",
+   "    coverage 196/244 instructions: never ran 8006EEFC 8006F000-8006F004 8006F038-8006F06C 8006F148-8006F1AC 8006F240-8006F250",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EEA8 ai_c29: 0/0 match",
+   "    coverage 0/244 instructions: never ran 8006EEA8-8006F274",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EEA8 ai_c29: 42/42 match",
+   "    coverage 175/244 instructions: never ran 8006EEFC 8006EF74-8006EFA8 8006F000-8006F018 8006F038-8006F06C 8006F08C-8006F090 8006F148-8006F1AC 8006F240-8006F250",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EEA8 ai_c29: 98/98 match",
+   "    coverage 182/244 instructions: never ran 8006EEFC 8006EF74-8006EFA8 8006F000-8006F004 8006F038-8006F06C 8006F148-8006F1AC 8006F240-8006F250",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EEA8 ai_c29: 0/0 match",
+   "    coverage 0/244 instructions: never ran 8006EEA8-8006F274",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EEA8 ai_c29: 0/0 match",
+   "    coverage 0/244 instructions: never ran 8006EEA8-8006F274"
+  ]
+ },
+ "8006F9F8": {
+  "programs": [
+   "C31"
+  ],
+  "maps": [
+   70,
+   16,
+   72,
+   74
+  ],
+  "only": "C31",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006F9F8 ai_c31: 0/0 match",
+   "    coverage 0/279 instructions: never ran 8006F9F8-8006FE50",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006F9F8 ai_c31: 56/56 match",
+   "    coverage 155/279 instructions: never ran 8006FA3C-8006FAA0 8006FAC4-8006FAC8 8006FB34-8006FB40 8006FB58-8006FBCC 8006FC08-8006FC54 8006FCB0-8006FCBC 8006FCE0-8006FD58 8006FD98-8006FDA8 8006FDF4-8006FDF8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006F9F8 ai_c31: 42/42 match",
+   "    coverage 141/279 instructions: never ran 8006FA3C-8006FAA0 8006FAC4-8006FAC8 8006FB10-8006FBCC 8006FC08-8006FC54 8006FCB0-8006FCBC 8006FCE0-8006FD58 8006FD98-8006FDA8 8006FDF4-8006FDF8"
+  ]
+ },
+ "8007033C": {
+  "programs": [
+   "C33"
+  ],
+  "maps": [
+   383,
+   151,
+   148,
+   149,
+   150,
+   152
+  ],
+  "only": "C33",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007033C ai_c33: 0/0 match",
+   "    coverage 0/284 instructions: never ran 8007033C-800707A8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007033C ai_c33: 14/14 match",
+   "    coverage 108/284 instructions: never ran 800703E0-800703EC 80070404-8007047C 800704A0-80070604 800706BC-80070720 8007072C-8007078C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007033C ai_c33: 0/0 match",
+   "    coverage 0/284 instructions: never ran 8007033C-800707A8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007033C ai_c33: 0/0 match",
+   "    coverage 0/284 instructions: never ran 8007033C-800707A8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007033C ai_c33: 0/0 match",
+   "    coverage 0/284 instructions: never ran 8007033C-800707A8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007033C ai_c33: 0/0 match",
+   "    coverage 0/284 instructions: never ran 8007033C-800707A8"
+  ]
+ },
+ "80070D14": {
+  "programs": [
+   "C36"
+  ],
+  "maps": [
+   2,
+   111,
+   114,
+   148,
+   151,
+   154
+  ],
+  "only": "C36",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80070D14 ai_c36: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80070D14-80070D74",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80070D14 ai_c36: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80070D14-80070D74",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80070D14 ai_c36: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80070D14-80070D74",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80070D14 ai_c36: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80070D14-80070D74",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80070D14 ai_c36: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80070D14-80070D74",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80070D14 ai_c36: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80070D14-80070D74"
+  ]
+ },
+ "80071080": {
+  "programs": [
+   "C38"
+  ],
+  "maps": [
+   76
+  ],
+  "only": "C38",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80071080 ai_c38: 14/14 match",
+   "    coverage 99/818 instructions: never ran 800710C0-800710E8 800711C4-800717C0 80071804-80071D00 80071D14-80071D20"
+  ]
+ },
+ "80071DD0": {
+  "programs": [
+   "C42"
+  ],
+  "maps": [
+   76
+  ],
+  "only": "C42",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80071DD0 ai_c42: 0/0 match",
+   "    coverage 0/229 instructions: never ran 80071DD0-80072160"
+  ]
+ },
+ "80072AC8": {
+  "programs": [
+   "C40"
+  ],
+  "maps": [
+   25,
+   34,
+   399
+  ],
+  "only": "C40",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80072AC8 ai_c40: 0/0 match",
+   "    coverage 0/433 instructions: never ran 80072AC8-80073188",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80072AC8 ai_c40: 14/14 match",
+   "    coverage 186/433 instructions: never ran 80072B24-80072B4C 80072BC4-80072C2C 80072C40-80072D7C 80072D90 80072DD4 80072E18-80072E30 80072E44-80072E58 80072EA4-80072F2C 8007300C-800730B8 800730E8-80073170",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80072AC8 ai_c40: 14/14 match",
+   "    coverage 205/433 instructions: never ran 80072B24-80072B4C 80072BC4-80072C2C 80072C40-80072D7C 80072D90 80072DD4 80072E18-80072E30 80072E44-80072E58 80072EA4-80072F2C 80073000-80073008 80073090-80073170"
+  ]
+ },
+ "80073674": {
+  "programs": [
+   "C77"
+  ],
+  "maps": [
+   25,
+   34,
+   399
+  ],
+  "only": "C77",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80073674 ai_c77: 0/0 match",
+   "    coverage 0/12 instructions: never ran 80073674-800736A0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80073674 ai_c77: 0/0 match",
+   "    coverage 0/12 instructions: never ran 80073674-800736A0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80073674 ai_c77: 0/0 match",
+   "    coverage 0/12 instructions: never ran 80073674-800736A0"
+  ]
+ },
+ "80074160": {
+  "programs": [
+   "C44"
+  ],
+  "maps": [
+   321,
+   388,
+   432,
+   451
+  ],
+  "only": "C44",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074160 ai_c44: 35/35 match",
+   "    coverage 265/602 instructions: never ran 80074224 80074248-800743A8 80074418-8007443C 80074454-800744B4 800745EC-800745F0 80074608-80074734 80074764-80074790 80074804-80074840 80074864-800748B8 800748FC-800749E4 80074A28-80074A38 80074A54-80074AA0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074160 ai_c44: 0/0 match",
+   "    coverage 0/602 instructions: never ran 80074160-80074AC4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074160 ai_c44: 0/0 match",
+   "    coverage 0/602 instructions: never ran 80074160-80074AC4"
+  ]
+ },
+ "80074C18": {
+  "programs": [
+   "C87"
+  ],
+  "maps": [
+   432,
+   321,
+   388,
+   451
+  ],
+  "only": "C87",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074C18 ai_c87: 0/0 match",
+   "    coverage 0/42 instructions: never ran 80074C18-80074CBC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074C18 ai_c87: 0/0 match",
+   "    coverage 0/42 instructions: never ran 80074C18-80074CBC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074C18 ai_c87: 0/0 match",
+   "    coverage 0/42 instructions: never ran 80074C18-80074CBC"
+  ]
+ },
+ "80075CFC": {
+  "programs": [
+   "C85"
+  ],
+  "maps": [
+   109
+  ],
+  "only": "C85",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80075CFC ai_c85: 0/0 match",
+   "    coverage 0/42 instructions: never ran 80075CFC-80075DA0"
+  ]
+ },
+ "80076F78": {
+  "programs": [
+   "C81"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "C81",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80076F78 ai_c81: 0/0 match",
+   "    coverage 0/81 instructions: never ran 80076F78-800770B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80076F78 ai_c81: 0/0 match",
+   "    coverage 0/81 instructions: never ran 80076F78-800770B8"
+  ]
+ },
+ "800772D4": {
+  "programs": [
+   "C48"
+  ],
+  "maps": [
+   99,
+   123,
+   449
+  ],
+  "only": "C48",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800772D4 ai_c48: 21/21 match",
+   "    coverage 161/667 instructions: never ran 8007732C-8007739C 800773B0-80077400 80077438-80077558 80077578-800776D0 800776E4-800776F0 80077708 800777AC 80077828-800778B4 800778D0-800778E8 80077908-80077A9C 80077AC0-80077CDC 80077CE8-80077D08",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800772D4 ai_c48: 0/0 match",
+   "    coverage 0/667 instructions: never ran 800772D4-80077D3C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800772D4 ai_c48: 0/0 match",
+   "    coverage 0/667 instructions: never ran 800772D4-80077D3C"
+  ]
+ },
+ "800780A4": {
+  "programs": [
+   "C49"
+  ],
+  "maps": [
+   323,
+   480
+  ],
+  "only": "C49",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800780A4 ai_c49: 14/14 match",
+   "    coverage 243/1270 instructions: never ran 80078148-8007815C 80078170-80078388 800783AC-800783D4 8007841C-80078420 80078434-80078464 800784D4-800785F0 800785FC-800788A4 800788B8-80078900 8007892C-80078A14 80078A90-80078B1C 80078B3C-80078BEC 80078C00-80078C34 80078C68-80078D4C 80078D60-80078EDC 80078EF0-80078F3C 80078F60-80078F80 80078F94-80078FE8 80078FFC-80079060 800790A8-80079164 80079188-80079194 800791AC-800791D4 800791E8-80079260 80079280-80079458",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800780A4 ai_c49: 0/0 match",
+   "    coverage 0/1270 instructions: never ran 800780A4-80079478"
+  ]
+ },
+ "80079D54": {
+  "programs": [
+   "C83"
+  ],
+  "maps": [
+   324
+  ],
+  "only": "C83",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80079D54 ai_c83: 0/0 match",
+   "    coverage 0/62 instructions: never ran 80079D54-80079E48"
+  ]
+ },
+ "8007B204": {
+  "programs": [
+   "C52"
+  ],
+  "maps": [
+   325
+  ],
+  "only": "C52",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007B204 ai_c52: 0/0 match",
+   "    coverage 0/63 instructions: never ran 8007B204-8007B2FC"
+  ]
+ },
+ "8007B5F0": {
+  "programs": [
+   "C54"
+  ],
+  "maps": [
+   326
+  ],
+  "only": "C54",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "m326_420.bin original stopped: memory 3200002C",
+   "m326_420.bin original stopped: memory 893F01B8",
+   "m326_s446.bin original stopped: memory 613201CD",
+   "m326_s446.bin original stopped: memory B6B001DB",
+   "m326_s446.bin original stopped: memory 3200002C",
+   "m326_s446.bin original stopped: memory EB0BEC5C",
+   "8007B5F0 ai_c54: 22/22 match",
+   "    coverage 387/735 instructions: never ran 8007B690-8007B6B8 8007B6D0-8007B6D4 8007B728-8007B770 8007B7B8 8007B7C4-8007B810 8007B840-8007B85C 8007B8C8-8007B8D8 8007B934-8007BB1C 8007BB70-8007BB8C 8007BBFC-8007BC68 8007BDA0-8007BDE0 8007BE14-8007BE28 8007BE38-8007BE50 8007BFD0-8007C140"
+  ]
+ },
+ "8007C32C": {
+  "programs": [
+   "C55"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "C55",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "m327_s418.bin original stopped: memory CF140071",
+   "8007C32C ai_c55: 6/6 match",
+   "    coverage 72/513 instructions: never ran 8007C35C-8007C374 8007C3D4-8007C64C 8007C670-8007C854 8007C868-8007C870 8007C88C-8007C9BC 8007C9D4-8007C9E8 8007C9FC-8007CB04",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "m347_240.bin original stopped: memory CF140071",
+   "m347_420.bin original stopped: memory 893F0070",
+   "m347_420.bin original stopped: memory 5AEB0084",
+   "m347_s418.bin original stopped: memory 61320085",
+   "m347_s418.bin original stopped: memory B6B00093",
+   "m347_s418.bin original stopped: memory 8D35009D",
+   "m347_s424.bin original stopped: memory 1A0B0071",
+   "m347_s424.bin original stopped: memory FC250071",
+   "8007C32C ai_c55: 27/27 match",
+   "    coverage 219/513 instructions: never ran 8007C3F4-8007C430 8007C43C-8007C454 8007C4E0 8007C618-8007C64C 8007C670-8007C834 8007C868-8007C870 8007C88C-8007C9BC 8007C9D4-8007C9E8 8007C9FC-8007CA38 8007CA5C-8007CA98 8007CAA8-8007CB04",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "m415_240.bin original stopped: memory CF140071",
+   "m415_420.bin original stopped: memory 893F0070",
+   "m415_420.bin original stopped: memory 5AEB0084",
+   "8007C32C ai_c55: 11/11 match",
+   "    coverage 194/513 instructions: never ran 8007C3F4-8007C430 8007C43C-8007C454 8007C4E0 8007C5BC-8007C5C0 8007C608-8007C64C 8007C670-8007C854 8007C868-8007C870 8007C88C-8007C9BC 8007C9D4-8007C9E8 8007C9FC-8007CB04"
+  ]
+ },
+ "8007CCDC": {
+  "programs": [
+   "C57"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CCDC ai_c57: 378/378 match",
+   "    coverage 2/2 instructions"
+  ]
+ },
+ "8007CEB0": {
+  "programs": [
+   "C59"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "C59",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CEB0 ai_c59: 0/0 match",
+   "    coverage 0/137 instructions: never ran 8007CEB0-8007D0D0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CEB0 ai_c59: 0/0 match",
+   "    coverage 0/137 instructions: never ran 8007CEB0-8007D0D0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CEB0 ai_c59: 0/0 match",
+   "    coverage 0/137 instructions: never ran 8007CEB0-8007D0D0"
+  ]
+ },
+ "8007D18C": {
+  "programs": [
+   "C61"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007D18C ai_c61: 378/378 match",
+   "    coverage 8/8 instructions"
+  ]
+ },
+ "8007D498": {
+  "programs": [
+   "C63"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007D498 ai_c63: 378/378 match",
+   "    coverage 75/97 instructions: never ran 8007D518-8007D558 8007D56C-8007D57C"
+  ]
+ },
+ "8007D778": {
+  "programs": [
+   "C65"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007D778 ai_c65: 378/378 match",
+   "    coverage 71/71 instructions"
+  ]
+ },
+ "8007DA28": {
+  "programs": [
+   "C67"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DA28 ai_c67: 378/378 match",
+   "    coverage 78/114 instructions: never ran 8007DA58-8007DA5C 8007DB54-8007DBD8"
+  ]
+ },
+ "8007DEFC": {
+  "programs": [
+   "C69"
+  ],
+  "maps": [
+   50,
+   128,
+   125,
+   126,
+   304,
+   396
+  ],
+  "only": "C69",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DEFC ai_c69: 112/112 match",
+   "    coverage 34/49 instructions: never ran 8007DF54-8007DF8C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DEFC ai_c69: 28/28 match",
+   "    coverage 34/49 instructions: never ran 8007DF54-8007DF8C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DEFC ai_c69: 42/42 match",
+   "    coverage 34/49 instructions: never ran 8007DF54-8007DF8C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DEFC ai_c69: 0/0 match",
+   "    coverage 0/49 instructions: never ran 8007DEFC-8007DFBC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DEFC ai_c69: 0/0 match",
+   "    coverage 0/49 instructions: never ran 8007DEFC-8007DFBC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DEFC ai_c69: 28/28 match",
+   "    coverage 34/49 instructions: never ran 8007DF54-8007DF8C"
+  ]
+ },
+ "8007E040": {
+  "programs": [
+   "C71"
+  ],
+  "maps": [
+   92,
+   87,
+   88,
+   90,
+   94,
+   158
+  ],
+  "only": "C71",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E040 ai_c71: 0/0 match",
+   "    coverage 0/89 instructions: never ran 8007E040-8007E1A0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E040 ai_c71: 0/0 match",
+   "    coverage 0/89 instructions: never ran 8007E040-8007E1A0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E040 ai_c71: 98/98 match",
+   "    coverage 61/89 instructions: never ran 8007E0DC-8007E148",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E040 ai_c71: 0/0 match",
+   "    coverage 0/89 instructions: never ran 8007E040-8007E1A0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E040 ai_c71: 70/70 match",
+   "    coverage 33/89 instructions: never ran 8007E0BC-8007E198"
+  ]
+ },
+ "8007E330": {
+  "programs": [
+   "C73"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E330 ai_c73: 378/378 match",
+   "    coverage 11/27 instructions: never ran 8007E340-8007E37C"
+  ]
+ },
+ "8007E594": {
+  "programs": [
+   "C75"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E594 ai_c75: 378/378 match",
+   "    coverage 30/163 instructions: never ran 8007E5DC-8007E700 8007E70C-8007E7F4"
+  ]
+ },
+ "8007E8C8": {
+  "programs": [
+   "C94"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E8C8 ai_c94: 378/378 match",
+   "    coverage 15/39 instructions: never ran 8007E8F0-8007E94C"
+  ]
+ },
+ "8007EF70": {
+  "programs": [
+   "C78"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007EF70 ai_c78: 378/378 match",
+   "    coverage 255/916 instructions: never ran 8007EFD0-8007F00C 8007F064-8007F0C0 8007F0F0-8007F10C 8007F120-8007F3B8 8007F3C4-8007F738 8007F780-8007F888 8007F994-8007F99C 8007FA10-8007FB24 8007FB5C-8007FB68 8007FB80-8007FCAC 8007FD50-8007FD54 8007FD78-8007FD7C"
+  ]
+ },
+ "80080218": {
+  "programs": [
+   "D1"
+  ],
+  "maps": [
+   85,
+   141,
+   9
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080218 ai_d1: 294/294 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080218 ai_d1: 56/56 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080218 ai_d1: 378/378 match",
+   "    coverage 25/25 instructions"
+  ]
+ },
+ "800803BC": {
+  "programs": [
+   "D3"
+  ],
+  "maps": [
+   58,
+   8,
+   63
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800803BC ai_d3: 322/322 match",
+   "    coverage 45/45 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800803BC ai_d3: 294/294 match",
+   "    coverage 45/45 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800803BC ai_d3: 84/84 match",
+   "    coverage 45/45 instructions"
+  ]
+ },
+ "80080578": {
+  "programs": [
+   "D6"
+  ],
+  "maps": [
+   51,
+   88,
+   32,
+   2,
+   4,
+   8
+  ],
+  "only": "D6",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080578 ai_d6: 84/84 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080578 ai_d6: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080578-800805D8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080578 ai_d6: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080578-800805D8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080578 ai_d6: 42/42 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080578 ai_d6: 42/42 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080578 ai_d6: 42/42 match",
+   "    coverage 25/25 instructions"
+  ]
+ },
+ "80080640": {
+  "programs": [
+   "D8"
+  ],
+  "maps": [
+   353,
+   351,
+   21
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080640 ai_d8: 126/126 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080640 ai_d8: 56/56 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080640 ai_d8: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080640-800806A0"
+  ]
+ },
+ "80080708": {
+  "programs": [
+   "D10"
+  ],
+  "maps": [
+   344,
+   106,
+   346,
+   47,
+   54,
+   103
+  ],
+  "only": "D10",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080708 ai_d10: 0/0 match",
+   "    coverage 0/32 instructions: never ran 80080708-80080784",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080708 ai_d10: 0/0 match",
+   "    coverage 0/32 instructions: never ran 80080708-80080784",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080708 ai_d10: 0/0 match",
+   "    coverage 0/32 instructions: never ran 80080708-80080784",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080708 ai_d10: 0/0 match",
+   "    coverage 0/32 instructions: never ran 80080708-80080784",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080708 ai_d10: 0/0 match",
+   "    coverage 0/32 instructions: never ran 80080708-80080784",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080708 ai_d10: 0/0 match",
+   "    coverage 0/32 instructions: never ran 80080708-80080784"
+  ]
+ },
+ "800807EC": {
+  "programs": [
+   "D12"
+  ],
+  "maps": [
+   48,
+   71,
+   72,
+   3,
+   4,
+   5
+  ],
+  "only": "D12",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800807EC ai_d12: 84/84 match",
+   "    coverage 39/78 instructions: never ran 80080854-800808EC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800807EC ai_d12: 28/28 match",
+   "    coverage 39/78 instructions: never ran 80080854-800808EC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800807EC ai_d12: 42/42 match",
+   "    coverage 39/78 instructions: never ran 80080854-800808EC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800807EC ai_d12: 42/42 match",
+   "    coverage 39/78 instructions: never ran 80080854-800808EC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800807EC ai_d12: 84/84 match",
+   "    coverage 39/78 instructions: never ran 80080854-800808EC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800807EC ai_d12: 42/42 match",
+   "    coverage 39/78 instructions: never ran 80080854-800808EC"
+  ]
+ },
+ "80080988": {
+  "programs": [
+   "D14"
+  ],
+  "maps": [
+   76
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080988 ai_d14: 56/56 match",
+   "    coverage 15/15 instructions"
+  ]
+ },
+ "800809F0": {
+  "programs": [
+   "D16"
+  ],
+  "maps": [
+   84,
+   411
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800809F0 ai_d16: 140/140 match",
+   "    coverage 33/33 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800809F0 ai_d16: 42/42 match",
+   "    coverage 33/33 instructions"
+  ]
+ },
+ "80080AD8": {
+  "programs": [
+   "D18"
+  ],
+  "maps": [
+   153,
+   329,
+   368
+  ],
+  "only": "D18",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080AD8 ai_d18: 7/7 match",
+   "    coverage 30/30 instructions"
+  ]
+ },
+ "80080BB4": {
+  "programs": [
+   "D20"
+  ],
+  "maps": [
+   109
+  ],
+  "only": "D20",
+  "ok": true,
+  "log": [
+   "m109_420.bin original stopped: memory 613200A1",
+   "m109_420.bin original stopped: memory B6B000AF",
+   "m109_420.bin original stopped: memory 8D3500B9",
+   "m109_s500.bin original stopped: memory 1A0B008D",
+   "m109_s500.bin original stopped: memory FC25008D",
+   "m109_s500.bin original stopped: memory B9ED008D",
+   "m109_s500.bin original stopped: memory BD85008D",
+   "m109_s500.bin original stopped: memory DA3C00C5",
+   "m109_s501.bin original stopped: memory 8DC800B2",
+   "m109_s501.bin original stopped: memory 5743008D",
+   "m109_s501.bin original stopped: memory 31D1008C",
+   "m109_s501.bin original stopped: memory CD70008D",
+   "80080BB4 ai_d20: 62/62 match",
+   "    coverage 71/72 instructions: never ran 80080C80"
+  ]
+ },
+ "80080E00": {
+  "programs": [
+   "D22"
+  ],
+  "maps": [
+   99,
+   123,
+   449
+  ],
+  "only": "D22",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080E00 ai_d22: 21/21 match",
+   "    coverage 26/26 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080E00 ai_d22: 0/0 match",
+   "    coverage 0/26 instructions: never ran 80080E00-80080E64",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080E00 ai_d22: 0/0 match",
+   "    coverage 0/26 instructions: never ran 80080E00-80080E64"
+  ]
+ },
+ "80080EE0": {
+  "programs": [
+   "D24"
+  ],
+  "maps": [
+   323,
+   480
+  ],
+  "only": "D24",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080EE0 ai_d24: 14/14 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080EE0 ai_d24: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080EE0-80080F40"
+  ]
+ },
+ "80080F4C": {
+  "programs": [
+   "D26"
+  ],
+  "maps": [
+   325
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080F4C ai_d26: 42/42 match",
+   "    coverage 21/28 instructions: never ran 80080F8C-80080FA4"
+  ]
+ },
+ "8008100C": {
+  "programs": [
+   "D28"
+  ],
+  "maps": [
+   327,
+   415
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008100C ai_d28: 0/0 match",
+   "    coverage 0/15 instructions: never ran 8008100C-80081044",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008100C ai_d28: 28/28 match",
+   "    coverage 15/15 instructions"
+  ]
+ },
+ "80081054": {
+  "programs": [
+   "D30"
+  ],
+  "maps": [
+   362
+  ],
+  "only": "D30",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081054 ai_d30: 0/0 match",
+   "    coverage 0/18 instructions: never ran 80081054-80081098"
+  ]
+ },
+ "800810E0": {
+  "programs": [
+   "D32"
+  ],
+  "maps": [
+   8
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800810E0 ai_d32: 294/294 match",
+   "    coverage 11/17 instructions: never ran 80081104-80081118"
+  ]
+ },
+ "80081164": {
+  "programs": [
+   "D34"
+  ],
+  "maps": [
+   94,
+   89,
+   93
+  ],
+  "only": "D34",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081164 ai_d34: 0/0 match",
+   "    coverage 0/17 instructions: never ran 80081164-800811A4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081164 ai_d34: 210/210 match",
+   "    coverage 11/17 instructions: never ran 80081188-8008119C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081164 ai_d34: 182/182 match",
+   "    coverage 11/17 instructions: never ran 80081188-8008119C"
+  ]
+ },
+ "8008124C": {
+  "programs": [
+   "D36"
+  ],
+  "maps": [
+   76
+  ],
+  "only": "D36",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008124C ai_d36: 0/0 match",
+   "    coverage 0/6 instructions: never ran 8008124C-80081260"
+  ]
+ },
+ "800812A0": {
+  "programs": [
+   "D38"
+  ],
+  "maps": [],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800812A0 ai_d38: 378/378 match",
+   "    coverage 15/15 instructions"
+  ]
+ },
+ "8008133C": {
+  "programs": [
+   "D40"
+  ],
+  "maps": [
+   435,
+   437,
+   436,
+   438
+  ],
+  "only": "D40",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008133C ai_d40: 14/14 match",
+   "    coverage 30/38 instructions: never ran 800813A0-800813BC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008133C ai_d40: 14/14 match",
+   "    coverage 30/38 instructions: never ran 800813A0-800813BC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008133C ai_d40: 14/14 match",
+   "    coverage 30/38 instructions: never ran 800813A0-800813BC"
+  ]
+ },
+ "80081410": {
+  "programs": [
+   "D42"
+  ],
+  "maps": [
+   471
+  ],
+  "only": "D42",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081410 ai_d42: 14/14 match",
+   "    coverage 19/20 instructions: never ran 80081440"
+  ]
+ },
+ "800814A8": {
+  "programs": [
+   "D44"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800814A8 ai_d44: 378/378 match",
+   "    coverage 28/28 instructions"
+  ]
+ },
+ "80081554": {
+  "programs": [
+   "D46"
+  ],
+  "maps": [
+   44
+  ],
+  "only": "D46",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081554 ai_d46: 0/0 match",
+   "    coverage 0/29 instructions: never ran 80081554-800815C4"
+  ]
+ },
+ "800815E8": {
+  "programs": [
+   "E2"
+  ],
+  "maps": [
+   73,
+   167,
+   174,
+   21,
+   22,
+   23
+  ],
+  "only": "E2",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815E8 ai_e2: 56/56 match",
+   "    coverage 28/28 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815E8 ai_e2: 56/56 match",
+   "    coverage 28/28 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815E8 ai_e2: 42/42 match",
+   "    coverage 28/28 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815E8 ai_e2: 0/0 match",
+   "    coverage 0/28 instructions: never ran 800815E8-80081654",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815E8 ai_e2: 28/28 match",
+   "    coverage 28/28 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815E8 ai_e2: 0/0 match",
+   "    coverage 0/28 instructions: never ran 800815E8-80081654"
+  ]
+ },
+ "800816BC": {
+  "programs": [
+   "E4"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800816BC ai_e4: 378/378 match",
+   "    coverage 25/25 instructions"
+  ]
+ },
+ "800817A8": {
+  "programs": [
+   "E6"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "E6",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800817A8 ai_e6: 0/0 match",
+   "    coverage 0/8 instructions: never ran 800817A8-800817C4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800817A8 ai_e6: 0/0 match",
+   "    coverage 0/8 instructions: never ran 800817A8-800817C4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800817A8 ai_e6: 0/0 match",
+   "    coverage 0/8 instructions: never ran 800817A8-800817C4"
+  ]
+ },
+ "800817E8": {
+  "programs": [
+   "E8"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800817E8 ai_e8: 378/378 match",
+   "    coverage 8/8 instructions"
+  ]
+ },
+ "80081AFC": {
+  "programs": [
+   "E10"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081AFC ai_e10: 378/378 match",
+   "    coverage 8/8 instructions"
+  ]
+ },
+ "80081B3C": {
+  "programs": [
+   "E12"
+  ],
+  "maps": [
+   362
+  ],
+  "only": "E12",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081B3C ai_e12: 0/0 match",
+   "    coverage 0/36 instructions: never ran 80081B3C-80081BC8"
+  ]
+ },
+ "80081C34": {
+  "programs": [
+   "E14"
+  ],
+  "maps": [
+   158,
+   328,
+   84
+  ],
+  "only": "E14",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C34 ai_e14: 0/0 match",
+   "    coverage 0/14 instructions: never ran 80081C34-80081C68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C34 ai_e14: 0/0 match",
+   "    coverage 0/14 instructions: never ran 80081C34-80081C68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C34 ai_e14: 0/0 match",
+   "    coverage 0/14 instructions: never ran 80081C34-80081C68"
+  ]
+ },
+ "80081CA4": {
+  "programs": [
+   "E16"
+  ],
+  "maps": [
+   408
+  ],
+  "only": "E16",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081CA4 ai_e16: 308/308 match",
+   "    coverage 14/14 instructions"
+  ]
+ },
+ "80081F18": {
+  "programs": [
+   "E18"
+  ],
+  "maps": [
+   127,
+   40,
+   120,
+   2,
+   22,
+   23
+  ],
+  "only": "E18",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F18 ai_e18: 168/168 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F18 ai_e18: 126/126 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F18 ai_e18: 252/252 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F18 ai_e18: 14/14 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F18 ai_e18: 14/14 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F18 ai_e18: 126/126 match",
+   "    coverage 14/14 instructions"
+  ]
+ },
+ "80081F88": {
+  "programs": [
+   "E20"
+  ],
+  "maps": [
+   92,
+   87,
+   94,
+   86,
+   88,
+   89
+  ],
+  "only": "E20",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F88 ai_e20: 56/56 match",
+   "    coverage 61/66 instructions: never ran 80082068-80082078",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F88 ai_e20: 28/28 match",
+   "    coverage 61/66 instructions: never ran 80082068-80082078",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F88 ai_e20: 0/0 match",
+   "    coverage 0/66 instructions: never ran 80081F88-8008208C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F88 ai_e20: 14/14 match",
+   "    coverage 61/66 instructions: never ran 80082068-80082078",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F88 ai_e20: 42/42 match",
+   "    coverage 61/66 instructions: never ran 80082068-80082078",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F88 ai_e20: 0/0 match",
+   "    coverage 0/66 instructions: never ran 80081F88-8008208C"
+  ]
+ },
+ "8008213C": {
+  "programs": [
+   "E22"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "E22",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008213C ai_e22: 0/0 match",
+   "    coverage 0/13 instructions: never ran 8008213C-8008216C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008213C ai_e22: 0/0 match",
+   "    coverage 0/13 instructions: never ran 8008213C-8008216C"
+  ]
+ },
+ "80082238": {
+  "programs": [
+   "E24"
+  ],
+  "maps": [
+   153,
+   329,
+   368
+  ],
+  "only": "E24",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082238 ai_e24: 7/7 match",
+   "    coverage 78/78 instructions"
+  ]
+ },
+ "80082390": {
+  "programs": [
+   "E26"
+  ],
+  "maps": [
+   321,
+   388,
+   432,
+   451
+  ],
+  "only": "E26",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082390 ai_e26: 7/7 match",
+   "    coverage 30/30 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082390 ai_e26: 0/0 match",
+   "    coverage 0/30 instructions: never ran 80082390-80082404",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082390 ai_e26: 0/0 match",
+   "    coverage 0/30 instructions: never ran 80082390-80082404"
+  ]
+ },
+ "80082428": {
+  "programs": [
+   "E28"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082428 ai_e28: 378/378 match",
+   "    coverage 64/64 instructions"
+  ]
+ },
+ "80082554": {
+  "programs": [
+   "F255"
+  ],
+  "maps": [
+   0,
+   15,
+   20
+  ],
+  "only": "F255",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082554 ai_f255: 448/448 match",
+   "    coverage 18/103 instructions: never ran 8008257C-800826CC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082554 ai_f255: 126/126 match",
+   "    coverage 18/103 instructions: never ran 8008257C-800826CC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082554 ai_f255: 126/126 match",
+   "    coverage 18/103 instructions: never ran 8008257C-800826CC"
+  ]
+ },
+ "8006393C": {
+  "programs": [
+   "A1"
+  ],
+  "maps": [
+   51,
+   87,
+   85,
+   7,
+   9,
+   12
+  ],
+  "only": "A1",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006393C ai_a1: 84/84 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006393C ai_a1: 21/21 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006393C ai_a1: 266/266 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006393C ai_a1: 70/70 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006393C ai_a1: 224/224 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006393C ai_a1: 42/42 match",
+   "    coverage 3/3 instructions"
+  ]
+ },
+ "800639A0": {
+  "programs": [
+   "A3"
+  ],
+  "maps": [
+   380,
+   13,
+   353,
+   4,
+   5,
+   101
+  ],
+  "only": "A3",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639A0 ai_a3: 14/14 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639A0 ai_a3: 70/70 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639A0 ai_a3: 14/14 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639A0 ai_a3: 14/14 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639A0 ai_a3: 28/28 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639A0 ai_a3: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639A0-800639A8"
+  ]
+ },
+ "800639B8": {
+  "programs": [
+   "A5"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "A5",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639B8 ai_a5: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639B8-800639C0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639B8 ai_a5: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639B8-800639C0"
+  ]
+ },
+ "800639D0": {
+  "programs": [
+   "A7"
+  ],
+  "maps": [
+   444,
+   447,
+   59,
+   445,
+   448
+  ],
+  "only": "A7",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639D0 ai_a7: 42/42 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639D0 ai_a7: 56/56 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639D0 ai_a7: 42/42 match",
+   "    coverage 3/3 instructions"
+  ]
+ },
+ "800639F0": {
+  "programs": [
+   "A9"
+  ],
+  "maps": [
+   84,
+   411
+  ],
+  "only": "A9",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639F0 ai_a9: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639F0-800639F8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800639F0 ai_a9: 0/0 match",
+   "    coverage 0/3 instructions: never ran 800639F0-800639F8"
+  ]
+ },
+ "80063A08": {
+  "programs": [
+   "A11"
+  ],
+  "maps": [
+   109
+  ],
+  "only": "A11",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063A08 ai_a11: 35/35 match",
+   "    coverage 26/26 instructions"
+  ]
+ },
+ "80063B04": {
+  "programs": [
+   "A14"
+  ],
+  "maps": [
+   324
+  ],
+  "only": "A14",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063B04 ai_a14: 0/0 match",
+   "    coverage 0/6 instructions: never ran 80063B04-80063B18"
+  ]
+ },
+ "80063B84": {
+  "programs": [
+   "A16"
+  ],
+  "maps": [
+   326
+  ],
+  "only": "A16",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063B84 ai_a16: 28/28 match",
+   "    coverage 5/5 instructions"
+  ]
+ },
+ "80063BB0": {
+  "programs": [
+   "A18"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "A18",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BB0 ai_a18: 21/21 match",
+   "    coverage 4/4 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BB0 ai_a18: 28/28 match",
+   "    coverage 4/4 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BB0 ai_a18: 0/0 match",
+   "    coverage 0/4 instructions: never ran 80063BB0-80063BBC"
+  ]
+ },
+ "80063BCC": {
+  "programs": [
+   "A20"
+  ],
+  "maps": [
+   380,
+   447,
+   60,
+   12,
+   14,
+   15
+  ],
+  "only": "A20",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BCC ai_a20: 0/0 match",
+   "    coverage 0/3 instructions: never ran 80063BCC-80063BD4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BCC ai_a20: 0/0 match",
+   "    coverage 0/3 instructions: never ran 80063BCC-80063BD4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BCC ai_a20: 0/0 match",
+   "    coverage 0/3 instructions: never ran 80063BCC-80063BD4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BCC ai_a20: 14/14 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BCC ai_a20: 14/14 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063BCC ai_a20: 14/14 match",
+   "    coverage 3/3 instructions"
+  ]
+ },
+ "80063C5C": {
+  "programs": [
+   "A22"
+  ],
+  "maps": [
+   471
+  ],
+  "only": "A22",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063C5C ai_a22: 14/14 match",
+   "    coverage 88/88 instructions"
+  ]
+ },
+ "80063DC4": {
+  "programs": [
+   "A255"
+  ],
+  "maps": [
+   0,
+   11,
+   134
+  ],
+  "only": "A255",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063DC4 ai_a255: 448/448 match",
+   "    coverage 15/81 instructions: never ran 80063DF0-80063EF4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063DC4 ai_a255: 462/462 match",
+   "    coverage 33/81 instructions: never ran 80063DF0-80063DF4 80063E10-80063E4C 80063E68-80063EDC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80063DC4 ai_a255: 0/0 match",
+   "    coverage 0/81 instructions: never ran 80063DC4-80063F04"
+  ]
+ },
+ "800640C4": {
+  "programs": [
+   "C89"
+  ],
+  "maps": [
+   471
+  ],
+  "only": "C89",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800640C4 ai_c89: 28/28 match",
+   "    coverage 296/852 instructions: never ran 80064110-80064120 80064134-80064164 80064178-800642D8 800642E4-8006436C 800643A0-800643FC 80064410-800645A0 800646B8-80064794 800647B8-800649F8 80064A40 80064A60 80064B08 80064B30 80064B40 80064B50 80064B60 80064C28-80064D5C 80064DC8 80064DDC 80064DF0"
+  ]
+ },
+ "80065A38": {
+  "programs": [
+   "C91"
+  ],
+  "maps": [
+   162,
+   169,
+   176,
+   183,
+   186,
+   193
+  ],
+  "only": "C91",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065A38 ai_c91: 28/28 match",
+   "    coverage 198/323 instructions: never ran 80065A98-80065BB0 80065BD8-80065C08 80065CDC-80065CE0 80065DDC-80065E5C 80065EE8-80065EFC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065A38 ai_c91: 28/28 match",
+   "    coverage 197/323 instructions: never ran 80065A98-80065BB0 80065BEC-80065C08 80065CDC-80065CE0 80065D74-80065DA0 80065DDC-80065E5C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065A38 ai_c91: 28/28 match",
+   "    coverage 186/323 instructions: never ran 80065A98-80065BB0 80065BD8-80065C08 80065CDC-80065CE0 80065D74-80065DA0 80065DDC-80065E5C 80065EE8-80065EFC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065A38 ai_c91: 28/28 match",
+   "    coverage 187/323 instructions: never ran 80065A98-80065BB0 80065BD8-80065C08 80065CDC-80065CE0 80065D74-80065DA0 80065DDC-80065E5C 80065F00-80065F10",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065A38 ai_c91: 28/28 match",
+   "    coverage 192/323 instructions: never ran 80065A98-80065BB0 80065BEC-80065C08 80065CDC-80065CE0 80065D74-80065DA0 80065DDC-80065E5C 80065F00-80065F10",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80065A38 ai_c91: 28/28 match",
+   "    coverage 192/323 instructions: never ran 80065A98-80065BB0 80065BEC-80065C08 80065CDC-80065CE0 80065D74-80065DA0 80065DDC-80065E5C 80065F00-80065F10"
+  ]
+ },
+ "8006604C": {
+  "programs": [
+   "C93"
+  ],
+  "maps": [
+   259,
+   212,
+   248,
+   12,
+   16,
+   162
+  ],
+  "only": "C93",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006604C ai_c93: 140/140 match",
+   "    coverage 188/318 instructions: never ran 800660E8-80066118 80066178-800661C0 800661E8-800661EC 80066264-800662A8 800662D0-8006632C 80066340-80066388 80066450 8006645C 8006646C-80066478 800664A4-800664D0 800664EC-8006652C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006604C ai_c93: 112/112 match",
+   "    coverage 182/318 instructions: never ran 800660E8-80066118 80066178-800661C0 800661E8-800661EC 80066264-800662A8 800662D0-8006632C 80066340-80066388 80066450 8006645C 8006646C-80066478 800664A4-8006652C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006604C ai_c93: 112/112 match",
+   "    coverage 194/318 instructions: never ran 800660FC-80066118 80066178-800661C0 800661E8-800661EC 80066264-800662A8 800662D0-8006632C 80066340-80066388 80066450 8006646C-80066478 800664A4-800664D0 800664EC-8006652C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006604C ai_c93: 0/0 match",
+   "    coverage 0/318 instructions: never ran 8006604C-80066540",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006604C ai_c93: 0/0 match",
+   "    coverage 0/318 instructions: never ran 8006604C-80066540",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006604C ai_c93: 56/56 match",
+   "    coverage 128/318 instructions: never ran 800660FC-80066118 80066178-800661C0 800661E8-800661EC 80066264-800662A8 800662E4-80066490 800664A4-8006652C"
+  ]
+ },
+ "80066A88": {
+  "programs": [
+   "C96"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80066A88 ai_c96: 378/378 match",
+   "    coverage 37/53 instructions: never ran 80066AB0-80066ABC 80066AF0-80066B1C"
+  ]
+ },
+ "80067088": {
+  "programs": [
+   "C98"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80067088 ai_c98: 378/378 match",
+   "    coverage 22/222 instructions: never ran 800670C0-800673DC"
+  ]
+ },
+ "80067504": {
+  "programs": [
+   "C100"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80067504 ai_c100: 378/378 match",
+   "    coverage 94/351 instructions: never ran 80067598-8006759C 800675AC 800675C0-800675C4 800675D4 80067620-80067630 80067678-80067A4C"
+  ]
+ },
+ "80067E50": {
+  "programs": [
+   "C102"
+  ],
+  "maps": [
+   44
+  ],
+  "only": "C102",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80067E50 ai_c102: 0/0 match",
+   "    coverage 0/243 instructions: never ran 80067E50-80068218"
+  ]
+ },
+ "800685A4": {
+  "programs": [
+   "C2"
+  ],
+  "maps": [
+   82,
+   409,
+   84,
+   16,
+   43,
+   80
+  ],
+  "only": "C2",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800685A4 ai_c2: 0/0 match",
+   "    coverage 0/213 instructions: never ran 800685A4-800688F4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800685A4 ai_c2: 0/0 match",
+   "    coverage 0/213 instructions: never ran 800685A4-800688F4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800685A4 ai_c2: 42/42 match",
+   "    coverage 124/213 instructions: never ran 80068630-80068644 8006866C-8006869C 800686F8-80068728 80068740-800687D0 80068870-80068880 80068894-800688A8 800688BC-800688DC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800685A4 ai_c2: 42/42 match",
+   "    coverage 124/213 instructions: never ran 80068630-80068644 8006866C-8006869C 800686F8-80068728 80068740-800687D0 80068870-80068880 80068894-800688A8 800688BC-800688DC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800685A4 ai_c2: 0/0 match",
+   "    coverage 0/213 instructions: never ran 800685A4-800688F4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800685A4 ai_c2: 56/56 match",
+   "    coverage 124/213 instructions: never ran 80068630-80068644 8006866C-8006869C 800686F8-80068728 80068740-800687D0 80068870-80068880 80068894-800688A8 800688BC-800688DC"
+  ]
+ },
+ "80068CE0": {
+  "programs": [
+   "C4"
+  ],
+  "maps": [
+   29,
+   27,
+   70,
+   22,
+   23,
+   24
+  ],
+  "only": "C4",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068CE0 ai_c4: 56/56 match",
+   "    coverage 82/156 instructions: never ran 80068D00-80068D74 80068D98-80068D9C 80068DD0-80068E24 80068E50 80068EF0-80068F38",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068CE0 ai_c4: 56/56 match",
+   "    coverage 82/156 instructions: never ran 80068D00-80068D74 80068D98-80068D9C 80068DD0-80068E24 80068E50 80068EF0-80068F38",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068CE0 ai_c4: 84/84 match",
+   "    coverage 103/156 instructions: never ran 80068D00-80068D74 80068DD0-80068E24 80068E50",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068CE0 ai_c4: 28/28 match",
+   "    coverage 82/156 instructions: never ran 80068D00-80068D74 80068D98-80068D9C 80068DD0-80068E24 80068E50 80068EF0-80068F38",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068CE0 ai_c4: 0/0 match",
+   "    coverage 0/156 instructions: never ran 80068CE0-80068F4C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80068CE0 ai_c4: 0/0 match",
+   "    coverage 0/156 instructions: never ran 80068CE0-80068F4C"
+  ]
+ },
+ "8006928C": {
+  "programs": [
+   "C6"
+  ],
+  "maps": [
+   380,
+   5,
+   139,
+   101,
+   146,
+   149
+  ],
+  "only": "C6",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006928C ai_c6: 14/14 match",
+   "    coverage 68/129 instructions: never ran 800692F4-800692F8 80069318-80069328 80069380-80069384 80069398-80069464",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006928C ai_c6: 28/28 match",
+   "    coverage 84/129 instructions: never ran 80069318-80069328 80069380-80069384 800693D0-80069464",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006928C ai_c6: 28/28 match",
+   "    coverage 84/129 instructions: never ran 80069318-80069328 80069380-80069384 800693D0-80069464",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006928C ai_c6: 0/0 match",
+   "    coverage 0/129 instructions: never ran 8006928C-8006948C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006928C ai_c6: 14/14 match",
+   "    coverage 68/129 instructions: never ran 800692F4-800692F8 80069318-80069328 80069380-80069384 80069398-80069464"
+  ]
+ },
+ "80069C78": {
+  "programs": [
+   "C8"
+  ],
+  "maps": [
+   78
+  ],
+  "only": "C8",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80069C78 ai_c8: 56/56 match",
+   "    coverage 192/293 instructions: never ran 80069D14-80069D34 80069DC8-80069DE8 80069DF4-80069DFC 80069E20-80069E34 80069EB4-80069F08 80069F28-80069F58 80069F90-8006A028"
+  ]
+ },
+ "8006A4C4": {
+  "programs": [
+   "C10"
+  ],
+  "maps": [
+   114,
+   151,
+   110,
+   1,
+   2,
+   15
+  ],
+  "only": "C10",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A4C4 ai_c10: 0/0 match",
+   "    coverage 0/514 instructions: never ran 8006A4C4-8006ACC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A4C4 ai_c10: 28/28 match",
+   "    coverage 83/514 instructions: never ran 8006A4E8-8006A50C 8006A57C-8006A584 8006A5F4-8006AC34 8006AC48-8006AC84 8006AC98",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A4C4 ai_c10: 56/56 match",
+   "    coverage 140/514 instructions: never ran 8006A4E8-8006A50C 8006A5F4-8006A774 8006A7C0-8006AB8C 8006ABAC-8006ABC8 8006ABF8-8006AC14 8006AC30-8006AC34 8006AC58-8006AC68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A4C4 ai_c10: 0/0 match",
+   "    coverage 0/514 instructions: never ran 8006A4C4-8006ACC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A4C4 ai_c10: 0/0 match",
+   "    coverage 0/514 instructions: never ran 8006A4C4-8006ACC8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006A4C4 ai_c10: 0/0 match",
+   "    coverage 0/514 instructions: never ran 8006A4C4-8006ACC8"
+  ]
+ },
+ "8006B068": {
+  "programs": [
+   "C12"
+  ],
+  "maps": [
+   346,
+   126,
+   125,
+   47,
+   54,
+   103
+  ],
+  "only": "C12",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006B068 ai_c12: 0/0 match",
+   "    coverage 0/621 instructions: never ran 8006B068-8006BA18",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006B068 ai_c12: 0/0 match",
+   "    coverage 0/621 instructions: never ran 8006B068-8006BA18",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006B068 ai_c12: 0/0 match",
+   "    coverage 0/621 instructions: never ran 8006B068-8006BA18",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006B068 ai_c12: 0/0 match",
+   "    coverage 0/621 instructions: never ran 8006B068-8006BA18",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006B068 ai_c12: 0/0 match",
+   "    coverage 0/621 instructions: never ran 8006B068-8006BA18",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006B068 ai_c12: 0/0 match",
+   "    coverage 0/621 instructions: never ran 8006B068-8006BA18"
+  ]
+ },
+ "8006BD58": {
+  "programs": [
+   "C14"
+  ],
+  "maps": [
+   38,
+   40,
+   39,
+   426
+  ],
+  "only": "C14",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BD58 ai_c14: 0/0 match",
+   "    coverage 0/180 instructions: never ran 8006BD58-8006C024",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BD58 ai_c14: 0/0 match",
+   "    coverage 0/180 instructions: never ran 8006BD58-8006C024",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BD58 ai_c14: 0/0 match",
+   "    coverage 0/180 instructions: never ran 8006BD58-8006C024",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006BD58 ai_c14: 0/0 match",
+   "    coverage 0/180 instructions: never ran 8006BD58-8006C024"
+  ]
+ },
+ "8006C2E8": {
+  "programs": [
+   "C16"
+  ],
+  "maps": [
+   48,
+   72,
+   69,
+   3,
+   7,
+   11
+  ],
+  "only": "C16",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C2E8 ai_c16: 84/84 match",
+   "    coverage 144/219 instructions: never ran 8006C38C-8006C3CC 8006C478-8006C4B8 8006C4E4-8006C53C 8006C55C-8006C58C 8006C5F8-8006C608",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C2E8 ai_c16: 42/42 match",
+   "    coverage 106/219 instructions: never ran 8006C37C-8006C3E0 8006C400-8006C454 8006C478-8006C4B8 8006C4E4-8006C53C 8006C55C-8006C58C 8006C5BC-8006C5D4 8006C5F8-8006C608",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C2E8 ai_c16: 0/0 match",
+   "    coverage 0/219 instructions: never ran 8006C2E8-8006C650",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C2E8 ai_c16: 42/42 match",
+   "    coverage 106/219 instructions: never ran 8006C37C-8006C3E0 8006C400-8006C454 8006C478-8006C4B8 8006C4E4-8006C53C 8006C55C-8006C58C 8006C5BC-8006C5D4 8006C5F8-8006C608",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C2E8 ai_c16: 14/14 match",
+   "    coverage 82/219 instructions: never ran 8006C37C-8006C3E0 8006C400-8006C454 8006C478-8006C4B8 8006C4E4-8006C53C 8006C55C-8006C58C 8006C5A0-8006C5D4 8006C5E8-8006C63C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C2E8 ai_c16: 14/14 match",
+   "    coverage 82/219 instructions: never ran 8006C37C-8006C3E0 8006C400-8006C454 8006C478-8006C4B8 8006C4E4-8006C53C 8006C55C-8006C58C 8006C5A0-8006C5D4 8006C5E8-8006C63C"
+  ]
+ },
+ "8006C924": {
+  "programs": [
+   "C18"
+  ],
+  "maps": [
+   32,
+   12,
+   14,
+   30
+  ],
+  "only": "C18",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C924 ai_c18: 14/14 match",
+   "    coverage 152/264 instructions: never ran 8006C978-8006C9DC 8006CA18-8006CA5C 8006CB0C-8006CBA0 8006CBB0-8006CBB4 8006CBD4 8006CCB4-8006CCEC 8006CD00-8006CD2C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C924 ai_c18: 42/42 match",
+   "    coverage 158/264 instructions: never ran 8006C978-8006C9DC 8006CA04-8006CA5C 8006CB0C-8006CB4C 8006CB60-8006CBA0 8006CBB0-8006CBB4 8006CBD4 8006CCB4-8006CCEC 8006CD10-8006CD20",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006C924 ai_c18: 42/42 match",
+   "    coverage 158/264 instructions: never ran 8006C978-8006C9DC 8006CA04-8006CA5C 8006CB0C-8006CB4C 8006CB60-8006CBA0 8006CBB0-8006CBB4 8006CBD4 8006CCB4-8006CCEC 8006CD10-8006CD20"
+  ]
+ },
+ "8006CF90": {
+  "programs": [
+   "C20"
+  ],
+  "maps": [
+   101,
+   100,
+   128,
+   102,
+   103,
+   106
+  ],
+  "only": "C20",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CF90 ai_c20: 56/56 match",
+   "    coverage 146/428 instructions: never ran 8006CFF0-8006D008 8006D01C-8006D03C 8006D050-8006D06C 8006D0C4-8006D0F0 8006D130-8006D2AC 8006D2C4-8006D3E8 8006D408-8006D40C 8006D424-8006D4E4 8006D524-8006D570 8006D600-8006D610",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CF90 ai_c20: 70/70 match",
+   "    coverage 143/428 instructions: never ran 8006CFDC-8006D008 8006D01C-8006D03C 8006D050-8006D06C 8006D0C4-8006D0F0 8006D130-8006D2AC 8006D2C4-8006D3E8 8006D424-8006D4E4 8006D524-8006D570 8006D600-8006D610",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CF90 ai_c20: 70/70 match",
+   "    coverage 162/428 instructions: never ran 8006CFDC-8006D008 8006D01C-8006D03C 8006D060-8006D06C 8006D0C4-8006D0F0 8006D144-8006D2AC 8006D2D8-8006D3E8 8006D438-8006D4E4 8006D524-8006D570 8006D600-8006D610",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CF90 ai_c20: 0/0 match",
+   "    coverage 0/428 instructions: never ran 8006CF90-8006D63C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CF90 ai_c20: 0/0 match",
+   "    coverage 0/428 instructions: never ran 8006CF90-8006D63C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006CF90 ai_c20: 0/0 match",
+   "    coverage 0/428 instructions: never ran 8006CF90-8006D63C"
+  ]
+ },
+ "8006D928": {
+  "programs": [
+   "C22"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "C22",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006D928 ai_c22: 0/0 match",
+   "    coverage 0/209 instructions: never ran 8006D928-8006DC68",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006D928 ai_c22: 0/0 match",
+   "    coverage 0/209 instructions: never ran 8006D928-8006DC68"
+  ]
+ },
+ "8006DCEC": {
+  "programs": [
+   "C24"
+  ],
+  "maps": [
+   382,
+   386,
+   2,
+   4,
+   9,
+   13
+  ],
+  "only": "C24",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCEC ai_c24: 0/0 match",
+   "    coverage 0/2 instructions: never ran 8006DCEC-8006DCF0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCEC ai_c24: 0/0 match",
+   "    coverage 0/2 instructions: never ran 8006DCEC-8006DCF0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCEC ai_c24: 0/0 match",
+   "    coverage 0/2 instructions: never ran 8006DCEC-8006DCF0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCEC ai_c24: 0/0 match",
+   "    coverage 0/2 instructions: never ran 8006DCEC-8006DCF0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCEC ai_c24: 0/0 match",
+   "    coverage 0/2 instructions: never ran 8006DCEC-8006DCF0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006DCEC ai_c24: 0/0 match",
+   "    coverage 0/2 instructions: never ran 8006DCEC-8006DCF0"
+  ]
+ },
+ "8006E154": {
+  "programs": [
+   "C26"
+  ],
+  "maps": [
+   85,
+   9,
+   13,
+   22,
+   41,
+   42
+  ],
+  "only": "C26",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E154 ai_c26: 266/266 match",
+   "    coverage 186/247 instructions: never ran 8006E1E0-8006E244 8006E2C0-8006E2E8 8006E38C-8006E3E0 8006E40C-8006E410",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E154 ai_c26: 140/140 match",
+   "    coverage 166/247 instructions: never ran 8006E1CC-8006E244 8006E2AC-8006E2E8 8006E38C-8006E3E0 8006E3F8-8006E410 8006E4E8-8006E4F8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E154 ai_c26: 112/112 match",
+   "    coverage 166/247 instructions: never ran 8006E1CC-8006E244 8006E2AC-8006E2E8 8006E38C-8006E3E0 8006E3F8-8006E410 8006E4E8-8006E4F8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E154 ai_c26: 0/0 match",
+   "    coverage 0/247 instructions: never ran 8006E154-8006E52C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E154 ai_c26: 56/56 match",
+   "    coverage 106/247 instructions: never ran 8006E1CC-8006E244 8006E2AC-8006E2E8 8006E308-8006E3E0 8006E3F8-8006E410 8006E434-8006E49C 8006E4E8-8006E4F8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006E154 ai_c26: 0/0 match",
+   "    coverage 0/247 instructions: never ran 8006E154-8006E52C"
+  ]
+ },
+ "8006EA1C": {
+  "programs": [
+   "C28"
+  ],
+  "maps": [
+   430,
+   429,
+   88,
+   90,
+   92,
+   94
+  ],
+  "only": "C28",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EA1C ai_c28: 56/56 match",
+   "    coverage 204/291 instructions: never ran 8006EB0C-8006EB8C 8006EC04-8006EC14 8006EC3C-8006EC70 8006ECB0-8006ECC4 8006EDFC-8006EE6C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EA1C ai_c28: 0/0 match",
+   "    coverage 0/291 instructions: never ran 8006EA1C-8006EEA4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EA1C ai_c28: 0/0 match",
+   "    coverage 0/291 instructions: never ran 8006EA1C-8006EEA4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EA1C ai_c28: 0/0 match",
+   "    coverage 0/291 instructions: never ran 8006EA1C-8006EEA4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006EA1C ai_c28: 0/0 match",
+   "    coverage 0/291 instructions: never ran 8006EA1C-8006EEA4"
+  ]
+ },
+ "8006F278": {
+  "programs": [
+   "C30"
+  ],
+  "maps": [
+   444,
+   447,
+   59,
+   445,
+   448
+  ],
+  "only": "C30",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006F278 ai_c30: 42/42 match",
+   "    coverage 365/480 instructions: never ran 8006F2EC-8006F318 8006F33C-8006F38C 8006F494-8006F4D0 8006F634-8006F65C 8006F670-8006F6AC 8006F710-8006F73C 8006F760-8006F764 8006F774-8006F778 8006F83C-8006F878 8006F954-8006F958 8006F988-8006F998",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006F278 ai_c30: 56/56 match",
+   "    coverage 335/480 instructions: never ran 8006F2EC-8006F318 8006F33C-8006F38C 8006F474-8006F4D0 8006F634-8006F65C 8006F670-8006F6AC 8006F710-8006F73C 8006F760-8006F764 8006F774-8006F778 8006F7A0-8006F7FC 8006F898-8006F8D4 8006F988-8006F998",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006F278 ai_c30: 42/42 match",
+   "    coverage 339/480 instructions: never ran 8006F2EC-8006F318 8006F33C-8006F38C 8006F494-8006F4D0 8006F548-8006F54C 8006F634-8006F65C 8006F670-8006F6AC 8006F6FC-8006F70C 8006F760-8006F764 8006F774-8006F778 8006F7A0-8006F7FC 8006F83C-8006F894 8006F954-8006F958 8006F988-8006F998"
+  ]
+ },
+ "8006FE54": {
+  "programs": [
+   "C32",
+   "C34"
+  ],
+  "maps": [
+   82,
+   83,
+   409,
+   80,
+   410,
+   81
+  ],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006FE54 ai_c32: 350/350 match",
+   "    coverage 270/314 instructions: never ran 80070084-80070094 80070144-80070194 80070294-800702C4 80070310-80070320",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006FE54 ai_c32: 252/252 match",
+   "    coverage 257/314 instructions: never ran 80070084-80070094 80070144-80070194 80070294-800702F8 80070310-80070320",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006FE54 ai_c32: 322/322 match",
+   "    coverage 238/314 instructions: never ran 8006FF48-8006FF90 80070084-80070094 80070144-80070194 80070294-800702F8 80070310-80070320",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006FE54 ai_c32: 140/140 match",
+   "    coverage 257/314 instructions: never ran 80070144-80070194 80070294-80070320",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006FE54 ai_c32: 350/350 match",
+   "    coverage 238/314 instructions: never ran 8006FF20-8006FF30 8006FF48-8006FF90 80070144-80070194 80070294-800702F8 80070310-80070320",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8006FE54 ai_c32: 42/42 match",
+   "    coverage 156/314 instructions: never ran 8006FF20-8006FF30 8006FF48-8006FF90 8006FFE8-80070038 80070084-80070094 8007012C-80070248 80070294-80070320"
+  ]
+ },
+ "800707AC": {
+  "programs": [
+   "C35"
+  ],
+  "maps": [
+   114,
+   151,
+   111,
+   2,
+   148,
+   154
+  ],
+  "only": "C35",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800707AC ai_c35: 0/0 match",
+   "    coverage 0/346 instructions: never ran 800707AC-80070D10",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800707AC ai_c35: 70/70 match",
+   "    coverage 142/346 instructions: never ran 80070878-80070908 8007094C-80070960 80070980-80070998 800709A8-80070BF8 80070CA8-80070CB8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800707AC ai_c35: 56/56 match",
+   "    coverage 142/346 instructions: never ran 80070878-80070908 8007094C-80070960 80070980-80070998 800709A8-80070BF8 80070CA8-80070CB8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800707AC ai_c35: 0/0 match",
+   "    coverage 0/346 instructions: never ran 800707AC-80070D10",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800707AC ai_c35: 0/0 match",
+   "    coverage 0/346 instructions: never ran 800707AC-80070D10",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800707AC ai_c35: 0/0 match",
+   "    coverage 0/346 instructions: never ran 800707AC-80070D10"
+  ]
+ },
+ "80070D78": {
+  "programs": [
+   "C37"
+  ],
+  "maps": [
+   226,
+   229,
+   274,
+   367
+  ],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80070D78 ai_c37: 378/378 match",
+   "    coverage 186/194 instructions: never ran 80070DB0-80070DB4 80070FAC 80071044-80071054"
+  ]
+ },
+ "80071D48": {
+  "programs": [
+   "C79"
+  ],
+  "maps": [
+   76
+  ],
+  "only": "C79",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80071D48 ai_c79: 0/0 match",
+   "    coverage 0/34 instructions: never ran 80071D48-80071DCC"
+  ]
+ },
+ "80072164": {
+  "programs": [
+   "C39"
+  ],
+  "maps": [
+   84,
+   411
+  ],
+  "only": "C39",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80072164 ai_c39: 0/0 match",
+   "    coverage 0/601 instructions: never ran 80072164-80072AC4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80072164 ai_c39: 0/0 match",
+   "    coverage 0/601 instructions: never ran 80072164-80072AC4"
+  ]
+ },
+ "8007318C": {
+  "programs": [
+   "C41"
+  ],
+  "maps": [
+   25,
+   34,
+   399
+  ],
+  "only": "C41",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007318C ai_c41: 0/0 match",
+   "    coverage 0/314 instructions: never ran 8007318C-80073670",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007318C ai_c41: 0/0 match",
+   "    coverage 0/314 instructions: never ran 8007318C-80073670",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007318C ai_c41: 0/0 match",
+   "    coverage 0/314 instructions: never ran 8007318C-80073670"
+  ]
+ },
+ "800736A4": {
+  "programs": [
+   "C43"
+  ],
+  "maps": [
+   153,
+   329,
+   368
+  ],
+  "only": "C43",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800736A4 ai_c43: 28/28 match",
+   "    coverage 179/687 instructions: never ran 800736D8-800736DC 80073700-80073728 80073794-800738BC 8007391C-8007393C 800739EC-80073A44 80073A6C-80073AD8 80073B14-80073CD0 80073CF0-80073CF4 80073D08-80073D28 80073D4C-80073F0C 80073F30-80073FF8 8007400C-8007403C 80074050-8007413C"
+  ]
+ },
+ "80074AC8": {
+  "programs": [
+   "C45"
+  ],
+  "maps": [
+   321,
+   388,
+   432,
+   451
+  ],
+  "only": "C45",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074AC8 ai_c45: 7/7 match",
+   "    coverage 71/84 instructions: never ran 80074AE8-80074AFC 80074B28-80074B30 80074BC4-80074BD0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074AC8 ai_c45: 0/0 match",
+   "    coverage 0/84 instructions: never ran 80074AC8-80074C14",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80074AC8 ai_c45: 0/0 match",
+   "    coverage 0/84 instructions: never ran 80074AC8-80074C14"
+  ]
+ },
+ "80074CC0": {
+  "programs": [
+   "C46"
+  ],
+  "maps": [
+   109
+  ],
+  "only": "C46",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "m109_240.bin original stopped: memory CF140121",
+   "m109_420.bin original stopped: memory 893F0120",
+   "m109_420.bin original stopped: memory 5AEB0134",
+   "m109_s500.bin original stopped: memory 61320135",
+   "m109_s500.bin original stopped: memory B6B00143",
+   "m109_s500.bin original stopped: memory 8D35014D",
+   "m109_s501.bin original stopped: memory 1A0B0121",
+   "m109_s501.bin original stopped: memory FC250121",
+   "80074CC0 ai_c46: 27/27 match",
+   "    coverage 442/1039 instructions: never ran 80074D78-80074DBC 80074E3C-80074F08 80075018-80075164 80075198-800751E0 80075208-80075258 800752D4-80075374 8007538C-800753F4 80075430-80075440 80075454-8007547C 800754C8-80075524 800755C4-800755F0 80075634-800756D4 800756F8-8007570C 8007573C-80075ACC 80075BA8 80075BC0-80075BD4"
+  ]
+ },
+ "800762E8": {
+  "programs": [
+   "C47"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "C47",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800762E8 ai_c47: 56/56 match",
+   "    coverage 199/804 instructions: never ran 80076318-80076350 800764EC-80076B34 80076B70-80076D6C 80076D90-80076DD8 80076E04-80076E10 80076E5C-80076E70 80076ED8-80076F4C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800762E8 ai_c47: 14/14 match",
+   "    coverage 115/804 instructions: never ran 80076318-80076350 80076380-800763C8 80076424-8007645C 800764EC-80076B34 80076B70-80076E74 80076EA4-80076F4C"
+  ]
+ },
+ "800770BC": {
+  "programs": [
+   "C82"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "C82",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800770BC ai_c82: 0/0 match",
+   "    coverage 0/134 instructions: never ran 800770BC-800772D0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800770BC ai_c82: 0/0 match",
+   "    coverage 0/134 instructions: never ran 800770BC-800772D0"
+  ]
+ },
+ "80077D40": {
+  "programs": [
+   "C80"
+  ],
+  "maps": [
+   123
+  ],
+  "only": "C80",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80077D40 ai_c80: 14/14 match",
+   "    coverage 128/217 instructions: never ran 80077D84-80077D88 80077DD0-80077DD8 80077E8C-80077E90 80077EC0-80077EC4 80077ED8-80077EE0 80077EF4-80077F44 80077FB0-8007808C"
+  ]
+ },
+ "8007947C": {
+  "programs": [
+   "C50"
+  ],
+  "maps": [
+   324
+  ],
+  "only": "C50",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007947C ai_c50: 0/0 match",
+   "    coverage 0/566 instructions: never ran 8007947C-80079D50"
+  ]
+ },
+ "80079E4C": {
+  "programs": [
+   "C51"
+  ],
+  "maps": [
+   325
+  ],
+  "only": "C51",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80079E4C ai_c51: 14/14 match",
+   "    coverage 52/1262 instructions: never ran 80079E88-80079EA8 80079F0C-8007B1CC"
+  ]
+ },
+ "8007B300": {
+  "programs": [
+   "C53"
+  ],
+  "maps": [
+   326
+  ],
+  "only": "C53",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007B300 ai_c53: 0/0 match",
+   "    coverage 0/188 instructions: never ran 8007B300-8007B5EC"
+  ]
+ },
+ "8007C16C": {
+  "programs": [
+   "C86"
+  ],
+  "maps": [
+   326
+  ],
+  "only": "C86",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007C16C ai_c86: 0/0 match",
+   "    coverage 0/96 instructions: never ran 8007C16C-8007C2E8"
+  ]
+ },
+ "8007CB30": {
+  "programs": [
+   "C56"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "C56",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "m327_s418.bin original stopped: memory CF140071",
+   "m327_s418.bin original stopped: memory 893F0070",
+   "m327_s418.bin original stopped: memory 5AEB0084",
+   "m327_s424.bin original stopped: memory 61320085",
+   "m327_s424.bin original stopped: memory B6B00093",
+   "m327_s424.bin original stopped: memory 8D35009D",
+   "8007CB30 ai_c56: 15/15 match",
+   "    coverage 53/107 instructions: never ran 8007CBBC-8007CBF0 8007CC08-8007CC38 8007CC4C-8007CC68 8007CC7C-8007CCC4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "m347_s418.bin original stopped: memory CF140071",
+   "m347_s418.bin original stopped: memory 893F0070",
+   "m347_s418.bin original stopped: memory 5AEB0084",
+   "m347_s418.bin original stopped: memory 61320085",
+   "m347_s418.bin original stopped: memory B6B00093",
+   "m347_s418.bin original stopped: memory 8D35009D",
+   "8007CB30 ai_c56: 22/22 match",
+   "    coverage 63/107 instructions: never ran 8007CBBC-8007CBF0 8007CC18-8007CC38 8007CC4C-8007CC50 8007CC7C-8007CCC4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CB30 ai_c56: 0/0 match",
+   "    coverage 0/107 instructions: never ran 8007CB30-8007CCD8"
+  ]
+ },
+ "8007CCE4": {
+  "programs": [
+   "C58"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "C58",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CCE4 ai_c58: 0/0 match",
+   "    coverage 0/115 instructions: never ran 8007CCE4-8007CEAC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CCE4 ai_c58: 0/0 match",
+   "    coverage 0/115 instructions: never ran 8007CCE4-8007CEAC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007CCE4 ai_c58: 0/0 match",
+   "    coverage 0/115 instructions: never ran 8007CCE4-8007CEAC"
+  ]
+ },
+ "8007D0D4": {
+  "programs": [
+   "C60"
+  ],
+  "maps": [
+   309
+  ],
+  "only": "C60",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007D0D4 ai_c60: 0/0 match",
+   "    coverage 0/46 instructions: never ran 8007D0D4-8007D188"
+  ]
+ },
+ "8007D1AC": {
+  "programs": [
+   "C62"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007D1AC ai_c62: 378/378 match",
+   "    coverage 148/187 instructions: never ran 8007D1D0-8007D1DC 8007D2F0-8007D2F4 8007D308-8007D330 8007D374-8007D3C8"
+  ]
+ },
+ "8007D61C": {
+  "programs": [
+   "C64"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007D61C ai_c64: 378/378 match",
+   "    coverage 51/87 instructions: never ran 8007D658-8007D6E4"
+  ]
+ },
+ "8007D894": {
+  "programs": [
+   "C66"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007D894 ai_c66: 378/378 match",
+   "    coverage 69/101 instructions: never ran 8007D8C4-8007D8C8 8007D99C-8007DA10"
+  ]
+ },
+ "8007DBF0": {
+  "programs": [
+   "C68"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DBF0 ai_c68: 378/378 match",
+   "    coverage 79/195 instructions: never ran 8007DD18-8007DEE4"
+  ]
+ },
+ "8007DFC0": {
+  "programs": [
+   "C70"
+  ],
+  "maps": [
+   92,
+   86,
+   87,
+   88,
+   89,
+   90
+  ],
+  "only": "C70",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DFC0 ai_c70: 56/56 match",
+   "    coverage 6/32 instructions: never ran 8007DFD0-8007E034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DFC0 ai_c70: 14/14 match",
+   "    coverage 6/32 instructions: never ran 8007DFD0-8007E034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DFC0 ai_c70: 28/28 match",
+   "    coverage 6/32 instructions: never ran 8007DFD0-8007E034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DFC0 ai_c70: 42/42 match",
+   "    coverage 6/32 instructions: never ran 8007DFD0-8007E034",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DFC0 ai_c70: 0/0 match",
+   "    coverage 0/32 instructions: never ran 8007DFC0-8007E03C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007DFC0 ai_c70: 42/42 match",
+   "    coverage 6/32 instructions: never ran 8007DFD0-8007E034"
+  ]
+ },
+ "8007E1A4": {
+  "programs": [
+   "C72"
+  ],
+  "maps": [
+   17,
+   48,
+   52
+  ],
+  "only": "C72",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E1A4 ai_c72: 0/0 match",
+   "    coverage 0/99 instructions: never ran 8007E1A4-8007E32C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E1A4 ai_c72: 0/0 match",
+   "    coverage 0/99 instructions: never ran 8007E1A4-8007E32C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E1A4 ai_c72: 0/0 match",
+   "    coverage 0/99 instructions: never ran 8007E1A4-8007E32C"
+  ]
+ },
+ "8007E39C": {
+  "programs": [
+   "C74"
+  ],
+  "maps": [
+   380,
+   447,
+   17,
+   12,
+   14,
+   15
+  ],
+  "only": "C74",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E39C ai_c74: 0/0 match",
+   "    coverage 0/126 instructions: never ran 8007E39C-8007E590",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E39C ai_c74: 0/0 match",
+   "    coverage 0/126 instructions: never ran 8007E39C-8007E590",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E39C ai_c74: 28/28 match",
+   "    coverage 61/126 instructions: never ran 8007E3EC-8007E4C4 8007E4F4-8007E500 8007E548-8007E55C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E39C ai_c74: 14/14 match",
+   "    coverage 50/126 instructions: never ran 8007E3EC-8007E4C4 8007E4F4-8007E500 8007E520-8007E560",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E39C ai_c74: 14/14 match",
+   "    coverage 105/126 instructions: never ran 8007E4F4-8007E500 8007E520-8007E560",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E39C ai_c74: 14/14 match",
+   "    coverage 50/126 instructions: never ran 8007E3EC-8007E4C4 8007E4F4-8007E500 8007E520-8007E560"
+  ]
+ },
+ "8007E820": {
+  "programs": [
+   "C76"
+  ],
+  "maps": [
+   341,
+   344,
+   346,
+   26,
+   30,
+   343
+  ],
+  "only": "C76",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E820 ai_c76: 0/0 match",
+   "    coverage 0/42 instructions: never ran 8007E820-8007E8C4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E820 ai_c76: 14/14 match",
+   "    coverage 20/42 instructions: never ran 8007E83C-8007E890",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E820 ai_c76: 14/14 match",
+   "    coverage 20/42 instructions: never ran 8007E83C-8007E890",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E820 ai_c76: 14/14 match",
+   "    coverage 20/42 instructions: never ran 8007E83C-8007E890",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E820 ai_c76: 0/0 match",
+   "    coverage 0/42 instructions: never ran 8007E820-8007E8C4"
+  ]
+ },
+ "8007E964": {
+  "programs": [
+   "C255"
+  ],
+  "maps": [
+   11,
+   17,
+   439
+  ],
+  "only": "C255",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E964 ai_c255: 434/434 match",
+   "    coverage 79/387 instructions: never ran 8007E998-8007EB8C 8007EC1C 8007EC30-8007EC78 8007ECA8-8007ECC8 8007ECE4-8007EF44",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E964 ai_c255: 0/0 match",
+   "    coverage 0/387 instructions: never ran 8007E964-8007EF6C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007E964 ai_c255: 0/0 match",
+   "    coverage 0/387 instructions: never ran 8007E964-8007EF6C"
+  ]
+ },
+ "8007FDC0": {
+  "programs": [
+   "C84"
+  ],
+  "maps": [
+   435,
+   436,
+   437,
+   438
+  ],
+  "only": "C84",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007FDC0 ai_c84: 7/7 match",
+   "    coverage 118/278 instructions: never ran 8007FDE8-8007FDEC 8007FE14-8007FE30 8007FE44-8007FE48 8007FE94-8007FED8 8007FF18-8007FF28 8007FFA0-8008006C 800800A4-800800D0 800800EC-80080134 80080148-8008014C 80080160-800801FC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007FDC0 ai_c84: 7/7 match",
+   "    coverage 118/278 instructions: never ran 8007FDE8-8007FDEC 8007FE14-8007FE30 8007FE44-8007FE48 8007FE94-8007FED8 8007FF18-8007FF28 8007FFA0-8008006C 800800A4-800800D0 800800EC-80080134 80080148-8008014C 80080160-800801FC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8007FDC0 ai_c84: 7/7 match",
+   "    coverage 118/278 instructions: never ran 8007FDE8-8007FDEC 8007FE14-8007FE30 8007FE44-8007FE48 8007FE94-8007FED8 8007FF18-8007FF28 8007FFA0-8008006C 800800A4-800800D0 800800EC-80080134 80080148-8008014C 80080160-800801FC"
+  ]
+ },
+ "8008027C": {
+  "programs": [
+   "D2"
+  ],
+  "maps": [
+   82,
+   409,
+   84,
+   16,
+   43,
+   80
+  ],
+  "only": "D2",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008027C ai_d2: 0/0 match",
+   "    coverage 0/80 instructions: never ran 8008027C-800803B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008027C ai_d2: 0/0 match",
+   "    coverage 0/80 instructions: never ran 8008027C-800803B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008027C ai_d2: 42/42 match",
+   "    coverage 38/80 instructions: never ran 800802E0-80080384",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008027C ai_d2: 42/42 match",
+   "    coverage 38/80 instructions: never ran 800802E0-80080384",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008027C ai_d2: 0/0 match",
+   "    coverage 0/80 instructions: never ran 8008027C-800803B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008027C ai_d2: 56/56 match",
+   "    coverage 38/80 instructions: never ran 800802E0-80080384"
+  ]
+ },
+ "80080470": {
+  "programs": [
+   "D5"
+  ],
+  "maps": [
+   430,
+   29,
+   31,
+   3,
+   4,
+   5
+  ],
+  "only": "D5",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080470 ai_d5: 56/56 match",
+   "    coverage 38/66 instructions: never ran 800804D4-80080540",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080470 ai_d5: 42/42 match",
+   "    coverage 38/66 instructions: never ran 800804D4-80080540",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080470 ai_d5: 112/112 match",
+   "    coverage 38/66 instructions: never ran 800804D4-80080540",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080470 ai_d5: 28/28 match",
+   "    coverage 38/66 instructions: never ran 800804D4-80080540",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080470 ai_d5: 14/14 match",
+   "    coverage 38/66 instructions: never ran 800804D4-80080540",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080470 ai_d5: 28/28 match",
+   "    coverage 38/66 instructions: never ran 800804D4-80080540"
+  ]
+ },
+ "800805DC": {
+  "programs": [
+   "D7"
+  ],
+  "maps": [
+   78
+  ],
+  "only": "D7",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800805DC ai_d7: 56/56 match",
+   "    coverage 25/25 instructions"
+  ]
+ },
+ "800806A4": {
+  "programs": [
+   "D9"
+  ],
+  "maps": [
+   383,
+   148,
+   368
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800806A4 ai_d9: 336/336 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800806A4 ai_d9: 210/210 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800806A4 ai_d9: 196/196 match",
+   "    coverage 25/25 instructions"
+  ]
+ },
+ "80080788": {
+  "programs": [
+   "D11"
+  ],
+  "maps": [
+   444,
+   17,
+   439
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080788 ai_d11: 308/308 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080788 ai_d11: 252/252 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080788 ai_d11: 252/252 match",
+   "    coverage 25/25 instructions"
+  ]
+ },
+ "80080924": {
+  "programs": [
+   "D13"
+  ],
+  "maps": [
+   383,
+   151,
+   384,
+   148,
+   149,
+   150
+  ],
+  "only": "D13",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080924 ai_d13: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080924-80080984",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080924 ai_d13: 14/14 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080924 ai_d13: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080924-80080984",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080924 ai_d13: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080924-80080984",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080924 ai_d13: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080924-80080984",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080924 ai_d13: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080924-80080984"
+  ]
+ },
+ "800809C4": {
+  "programs": [
+   "D15"
+  ],
+  "maps": [
+   76
+  ],
+  "only": "D15",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800809C4 ai_d15: 0/0 match",
+   "    coverage 0/11 instructions: never ran 800809C4-800809EC"
+  ]
+ },
+ "80080A74": {
+  "programs": [
+   "D17"
+  ],
+  "maps": [
+   25,
+   34,
+   399
+  ],
+  "only": "D17",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080A74 ai_d17: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080A74-80080AD4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080A74 ai_d17: 14/14 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080A74 ai_d17: 14/14 match",
+   "    coverage 25/25 instructions"
+  ]
+ },
+ "80080B50": {
+  "programs": [
+   "D19"
+  ],
+  "maps": [
+   321,
+   388,
+   432,
+   451
+  ],
+  "only": "D19",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080B50 ai_d19: 35/35 match",
+   "    coverage 25/25 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080B50 ai_d19: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080B50-80080BB0",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080B50 ai_d19: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80080B50-80080BB0"
+  ]
+ },
+ "80080CD4": {
+  "programs": [
+   "D21"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "D21",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080CD4 ai_d21: 84/84 match",
+   "    coverage 39/75 instructions: never ran 80080D3C-80080DA4 80080DC4-80080DE4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080CD4 ai_d21: 14/14 match",
+   "    coverage 30/75 instructions: never ran 80080D34-80080DE4"
+  ]
+ },
+ "80080E68": {
+  "programs": [
+   "D23"
+  ],
+  "maps": [
+   99,
+   123,
+   449
+  ],
+  "only": "D23",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080E68 ai_d23: 7/7 match",
+   "    coverage 30/30 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080E68 ai_d23: 0/0 match",
+   "    coverage 0/30 instructions: never ran 80080E68-80080EDC",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080E68 ai_d23: 7/7 match",
+   "    coverage 30/30 instructions"
+  ]
+ },
+ "80080F44": {
+  "programs": [
+   "D25"
+  ],
+  "maps": [
+   324
+  ],
+  "only": "D25",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080F44 ai_d25: 0/0 match",
+   "    coverage 0/2 instructions: never ran 80080F44-80080F48"
+  ]
+ },
+ "80080FBC": {
+  "programs": [
+   "D27"
+  ],
+  "maps": [
+   326
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80080FBC ai_d27: 14/14 match",
+   "    coverage 20/20 instructions"
+  ]
+ },
+ "80081048": {
+  "programs": [
+   "D29"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "D29",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081048 ai_d29: 21/21 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081048 ai_d29: 28/28 match",
+   "    coverage 3/3 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081048 ai_d29: 0/0 match",
+   "    coverage 0/3 instructions: never ran 80081048-80081050"
+  ]
+ },
+ "8008109C": {
+  "programs": [
+   "D31"
+  ],
+  "maps": [
+   75,
+   69,
+   408,
+   70,
+   71,
+   72
+  ],
+  "only": "D31",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008109C ai_d31: 224/224 match",
+   "    coverage 11/17 instructions: never ran 800810C0-800810D4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008109C ai_d31: 252/252 match",
+   "    coverage 11/17 instructions: never ran 800810C0-800810D4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008109C ai_d31: 308/308 match",
+   "    coverage 11/17 instructions: never ran 800810C0-800810D4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008109C ai_d31: 42/42 match",
+   "    coverage 11/17 instructions: never ran 800810C0-800810D4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008109C ai_d31: 168/168 match",
+   "    coverage 11/17 instructions: never ran 800810C0-800810D4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "8008109C ai_d31: 56/56 match",
+   "    coverage 11/17 instructions: never ran 800810C0-800810D4"
+  ]
+ },
+ "80081124": {
+  "programs": [
+   "D33"
+  ],
+  "maps": [
+   50,
+   128,
+   125,
+   126,
+   304,
+   396
+  ],
+  "only": "D33",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081124 ai_d33: 112/112 match",
+   "    coverage 12/16 instructions: never ran 8008114C-80081158",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081124 ai_d33: 28/28 match",
+   "    coverage 12/16 instructions: never ran 8008114C-80081158",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081124 ai_d33: 42/42 match",
+   "    coverage 12/16 instructions: never ran 8008114C-80081158",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081124 ai_d33: 0/0 match",
+   "    coverage 0/16 instructions: never ran 80081124-80081160",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081124 ai_d33: 0/0 match",
+   "    coverage 0/16 instructions: never ran 80081124-80081160",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081124 ai_d33: 28/28 match",
+   "    coverage 12/16 instructions: never ran 8008114C-80081158"
+  ]
+ },
+ "800811A8": {
+  "programs": [
+   "D35"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800811A8 ai_d35: 378/378 match",
+   "    coverage 41/41 instructions"
+  ]
+ },
+ "80081264": {
+  "programs": [
+   "D37"
+  ],
+  "maps": [
+   95,
+   322
+  ],
+  "only": "D37",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081264 ai_d37: 0/0 match",
+   "    coverage 0/15 instructions: never ran 80081264-8008129C",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081264 ai_d37: 0/0 match",
+   "    coverage 0/15 instructions: never ran 80081264-8008129C"
+  ]
+ },
+ "800812DC": {
+  "programs": [
+   "D39"
+  ],
+  "maps": [],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800812DC ai_d39: 378/378 match",
+   "    coverage 23/24 instructions: never ran 80081314"
+  ]
+ },
+ "800813D4": {
+  "programs": [
+   "D41"
+  ],
+  "maps": [],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800813D4 ai_d41: 378/378 match",
+   "    coverage 15/15 instructions"
+  ]
+ },
+ "80081460": {
+  "programs": [
+   "D43"
+  ],
+  "maps": [
+   471
+  ],
+  "only": "D43",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081460 ai_d43: 28/28 match",
+   "    coverage 18/18 instructions"
+  ]
+ },
+ "80081518": {
+  "programs": [
+   "D45"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081518 ai_d45: 378/378 match",
+   "    coverage 11/15 instructions: never ran 8008153C-80081548"
+  ]
+ },
+ "800815C8": {
+  "programs": [
+   "E0",
+   "E1"
+  ],
+  "maps": [
+   383,
+   82,
+   409,
+   1,
+   2,
+   3
+  ],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815C8 ai_e0: 336/336 match",
+   "    coverage 8/8 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815C8 ai_e0: 350/350 match",
+   "    coverage 8/8 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815C8 ai_e0: 322/322 match",
+   "    coverage 8/8 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815C8 ai_e0: 56/56 match",
+   "    coverage 8/8 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815C8 ai_e0: 364/364 match",
+   "    coverage 8/8 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800815C8 ai_e0: 266/266 match",
+   "    coverage 8/8 instructions"
+  ]
+ },
+ "80081658": {
+  "programs": [
+   "E3"
+  ],
+  "maps": [
+   388,
+   382,
+   386,
+   2,
+   4,
+   9
+  ],
+  "only": "E3",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081658 ai_e3: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80081658-800816B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081658 ai_e3: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80081658-800816B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081658 ai_e3: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80081658-800816B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081658 ai_e3: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80081658-800816B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081658 ai_e3: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80081658-800816B8",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081658 ai_e3: 0/0 match",
+   "    coverage 0/25 instructions: never ran 80081658-800816B8"
+  ]
+ },
+ "80081720": {
+  "programs": [
+   "E5"
+  ],
+  "maps": [
+   325
+  ],
+  "only": "E5",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081720 ai_e5: 0/0 match",
+   "    coverage 0/34 instructions: never ran 80081720-800817A4"
+  ]
+ },
+ "800817C8": {
+  "programs": [
+   "E7"
+  ],
+  "maps": [
+   327,
+   347,
+   415
+  ],
+  "only": "E7",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800817C8 ai_e7: 0/0 match",
+   "    coverage 0/8 instructions: never ran 800817C8-800817E4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800817C8 ai_e7: 0/0 match",
+   "    coverage 0/8 instructions: never ran 800817C8-800817E4",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "800817C8 ai_e7: 0/0 match",
+   "    coverage 0/8 instructions: never ran 800817C8-800817E4"
+  ]
+ },
+ "80081808": {
+  "programs": [
+   "E9"
+  ],
+  "maps": [
+   309
+  ],
+  "only": "E9",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081808 ai_e9: 0/0 match",
+   "    coverage 0/189 instructions: never ran 80081808-80081AF8"
+  ]
+ },
+ "80081B1C": {
+  "programs": [
+   "E11"
+  ],
+  "maps": [
+   95,
+   99,
+   123
+  ],
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081B1C ai_e11: 28/28 match",
+   "    coverage 8/8 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081B1C ai_e11: 273/273 match",
+   "    coverage 8/8 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081B1C ai_e11: 56/56 match",
+   "    coverage 8/8 instructions"
+  ]
+ },
+ "80081BCC": {
+  "programs": [
+   "E13"
+  ],
+  "maps": [
+   321
+  ],
+  "only": "E13",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081BCC ai_e13: 28/28 match",
+   "    coverage 26/26 instructions"
+  ]
+ },
+ "80081C6C": {
+  "programs": [
+   "E15"
+  ],
+  "maps": [
+   75,
+   69,
+   71,
+   70,
+   72,
+   73
+  ],
+  "only": "E15",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C6C ai_e15: 224/224 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C6C ai_e15: 252/252 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C6C ai_e15: 210/210 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C6C ai_e15: 42/42 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C6C ai_e15: 56/56 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081C6C ai_e15: 98/98 match",
+   "    coverage 14/14 instructions"
+  ]
+ },
+ "80081CDC": {
+  "programs": [
+   "E17"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081CDC ai_e17: 378/378 match",
+   "    coverage 104/143 instructions: never ran 80081D1C-80081D20 80081D64 80081D70 80081E0C-80081E10 80081E1C-80081E9C"
+  ]
+ },
+ "80081F50": {
+  "programs": [
+   "E19"
+  ],
+  "maps": [
+   17,
+   439,
+   158,
+   2,
+   7,
+   33
+  ],
+  "only": "E19",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F50 ai_e19: 98/98 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F50 ai_e19: 98/98 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F50 ai_e19: 42/42 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F50 ai_e19: 42/42 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F50 ai_e19: 14/14 match",
+   "    coverage 14/14 instructions",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80081F50 ai_e19: 14/14 match",
+   "    coverage 14/14 instructions"
+  ]
+ },
+ "80082090": {
+  "programs": [
+   "E21"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082090 ai_e21: 378/378 match",
+   "    coverage 32/43 instructions: never ran 800820B0-800820D8"
+  ]
+ },
+ "80082170": {
+  "programs": [
+   "E23"
+  ],
+  "maps": [
+   324
+  ],
+  "only": "E23",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082170 ai_e23: 0/0 match",
+   "    coverage 0/50 instructions: never ran 80082170-80082234"
+  ]
+ },
+ "80082370": {
+  "programs": [
+   "E25"
+  ],
+  "maps": [],
+  "only": null,
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082370 ai_e25: 378/378 match",
+   "    coverage 8/8 instructions"
+  ]
+ },
+ "80082408": {
+  "programs": [
+   "E27"
+  ],
+  "maps": [
+   471
+  ],
+  "only": "E27",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082408 ai_e27: 28/28 match",
+   "    coverage 8/8 instructions"
+  ]
+ },
+ "80082528": {
+  "programs": [
+   "F1"
+  ],
+  "maps": [
+   17,
+   48,
+   52
+  ],
+  "only": "F1",
+  "ok": true,
+  "log": [
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082528 ai_f1: 0/0 match",
+   "    coverage 0/11 instructions: never ran 80082528-80082550",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082528 ai_f1: 0/0 match",
+   "    coverage 0/11 instructions: never ran 80082528-80082550",
+   "pygame 2.6.1 (SDL 2.28.4, Python 3.13.16)",
+   "Hello from the pygame community. https://www.pygame.org/contribute.html",
+   "80082528 ai_f1: 0/0 match",
+   "    coverage 0/11 instructions: never ran 80082528-80082550"
+  ]
+ }
+}

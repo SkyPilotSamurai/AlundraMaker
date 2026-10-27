@@ -1,0 +1,11539 @@
+{
+"0": {
+"name": "Silence",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": []
+},
+"script_maps": [
+78,
+107,
+115,
+119,
+121,
+122,
+127,
+424,
+475
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"1": {
+"name": "Cursor movement",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+1
+]
+},
+"script_maps": [
+477
+],
+"playsound_calls": [
+"0x800510a8",
+"0x800510fc",
+"0x8005117c",
+"0x800511f8",
+"0x800518cc",
+"0x80051908",
+"0x80053174",
+"0x800531c8",
+"0x80053248",
+"0x800532c4",
+"0x80058568",
+"0x800585b4",
+"0x8005861c",
+"0x80058680"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"2": {
+"name": "OK",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+2
+]
+},
+"script_maps": [
+21,
+22,
+23,
+24,
+26,
+27,
+28,
+30,
+32,
+36,
+37,
+39,
+44,
+49,
+50,
+51,
+52,
+53,
+54,
+61,
+64,
+69,
+74,
+75,
+78,
+80,
+81,
+82,
+83,
+87,
+88,
+89,
+91,
+92,
+94,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+108,
+110,
+111,
+113,
+115,
+116,
+122,
+125,
+128,
+139,
+140,
+142,
+146,
+148,
+149,
+150,
+151,
+152,
+154,
+158,
+303,
+304,
+307,
+337,
+338,
+340,
+343,
+344,
+345,
+347,
+351,
+353,
+382,
+383,
+384,
+386,
+394,
+400,
+408,
+409,
+410,
+421,
+422,
+423,
+424,
+426,
+429,
+441,
+442,
+444,
+448,
+477
+],
+"playsound_calls": [
+"0x80051884",
+"0x80059754",
+"0x8005981c",
+"0x8005984c",
+"0x8005987c",
+"0x800598ac",
+"0x80059928"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"3": {
+"name": "Error",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+3
+]
+},
+"script_maps": [
+21,
+27,
+30,
+44,
+102,
+128,
+303,
+400
+],
+"playsound_calls": [
+"0x8002f110",
+"0x8002f180",
+"0x80034a5c",
+"0x80034ca4",
+"0x80034e18",
+"0x80034e88",
+"0x80034ef8",
+"0x80034f6c",
+"0x80035000",
+"0x80035074",
+"0x8003512c",
+"0x8003525c",
+"0x80059774",
+"0x80059918"
+],
+"why": "user name"
+}
+},
+"4": {
+"name": "Menu open",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+4
+]
+},
+"playsound_calls": [
+"0x80051db4",
+"0x80053f44",
+"0x80057328"
+],
+"native_classes": [
+"SaveBook (Don't Touch!)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"5": {
+"name": "Menu close",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+5
+]
+},
+"playsound_calls": [
+"0x80051864",
+"0x80052824",
+"0x80052ff0",
+"0x80053124",
+"0x80053f64",
+"0x80057360"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"6": {
+"name": "Message window open",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+6
+]
+},
+"playsound_calls": [
+"0x8004657c"
+],
+"native_classes": [
+"10 Gilder",
+"5 Gilder",
+"Agate Crest",
+"Ancient Armor",
+"Aqua Cape",
+"Bomb",
+"Bouquet",
+"Broken Armor",
+"Charm Boots",
+"Diamond Crest",
+"Drop of Life",
+"Earth Book",
+"Earth Scroll",
+"Emerald Crest",
+"Fire Book",
+"Fire Scroll",
+"Fire Wand",
+"Garnet Crest",
+"Herbs",
+"Holy Sword",
+"Hunter's Bow",
+"Ice Wand",
+"Iron Flail",
+"Jess' Letter",
+"Key",
+"Large Crystal",
+"Leather Armor",
+"Legend Sword",
+"Life Vessel",
+"Magic Elixyr",
+"Nava's Charm",
+"Olga's Ring",
+"Power Glove",
+"Recovery Ring",
+"Ruby Crest",
+"Sand Cape",
+"Sapphire Crest",
+"SaveBook (Don't Touch!)",
+"Silver Armlet",
+"Silver Armor",
+"Small Crystal",
+"Spirit Wand",
+"Spring Bean",
+"Steel Flail",
+"Strength Elixyr",
+"Strength Tonic",
+"Topaz Crest",
+"Treasure Chest",
+"Water Book",
+"Water Scroll",
+"Willow Bow",
+"Wind Book",
+"Wind Scroll",
+"Wonder Essence",
+"Zolist's Stone"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"7": {
+"name": "Message window close",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+7
+]
+},
+"playsound_calls": [
+"0x80046eac"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"8": {
+"name": "HP recovery gauge",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+8
+]
+},
+"playsound_calls": [
+"0x8004d7c4"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"9": {
+"name": "MP recovery gauge (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+9
+]
+},
+"playsound_calls": [
+"0x8004d930"
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"10": {
+"name": "Jump",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+10
+]
+},
+"script_maps": [
+48,
+226,
+229,
+388
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"11": {
+"name": "Landing",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+11
+]
+},
+"script_maps": [
+1,
+44,
+48,
+54,
+115,
+226,
+229,
+441
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"12": {
+"name": "Dash / Run",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+12
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"13": {
+"name": "Run",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+13
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"14": {
+"name": "Sliding",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+14
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"15": {
+"name": "Cape",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+15
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"16": {
+"name": "Walk on sand",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+16
+]
+},
+"script_maps": [
+36,
+37,
+38,
+39,
+40,
+55,
+56,
+57,
+58,
+60,
+363
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"17": {
+"name": "Landing on sand",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+17
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"18": {
+"name": "Walk in swamp",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+18
+]
+},
+"script_maps": [
+35,
+36,
+37,
+38,
+39,
+40,
+55,
+56,
+59,
+60,
+122
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"19": {
+"name": "Landing in swamp",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+19
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"20": {
+"name": "Walk in shallow water",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+20
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"21": {
+"name": "Landing in shallow water",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+21
+]
+},
+"script_maps": [
+117
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"22": {
+"name": "Swim",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+22
+]
+},
+"script_maps": [
+78
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"23": {
+"name": "Damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+23
+]
+},
+"script_maps": [
+15,
+17,
+439
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"24": {
+"name": "Place",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+24
+]
+},
+"script_maps": [
+1,
+2,
+22,
+25,
+27,
+30,
+32,
+34,
+41,
+42,
+44,
+48,
+53,
+54,
+70,
+72,
+74,
+75,
+76,
+84,
+86,
+87,
+88,
+89,
+90,
+91,
+94,
+95,
+100,
+101,
+103,
+105,
+106,
+108,
+110,
+114,
+115,
+117,
+127,
+134,
+136,
+137,
+139,
+140,
+142,
+146,
+149,
+150,
+151,
+153,
+154,
+161,
+199,
+231,
+258,
+274,
+298,
+303,
+325,
+329,
+337,
+338,
+343,
+344,
+346,
+351,
+353,
+362,
+365,
+382,
+386,
+398,
+411,
+421,
+422,
+423,
+425,
+426,
+429,
+442,
+444
+],
+"playsound_calls": [
+"0x80068e8c",
+"0x8007d430"
+],
+"native_classes": [
+"Barrel",
+"Bomb",
+"Log (Carryable), Small Iron Ball",
+"Moon Object (Carryable)",
+"Rock",
+"Star Object (Carryable)",
+"Sun Object (Carryable)",
+"Water Object (Carryable)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"25": {
+"name": "Push",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+25
+]
+},
+"script_maps": [
+2,
+10,
+16,
+17,
+21,
+22,
+23,
+25,
+26,
+27,
+28,
+30,
+33,
+34,
+41,
+44,
+50,
+51,
+52,
+53,
+54,
+62,
+64,
+66,
+67,
+69,
+70,
+71,
+72,
+74,
+80,
+84,
+86,
+88,
+89,
+100,
+101,
+102,
+105,
+106,
+107,
+108,
+115,
+126,
+135,
+136,
+137,
+152,
+159,
+331,
+337,
+340,
+341,
+343,
+345,
+346,
+347,
+349,
+351,
+352,
+353,
+382,
+385,
+386,
+394,
+411,
+422,
+423,
+424,
+425,
+426,
+433,
+434,
+439,
+444,
+448
+],
+"playsound_calls": [
+"0x8007e850"
+],
+"native_classes": [
+"Pushable Pillar (PRG)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"26": {
+"name": "Throw",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+26
+]
+},
+"script_maps": [
+362
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"27": {
+"name": "Fall and break",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+27
+]
+},
+"script_maps": [
+30,
+398
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"28": {
+"name": "Collision",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+28
+]
+},
+"script_maps": [
+1,
+10,
+68,
+274,
+331,
+364,
+398
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"29": {
+"name": "Sword: Swing",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+29
+]
+},
+"script_maps": [
+15,
+139
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"30": {
+"name": "Sword: Charged swing",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+30
+]
+},
+"script_maps": [
+147,
+199,
+231,
+249,
+334,
+365,
+398
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"31": {
+"name": "Sword: Cut grass",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+31
+]
+},
+"playsound_calls": [
+"0x8003b2e8"
+],
+"native_classes": [
+"Bomb"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"32": {
+"name": "Arrow: Shoot",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+32
+]
+},
+"script_maps": [
+12
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"33": {
+"name": "Arrow: Charged shot",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+33
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"34": {
+"name": "Arrow: Hit non-enemy",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+34
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"35": {
+"name": "Flail: Swing",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+35
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"36": {
+"name": "Flail: Charged swing",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+36
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"37": {
+"name": "Rod: Swing",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+37
+]
+},
+"script_maps": [
+97
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"38": {
+"name": "Freeze",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+38
+]
+},
+"script_maps": [
+55,
+56,
+57
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"39": {
+"name": "Burn",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+39
+]
+},
+"script_maps": [
+6,
+56,
+58,
+92,
+337,
+343,
+398
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"40": {
+"name": "Charged freeze",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+40
+]
+},
+"script_maps": [
+48,
+147,
+325,
+435,
+436,
+437,
+438
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"41": {
+"name": "Charged burn",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+41
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"42": {
+"name": "Charge power",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+42
+]
+},
+"playsound_calls": [
+"0x8002fb4c"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"43": {
+"name": "Full power",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+43
+]
+},
+"playsound_calls": [
+"0x8002f00c"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"44": {
+"name": "Place bomb",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+44
+]
+},
+"script_maps": [
+362
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"45": {
+"name": "Big explosion",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+45
+]
+},
+"script_maps": [
+2,
+5,
+12,
+17,
+21,
+22,
+23,
+26,
+27,
+33,
+35,
+36,
+37,
+38,
+39,
+40,
+48,
+54,
+55,
+56,
+58,
+59,
+60,
+67,
+74,
+77,
+78,
+80,
+81,
+82,
+83,
+84,
+119,
+120,
+123,
+135,
+137,
+145,
+147,
+148,
+150,
+154,
+160,
+174,
+178,
+181,
+197,
+329,
+352,
+383,
+386,
+388,
+391,
+393,
+399,
+408,
+409,
+410,
+411,
+421,
+423,
+426,
+439,
+442,
+449,
+479
+],
+"playsound_calls": [
+"0x8006a05c",
+"0x80081c44"
+],
+"native_classes": [
+"Falling Rock",
+"Rock Face"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"46": {
+"name": "Medium explosion",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+46
+]
+},
+"script_maps": [
+2,
+10,
+17,
+22,
+30,
+41,
+77,
+80,
+81,
+82,
+83,
+84,
+105,
+135,
+147,
+324,
+331,
+391,
+393,
+396,
+408,
+409,
+410,
+411,
+421,
+422,
+426,
+439
+],
+"playsound_calls": [
+"0x80079d14",
+"0x8007dec8",
+"0x80081c7c",
+"0x800833dc"
+],
+"native_classes": [
+"Ancient Golem",
+"Corpse Worm",
+"Corrupted God Ronan",
+"Dark Dragon",
+"Dragon Triple Projectile",
+"Final Melzas",
+"Flail Wall (111)",
+"Flail Wall (112) \u2013 Axis",
+"Flail Wall (221)",
+"Flail Wall (222) \u2013 Iron Ball",
+"Flail Wall (2\u00d72\u00d71) Permanent",
+"Flail Wall (2\u00d72\u00d72) Permanent",
+"Giant Slime (Body)",
+"Lizard Boss",
+"Nirude (With Body)",
+"Soul Leech",
+"Twin Demons Right",
+"Watcher In The Water",
+"Wilda (Head)",
+"Zazan"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"47": {
+"name": "Small explosion",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+47
+]
+},
+"script_maps": [
+2,
+6,
+23,
+25,
+26,
+27,
+28,
+29,
+30,
+51,
+62,
+67,
+72,
+74,
+76,
+77,
+79,
+81,
+82,
+86,
+94,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+109,
+110,
+111,
+136,
+142,
+144,
+152,
+304,
+352,
+409,
+421,
+422,
+425,
+426
+],
+"playsound_calls": [
+"0x80081cb4"
+],
+"native_classes": [
+"Breakable Pillar (UD\u25a0/LR\u25cf)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"48": {
+"name": "Elixir",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+48
+]
+},
+"playsound_calls": [
+"0x80034f54",
+"0x80034fe8",
+"0x80036134"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"49": {
+"name": "HP recovery item (large)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+49
+]
+},
+"script_maps": [
+22,
+23,
+29,
+31,
+35,
+36,
+37,
+38,
+39,
+40,
+56,
+58,
+59,
+60,
+68,
+84,
+123,
+126,
+147,
+165,
+327,
+379,
+383,
+388,
+394,
+411,
+421,
+448,
+452,
+453,
+454,
+455,
+456,
+457,
+458,
+459,
+460,
+461,
+462,
+463,
+464,
+465,
+466,
+467,
+468,
+469,
+470,
+475
+],
+"playsound_calls": [
+"0x80034e70",
+"0x8003505c",
+"0x8004266c"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"50": {
+"name": "HP recovery item (small)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+50
+]
+},
+"playsound_calls": [
+"0x80034ee0"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"51": {
+"name": "Treasure chest opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+51
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"52": {
+"name": "Life-up item",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+52
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"53": {
+"name": "Item obtained",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+53
+]
+},
+"script_maps": [
+61,
+64,
+138,
+165,
+170,
+172,
+179,
+231,
+260,
+334,
+472,
+473,
+474
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"54": {
+"name": "MP recovery item",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+54
+]
+},
+"script_maps": [
+147,
+327,
+452,
+453,
+454,
+455,
+456,
+457,
+458,
+459,
+460,
+461,
+462,
+463,
+464,
+465,
+466,
+467,
+468,
+469,
+470
+],
+"playsound_calls": [
+"0x80033f50"
+],
+"native_classes": [
+"10 Gilder",
+"5 Gilder",
+"Agate Crest",
+"Ancient Armor",
+"Aqua Cape",
+"Bomb",
+"Bouquet",
+"Broken Armor",
+"Charm Boots",
+"Diamond Crest",
+"Drop of Life",
+"Earth Book",
+"Earth Scroll",
+"Emerald Crest",
+"Fire Book",
+"Fire Scroll",
+"Fire Wand",
+"Garnet Crest",
+"Herbs",
+"Holy Sword",
+"Hunter's Bow",
+"Ice Wand",
+"Iron Flail",
+"Jess' Letter",
+"Key",
+"Large Crystal",
+"Leather Armor",
+"Legend Sword",
+"Life Vessel",
+"Magic Elixyr",
+"Nava's Charm",
+"Olga's Ring",
+"Power Glove",
+"Recovery Ring",
+"Ruby Crest",
+"Sand Cape",
+"Sapphire Crest",
+"Silver Armlet",
+"Silver Armor",
+"Small Crystal",
+"Spirit Wand",
+"Spring Bean",
+"Steel Flail",
+"Strength Elixyr",
+"Strength Tonic",
+"Topaz Crest",
+"Water Book",
+"Water Scroll",
+"Willow Bow",
+"Wind Book",
+"Wind Scroll",
+"Wonder Essence",
+"Zolist's Stone"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"55": {
+"name": "Fall",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+55
+]
+},
+"script_maps": [
+1,
+2,
+6,
+12,
+17,
+21,
+22,
+23,
+25,
+27,
+28,
+30,
+32,
+34,
+42,
+44,
+54,
+61,
+62,
+63,
+66,
+67,
+68,
+72,
+74,
+75,
+76,
+79,
+84,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+94,
+95,
+100,
+101,
+103,
+105,
+106,
+108,
+110,
+114,
+115,
+116,
+117,
+126,
+127,
+134,
+135,
+136,
+137,
+139,
+140,
+142,
+146,
+147,
+149,
+150,
+151,
+153,
+154,
+158,
+161,
+226,
+229,
+258,
+298,
+303,
+325,
+328,
+329,
+337,
+338,
+343,
+344,
+346,
+351,
+353,
+362,
+382,
+383,
+386,
+398,
+400,
+411,
+421,
+422,
+423,
+425,
+426,
+429,
+439,
+441,
+442
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"56": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+56
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"57": {
+"name": "Wind",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 2,
+"chain": [
+57,
+651
+]
+},
+"sets": [
+11,
+21
+],
+"script_maps": [
+18,
+19,
+391,
+392,
+403,
+404,
+405,
+450
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"58": {
+"name": "Trap disarmed (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+58
+]
+},
+"script_maps": [
+344
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"59": {
+"name": "Trap disarm failed (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+59
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"60": {
+"name": "Unlock",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+60
+]
+},
+"script_maps": [
+1,
+17,
+23,
+32,
+36,
+38,
+39,
+40,
+41,
+42,
+55,
+57,
+58,
+61,
+62,
+66,
+70,
+72,
+74,
+80,
+84,
+86,
+88,
+89,
+94,
+97,
+110,
+115,
+120,
+122,
+124,
+135,
+136,
+137,
+139,
+148,
+149,
+152,
+154,
+306,
+307,
+328,
+339,
+341,
+348,
+352,
+363,
+364,
+396,
+411,
+434,
+439,
+441,
+442
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"61": {
+"name": "Door opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+61
+]
+},
+"script_maps": [
+1,
+8,
+10,
+81,
+84,
+126,
+135,
+148,
+151,
+152,
+154,
+176,
+249,
+260,
+331,
+332,
+339,
+357,
+360,
+364,
+389,
+411,
+445
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"62": {
+"name": "Teleport",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 2,
+"chain": [
+62
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"63": {
+"name": "Stairs (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+63
+]
+},
+"script_maps": [
+260
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"64": {
+"name": "Enemy: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+64
+]
+},
+"script_maps": [
+139,
+226
+],
+"playsound_calls": [
+"0x80069c3c",
+"0x8006b0bc"
+],
+"native_classes": [
+"Mud Man",
+"Sara 1",
+"Sara 2"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"65": {
+"name": "Enemy: Damage 1",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+65
+]
+},
+"script_maps": [
+80,
+81,
+82,
+83,
+408,
+409,
+410
+],
+"playsound_calls": [
+"0x8008076c"
+],
+"native_classes": [
+"Sara 1",
+"Sara 2"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"66": {
+"name": "Enemy: Damage 2",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+66
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"67": {
+"name": "Enemy: Damage 3",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+67
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"68": {
+"name": "Enemy: Damage 4",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+68
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"69": {
+"name": "Map change: House (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+69
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"70": {
+"name": "Map change: Generic (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+70
+]
+},
+"playsound_calls": [
+"0x8007eaa8"
+],
+"native_classes": [
+"10 Gilder",
+"5 Gilder",
+"Agate Crest",
+"Ancient Armor",
+"Aqua Cape",
+"Bomb",
+"Bouquet",
+"Broken Armor",
+"Charm Boots",
+"Diamond Crest",
+"Drop of Life",
+"Earth Book",
+"Earth Scroll",
+"Emerald Crest",
+"Fire Book",
+"Fire Scroll",
+"Fire Wand",
+"Garnet Crest",
+"Herbs",
+"Holy Sword",
+"Hunter's Bow",
+"Ice Wand",
+"Iron Flail",
+"Jess' Letter",
+"Key",
+"Large Crystal",
+"Leather Armor",
+"Legend Sword",
+"Life Vessel",
+"Magic Elixyr",
+"Nava's Charm",
+"Olga's Ring",
+"Power Glove",
+"Recovery Ring",
+"Ruby Crest",
+"Sand Cape",
+"Sapphire Crest",
+"Silver Armlet",
+"Silver Armor",
+"Small Crystal",
+"Spirit Wand",
+"Spring Bean",
+"Steel Flail",
+"Strength Elixyr",
+"Strength Tonic",
+"Topaz Crest",
+"Water Book",
+"Water Scroll",
+"Willow Bow",
+"Wind Book",
+"Wind Scroll",
+"Wonder Essence",
+"Zolist's Stone"
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"71": {
+"name": "Map change: Fall (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+71
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"72": {
+"name": "Map change: Diving (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+72
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"73": {
+"name": "Map change: Warp (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+73
+]
+},
+"script_maps": [
+369
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"74": {
+"name": "Map change: Cave (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+74
+]
+},
+"script_maps": [
+54
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"75": {
+"name": "Map change: Stairs (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+75
+]
+},
+"script_maps": [
+290
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"76": {
+"name": "Map change: Bridge (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+76
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"77": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 0,
+"chain": [
+77
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"78": {
+"name": "Vibration (Alternate)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+78
+]
+},
+"script_maps": [
+197,
+329
+],
+"why": "user name"
+}
+},
+"79": {
+"name": "Voice: Male line",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+79
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"80": {
+"name": "Voice: Female line",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+80
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"81": {
+"name": "Voice: Child line",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+81
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"82": {
+"name": "Voice: Monster line",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+82
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"83": {
+"name": "Tackle",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+83
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"84": {
+"name": "Item found",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+84
+]
+},
+"playsound_calls": [
+"0x8003336c",
+"0x80033458"
+],
+"native_classes": [
+"Ancient Golem",
+"Ancient Golem Rock",
+"Arm, Projectiles",
+"Arrow Lv.1",
+"Barrel",
+"Bomb",
+"Bombable Rock (Left Side)",
+"Bombable Rock (Top)",
+"Bombable Rock (Vertical)",
+"Boomerang Lv.1",
+"Boulder (Large)",
+"Boulder (Small)",
+"Breakable Pillar (UD\u25a0/LR\u25cf)",
+"Carryable Grass",
+"Carryable Ice Block",
+"Charged Fireball",
+"Child Slime",
+"Corpse Worm",
+"Corpse Worm (Body 2)",
+"Corpse Worm (Body)",
+"Corpse Worm (Explosive Eggs)",
+"Corpse Worm (Joint)",
+"Corpse Worm (Tail)",
+"Corrupted God Ronan",
+"Dark Dragon",
+"Dragon Flames",
+"Dragon Triple Projectile",
+"Earth Magic Lv.1",
+"Falling Rock",
+"Final Melzas",
+"Fireball",
+"Firebird",
+"Flail Wall (111)",
+"Flail Wall (112) \u2013 Axis",
+"Flail Wall (221)",
+"Flail Wall (222) \u2013 Iron Ball",
+"Flail Wall (2\u00d72\u00d71) Permanent",
+"Flail Wall (2\u00d72\u00d72) Permanent",
+"Fly",
+"Gragg (Axe)",
+"Gragg (Flail)",
+"Gragg (Mace)",
+"Homing Projectiles (Slow)",
+"Killer",
+"King Fragments",
+"Lizard Boss",
+"Lizardman (Projectiles)",
+"Lizardman (Spear)",
+"Lizardman (Sword)",
+"Log (Carryable), Small Iron Ball",
+"Magic Vase",
+"Melzas (Main Body)",
+"Melzas Double",
+"Mimic",
+"Miming (Scythe)",
+"Miming (Spinning)",
+"Mud Man",
+"Mummy",
+"Murgg (Boomerang)",
+"Murgg (Bow)",
+"Murgg (Claws)",
+"Mushroom",
+"Nirude (With Body)",
+"Non-Enemy Turtle Shell",
+"Power Glove Rock",
+"Projectile",
+"Projectile (Embers) Lv.1",
+"Projectile (Feathers) Lv.1",
+"Projectile Lv.1",
+"Puku",
+"Reaper",
+"Red Turtle",
+"Roach",
+"Rock",
+"Rock Face",
+"Roein Shield",
+"Roper",
+"Sand Worm",
+"Sara 1",
+"Sara 2",
+"Shadow",
+"Slime",
+"Sludge",
+"Soul Leech",
+"Spear Lv.1",
+"Spike Ball (Large)",
+"Spike Ball (Small)",
+"Spiral Projectiles (Slow)",
+"Spores Lv.1",
+"Torch",
+"Treant",
+"Treant Projectile",
+"Turtle",
+"Twin Demons Left",
+"Twin Demons Right",
+"Vase",
+"Wasp",
+"Watcher In The Water",
+"Watcher In The Water (Left)",
+"Watcher In The Water (Right)",
+"Werewolf",
+"Wooden Crate",
+"Zazan",
+"Zazan's Rock",
+"Zazan's Underling",
+"Zombie",
+"Zorgia",
+"Zorgia Magic",
+"Zorgia Magic Circle",
+"Zorgia Projectiles"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"85": {
+"name": "Vibration",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 2,
+"chain": [
+85
+]
+},
+"script_maps": [
+2,
+5,
+6,
+10,
+17,
+25,
+52,
+54,
+61,
+63,
+67,
+68,
+77,
+78,
+84,
+106,
+144,
+147,
+178,
+282,
+329,
+331,
+347,
+382,
+383,
+388,
+391,
+392,
+393,
+396,
+399,
+400,
+411,
+422,
+423,
+424,
+426,
+439,
+471,
+479,
+480
+],
+"playsound_calls": [
+"0x8007284c",
+"0x80072f50"
+],
+"native_classes": [
+"Ancient Golem",
+"Lizard Boss"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"86": {
+"name": "Beanstalk jump",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+86
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"87": {
+"name": "Monster Alundra",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 1,
+"chain": [
+87
+]
+},
+"sets": [
+28
+],
+"why": "user name"
+}
+},
+"88": {
+"name": "Throw Back",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 29,
+"tones": 1,
+"chain": [
+88
+]
+},
+"sets": [
+29
+],
+"script_maps": [
+324
+],
+"why": "user name"
+}
+},
+"89": {
+"name": "Nirude: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 29,
+"tones": 1,
+"chain": [
+89
+]
+},
+"sets": [
+29
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"90": {
+"name": "Nirude: Walk",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 29,
+"tones": 1,
+"chain": [
+90
+]
+},
+"sets": [
+29
+],
+"script_maps": [
+324
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"91": {
+"name": "Nirude: Walk",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 29,
+"tones": 1,
+"chain": [
+91
+]
+},
+"sets": [
+29
+],
+"script_maps": [
+324
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"92": {
+"name": "Nirude: Bridge breaks",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 29,
+"tones": 1,
+"chain": [
+92
+]
+},
+"sets": [
+29
+],
+"script_maps": [
+324
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"93": {
+"name": "Nirude: Collapses",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 29,
+"tones": 1,
+"chain": [
+93
+]
+},
+"sets": [
+29
+],
+"script_maps": [
+324
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"94": {
+"name": "Dragon: Flaps wings",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 30,
+"tones": 1,
+"chain": [
+94,
+912
+]
+},
+"sets": [
+30,
+71
+],
+"script_maps": [
+323,
+480
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"95": {
+"name": "Dragon: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 30,
+"tones": 1,
+"chain": [
+95
+]
+},
+"sets": [
+30
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"96": {
+"name": "Dragon: Lands",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 30,
+"tones": 1,
+"chain": [
+96
+]
+},
+"sets": [
+30
+],
+"script_maps": [
+323
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"97": {
+"name": "Dragon: Spits fireballs",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 30,
+"tones": 1,
+"chain": [
+97
+]
+},
+"sets": [
+30
+],
+"playsound_calls": [
+"0x80079290"
+],
+"native_classes": [
+"Dark Dragon"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"98": {
+"name": "Dragon: Breathes flames",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 30,
+"tones": 2,
+"chain": [
+98
+]
+},
+"sets": [
+30
+],
+"playsound_calls": [
+"0x80079208"
+],
+"native_classes": [
+"Dark Dragon"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"99": {
+"name": "Dragon: Roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 30,
+"tones": 1,
+"chain": [
+99,
+913
+]
+},
+"sets": [
+30,
+71
+],
+"script_maps": [
+480
+],
+"playsound_calls": [
+"0x80079144"
+],
+"native_classes": [
+"Dark Dragon"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"100": {
+"name": "Earth: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+100,
+668
+]
+},
+"sets": [
+6,
+34
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"101": {
+"name": "Earth: Lands",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+101,
+669
+]
+},
+"sets": [
+6,
+34
+],
+"playsound_calls": [
+"0x80072c20"
+],
+"native_classes": [
+"Ancient Golem"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"102": {
+"name": "Earth: Rises",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+102,
+670
+]
+},
+"sets": [
+6,
+34
+],
+"script_maps": [
+25
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"103": {
+"name": "Earth: Rock fell",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+103,
+671
+]
+},
+"sets": [
+6,
+34
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"104": {
+"name": "Earth: Rocks falling",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+104,
+672
+]
+},
+"sets": [
+6,
+34
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"105": {
+"name": "Earth: Scream before dropping rocks",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+105,
+673
+]
+},
+"sets": [
+6,
+34
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"106": {
+"name": "Earth: Defeated",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+106,
+674
+]
+},
+"sets": [
+6,
+34
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"107": {
+"name": "Abyss: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 1,
+"chain": [
+107
+]
+},
+"sets": [
+7
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"108": {
+"name": "Abyss: Small arm appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 1,
+"chain": [
+108
+]
+},
+"sets": [
+7
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"109": {
+"name": "Abyss: Large arm appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 1,
+"chain": [
+109
+]
+},
+"sets": [
+7
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"110": {
+"name": "Abyss: Arm spins",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 1,
+"chain": [
+110
+]
+},
+"sets": [
+7
+],
+"playsound_calls": [
+"0x80071f34"
+],
+"native_classes": [
+"Watcher In The Water (Left)",
+"Watcher In The Water (Right)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"111": {
+"name": "Abyss: Arm retracts",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 1,
+"chain": [
+111
+]
+},
+"sets": [
+7
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"112": {
+"name": "Abyss: Defeated",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 1,
+"chain": [
+112
+]
+},
+"sets": [
+7
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"113": {
+"name": "Ancient Shrine: On the eye plate",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+113
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+27,
+29
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"114": {
+"name": "Coastal Cave: Spikes appear",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 10,
+"tones": 1,
+"chain": [
+114,
+580,
+593
+]
+},
+"sets": [
+10,
+15,
+16
+],
+"script_maps": [
+71
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"115": {
+"name": "Muddy Hedoro spits",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 10,
+"tones": 1,
+"chain": [
+115,
+646
+]
+},
+"sets": [
+10,
+21
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"116": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+116
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"117": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+117
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"118": {
+"name": "Coastal Cave: Three-color switch activated",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 10,
+"tones": 1,
+"chain": [
+118
+]
+},
+"sets": [
+10
+],
+"script_maps": [
+75
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"119": {
+"name": "Coastal Cave: Rock rolls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 10,
+"tones": 1,
+"chain": [
+119
+]
+},
+"sets": [
+10
+],
+"script_maps": [
+74
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"120": {
+"name": "Huge iron ball moves",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+120,
+537,
+548,
+554,
+570,
+583,
+683,
+700,
+748,
+758,
+802,
+825,
+901,
+941
+]
+},
+"script_maps": [
+94,
+124,
+126,
+352
+],
+"playsound_calls": [
+"0x8007dd08"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"121": {
+"name": "Coastal Cave: Huge iron ball spins",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 10,
+"tones": 1,
+"chain": [
+121
+]
+},
+"sets": [
+10
+],
+"script_maps": [
+71,
+73,
+75
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"122": {
+"name": "Kline's Dream: Slip",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+122
+]
+},
+"sets": [
+11
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"123": {
+"name": "Inoa Village: Kline shouts",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+123,
+956
+]
+},
+"sets": [
+11,
+76
+],
+"script_maps": [
+226,
+357,
+358
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"124": {
+"name": "Inoa Village: Kline transforms",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 1,
+"tones": 1,
+"chain": [
+124,
+552,
+564,
+957
+]
+},
+"sets": [
+1,
+11,
+13,
+76
+],
+"script_maps": [
+229,
+274,
+367
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"125": {
+"name": "Giles's Dream: Warp monster appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+125,
+566,
+693,
+712,
+725,
+739,
+801,
+830,
+893,
+950
+]
+},
+"sets": [
+11,
+14,
+41,
+42,
+43,
+44,
+52,
+55,
+66,
+75
+],
+"script_maps": [
+105,
+106
+],
+"playsound_calls": [
+"0x8006b0dc",
+"0x8006b180",
+"0x8006b248",
+"0x8006b354",
+"0x8006b3f4",
+"0x8006b5d0",
+"0x8006b6d8",
+"0x8006b7fc",
+"0x8006b8b4",
+"0x8006b948"
+],
+"native_classes": [
+"Sara 1",
+"Sara 2"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"126": {
+"name": "Kline's Dream: Small rocks roll",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+126
+]
+},
+"sets": [
+11
+],
+"script_maps": [
+126
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"127": {
+"name": "Kline's Dream: Stone pillar rises",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+127
+]
+},
+"sets": [
+11
+],
+"script_maps": [
+126
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"128": {
+"name": "Ice cracks",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+128,
+575,
+654
+]
+},
+"sets": [
+11,
+14,
+22
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"129": {
+"name": "Ice stalactites break",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+129,
+679,
+732,
+770,
+907
+]
+},
+"sets": [
+11,
+36,
+43,
+47,
+68
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"130": {
+"name": "Slide on ice",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+130,
+731,
+775,
+906
+]
+},
+"sets": [
+11,
+43,
+47,
+68
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"131": {
+"name": "Lizardman roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 16,
+"tones": 1,
+"chain": [
+131,
+641,
+665,
+817
+]
+},
+"sets": [
+16,
+21,
+31,
+54
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"132": {
+"name": "Reptile Lair: Lizardman spits mud",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 16,
+"tones": 1,
+"chain": [
+132,
+666
+]
+},
+"sets": [
+16,
+31
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"133": {
+"name": "Reptile Lair: Flame moves",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 16,
+"tones": 1,
+"chain": [
+133
+]
+},
+"sets": [
+16
+],
+"script_maps": [
+82,
+409
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"134": {
+"name": "Reptile Lair: Lizard statue shines",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 16,
+"tones": 1,
+"chain": [
+134,
+667
+]
+},
+"sets": [
+16,
+31
+],
+"script_maps": [
+80,
+81,
+82,
+83,
+84,
+408,
+409,
+410,
+411
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"135": {
+"name": "Reptile Lair: Lizard statue starts moving",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 16,
+"tones": 1,
+"chain": [
+135
+]
+},
+"sets": [
+16
+],
+"script_maps": [
+80,
+81,
+82,
+83,
+84,
+409,
+410,
+411
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"136": {
+"name": "Flames light up",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 15,
+"tones": 1,
+"chain": [
+136,
+771,
+781,
+793,
+810,
+826,
+903,
+942
+]
+},
+"sets": [
+15,
+47,
+48,
+50,
+53,
+55,
+67,
+75
+],
+"script_maps": [
+111,
+337
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"137": {
+"name": "Mechanical door",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 14,
+"tones": 1,
+"chain": [
+137,
+678,
+681,
+689,
+705,
+719,
+733,
+886
+]
+},
+"sets": [
+14,
+36,
+39,
+41,
+42,
+43,
+44,
+66
+],
+"script_maps": [
+49,
+50,
+51,
+52,
+106,
+472,
+473,
+474
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"138": {
+"name": "Cannon fires",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+138,
+571,
+584,
+596,
+760,
+777,
+789
+]
+},
+"sets": [
+12,
+14,
+15,
+16,
+46,
+48,
+50
+],
+"script_maps": [
+26,
+29,
+81,
+94,
+106,
+110,
+111,
+152
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"139": {
+"name": "Zorgia organ attack",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+139,
+573,
+695,
+805,
+831,
+896,
+951
+]
+},
+"sets": [
+11,
+14,
+41,
+52,
+55,
+66,
+75
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"140": {
+"name": "Giles's Dream: Trapdoor opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 14,
+"tones": 1,
+"chain": [
+140,
+585
+]
+},
+"sets": [
+14,
+15
+],
+"script_maps": [
+103,
+105,
+108
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"141": {
+"name": "Giles's Dream: Crushing ceiling rises",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 14,
+"tones": 2,
+"chain": [
+141,
+581
+]
+},
+"sets": [
+14,
+15
+],
+"script_maps": [
+105
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"142": {
+"name": "Fire goes out",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 15,
+"tones": 1,
+"chain": [
+142,
+776,
+783,
+796
+]
+},
+"sets": [
+15,
+47,
+48,
+50
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"143": {
+"name": "Magyscar: Stone door opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 15,
+"tones": 1,
+"chain": [
+143
+]
+},
+"sets": [
+15
+],
+"script_maps": [
+86,
+94
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"144": {
+"name": "Magyscar: Corpse monster appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 15,
+"tones": 1,
+"chain": [
+144
+]
+},
+"sets": [
+15
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"145": {
+"name": "Water drops 1",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 15,
+"tones": 1,
+"chain": [
+145,
+818,
+928
+]
+},
+"sets": [
+15,
+54,
+74
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"146": {
+"name": "Magyscar: Water drops 2",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 15,
+"tones": 1,
+"chain": [
+146
+]
+},
+"sets": [
+15
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"147": {
+"name": "Underground Waterway: River",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 17,
+"tones": 2,
+"chain": [
+147,
+822,
+852
+]
+},
+"sets": [
+17,
+54,
+59
+],
+"script_maps": [
+7,
+77,
+78
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"148": {
+"name": "Orc: Roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 10,
+"tones": 1,
+"chain": [
+148,
+602,
+612,
+622,
+634,
+643,
+699,
+900
+]
+},
+"sets": [
+10,
+17,
+18,
+19,
+20,
+21,
+41,
+66
+],
+"playsound_calls": [
+"0x8006c178",
+"0x8006c448"
+],
+"native_classes": [
+"Gragg (Axe)",
+"Gragg (Mace)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"149": {
+"name": "Tarn's Manor: Water current",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 2,
+"chain": [
+149,
+538,
+655,
+914
+]
+},
+"sets": [
+2,
+5,
+24,
+72
+],
+"script_maps": [
+116,
+117,
+311
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"150": {
+"name": "Flying Killer: Bounces",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 5,
+"tones": 1,
+"chain": [
+150,
+547,
+603,
+623,
+821,
+858,
+921
+]
+},
+"sets": [
+5,
+10,
+17,
+19,
+54,
+60,
+73
+],
+"playsound_calls": [
+"0x8006cf28"
+],
+"native_classes": [
+"Killer"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"151": {
+"name": "Overworld A2 Murgg Woods: Mush spits",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 18,
+"tones": 1,
+"chain": [
+151,
+754
+]
+},
+"sets": [
+18,
+45
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"152": {
+"name": "Woods appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 18,
+"tones": 1,
+"chain": [
+152,
+625,
+635
+]
+},
+"sets": [
+18,
+19,
+20
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"153": {
+"name": "Woods spits",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 18,
+"tones": 1,
+"chain": [
+153,
+626,
+636
+]
+},
+"sets": [
+18,
+19,
+20
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"154": {
+"name": "Waves 1",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 19,
+"tones": 2,
+"chain": [
+154
+]
+},
+"sets": [
+19
+],
+"script_maps": [
+4,
+8,
+12,
+407,
+416
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"155": {
+"name": "Waves 2",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 19,
+"tones": 2,
+"chain": [
+155
+]
+},
+"sets": [
+19
+],
+"script_maps": [
+4,
+8,
+12,
+416
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"156": {
+"name": "Overworld D1 (Torla sector): Intermittent geyser",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 20,
+"tones": 2,
+"chain": [
+156,
+813
+]
+},
+"sets": [
+20,
+53
+],
+"script_maps": [
+13
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"157": {
+"name": "Mimmings talks",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 21,
+"tones": 1,
+"chain": [
+157,
+684,
+850
+]
+},
+"sets": [
+21,
+40,
+59
+],
+"script_maps": [
+17,
+421,
+424,
+439
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"158": {
+"name": "Sludge: Muddy Hedoro roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 21,
+"tones": 1,
+"chain": [
+158
+]
+},
+"sets": [
+21
+],
+"playsound_calls": [
+"0x8006fdf4"
+],
+"native_classes": [
+"Sludge"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"159": {
+"name": "Overworld D2 (Mill sector): Waterwheel",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 17,
+"tones": 1,
+"chain": [
+159
+]
+},
+"sets": [
+17
+],
+"script_maps": [
+14,
+393
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"160": {
+"name": "Ancient Shrine: Rain outside the temple",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 3,
+"chain": [
+160
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+31
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"161": {
+"name": "Inoa Village: Village at night",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 1,
+"tones": 2,
+"chain": [
+161
+]
+},
+"sets": [
+1
+],
+"script_maps": [
+271,
+289,
+357,
+481
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"162": {
+"name": "Bees flying",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 2,
+"chain": [
+162,
+604,
+624
+]
+},
+"sets": [
+12,
+17,
+19
+],
+"script_maps": [
+12,
+14,
+30,
+32
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"163": {
+"name": "Magyscar: Grass burns",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 15,
+"tones": 1,
+"chain": [
+163,
+747
+]
+},
+"sets": [
+15,
+45
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"164": {
+"name": "Elin: Crystal shatters",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 24,
+"tones": 1,
+"chain": [
+164,
+702,
+711,
+724,
+738
+]
+},
+"sets": [
+24,
+41,
+42,
+43,
+44
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"165": {
+"name": "Elin: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 24,
+"tones": 1,
+"chain": [
+165,
+877
+]
+},
+"sets": [
+24,
+64
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"166": {
+"name": "Elin: Moves",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 24,
+"tones": 1,
+"chain": [
+166,
+876
+]
+},
+"sets": [
+24,
+64
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"167": {
+"name": "Elin: Appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 24,
+"tones": 1,
+"chain": [
+167,
+875
+]
+},
+"sets": [
+24,
+64
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"168": {
+"name": "Twins: Take damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+168
+]
+},
+"sets": [
+25
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"169": {
+"name": "Twins: Move",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+169
+]
+},
+"sets": [
+25
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"170": {
+"name": "Twins: Disappear",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+170
+]
+},
+"sets": [
+25
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"171": {
+"name": "Twins: Mouth laser",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+171
+]
+},
+"sets": [
+25
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"172": {
+"name": "Twins: Descend",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+172
+]
+},
+"sets": [
+25
+],
+"script_maps": [
+109
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"173": {
+"name": "Twins: Belly laser",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+173
+]
+},
+"sets": [
+25
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"174": {
+"name": "Suction: Munches",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 22,
+"tones": 1,
+"chain": [
+174,
+657
+]
+},
+"sets": [
+22,
+26
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"175": {
+"name": "Suction: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 22,
+"tones": 1,
+"chain": [
+175,
+658
+]
+},
+"sets": [
+22,
+26
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"176": {
+"name": "Suction: Sucks in",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 22,
+"tones": 2,
+"chain": [
+176,
+659
+]
+},
+"sets": [
+22,
+26
+],
+"script_maps": [
+123,
+449
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"177": {
+"name": "Suction: Roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 22,
+"tones": 1,
+"chain": [
+177,
+660
+]
+},
+"sets": [
+22,
+26
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"178": {
+"name": "Suction: Spits out",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 22,
+"tones": 1,
+"chain": [
+178,
+661
+]
+},
+"sets": [
+22,
+26
+],
+"playsound_calls": [
+"0x80077948",
+"0x80077ac0"
+],
+"native_classes": [
+"Soul Leech"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"179": {
+"name": "Suction: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 26,
+"tones": 1,
+"chain": [
+179
+]
+},
+"sets": [
+26
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"180": {
+"name": "Zorgia: Blades spin",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+180
+]
+},
+"sets": [
+27
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"181": {
+"name": "Zorgia: Blades fly",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+181
+]
+},
+"sets": [
+27
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"182": {
+"name": "Zorgia: Flames",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+182,
+878
+]
+},
+"sets": [
+27,
+65
+],
+"playsound_calls": [
+"0x80074ca8"
+],
+"native_classes": [
+"Zorgia Magic Circle"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"183": {
+"name": "Zorgia: Rocks fall",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+183,
+879
+]
+},
+"sets": [
+27,
+65
+],
+"script_maps": [
+451
+],
+"playsound_calls": [
+"0x80074384"
+],
+"native_classes": [
+"Zorgia"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"184": {
+"name": "Zorgia: Rocks fell",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+184,
+880
+]
+},
+"sets": [
+27,
+65
+],
+"script_maps": [
+451
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"185": {
+"name": "Zorgia: Hand shines",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+185,
+863,
+881,
+925
+]
+},
+"sets": [
+27,
+60,
+65,
+73
+],
+"script_maps": [
+432
+],
+"playsound_calls": [
+"0x800748fc"
+],
+"native_classes": [
+"Zorgia"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"186": {
+"name": "Zorgia: Shines",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+186,
+687,
+882,
+927
+]
+},
+"sets": [
+27,
+40,
+65,
+73
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"187": {
+"name": "Zorgia: Magic circle",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+187,
+883,
+926
+]
+},
+"sets": [
+27,
+65,
+73
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"188": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+188
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"189": {
+"name": "Zorgia: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+189,
+884
+]
+},
+"sets": [
+27,
+65
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"190": {
+"name": "Abyss: Mini-tornado",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 1,
+"chain": [
+190,
+663,
+885
+]
+},
+"sets": [
+7,
+27,
+65
+],
+"script_maps": [
+451
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"191": {
+"name": "Abyss: Whirlpool",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 2,
+"chain": [
+191
+]
+},
+"sets": [
+7
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"192": {
+"name": "Abyss: Appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 7,
+"tones": 2,
+"chain": [
+192
+]
+},
+"sets": [
+7
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"193": {
+"name": "Wilda: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 1,
+"chain": [
+193
+]
+},
+"sets": [
+28
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"194": {
+"name": "Wilda: Spits fireballs",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 1,
+"chain": [
+194
+]
+},
+"sets": [
+28
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"195": {
+"name": "Wilda: Breathes flames",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 2,
+"chain": [
+195
+]
+},
+"sets": [
+28
+],
+"script_maps": [
+325
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"196": {
+"name": "Wilda: Neck breaks",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 1,
+"chain": [
+196
+]
+},
+"sets": [
+28
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"197": {
+"name": "Wilda: Burns",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 1,
+"chain": [
+197
+]
+},
+"sets": [
+28
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"198": {
+"name": "Wilda: Collapses",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 1,
+"chain": [
+198
+]
+},
+"sets": [
+28
+],
+"script_maps": [
+325
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"199": {
+"name": "Wilda: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 28,
+"tones": 1,
+"chain": [
+199
+]
+},
+"sets": [
+28
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"200": {
+"name": "Inoa Village: Fountain",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+200,
+512,
+958
+]
+},
+"sets": [
+0,
+1,
+76
+],
+"script_maps": [
+162,
+169,
+176,
+183,
+186,
+193,
+198,
+205,
+212,
+219,
+226,
+230,
+237,
+241,
+248,
+252,
+259,
+266,
+271,
+275,
+282,
+289,
+357,
+364,
+371,
+481
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"201": {
+"name": "Rocks collapse",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+201,
+513,
+524,
+536,
+615,
+628,
+638,
+648,
+868,
+911
+]
+},
+"sets": [
+0,
+1,
+4,
+5,
+18,
+19,
+20,
+21,
+63,
+70
+],
+"script_maps": [
+67,
+347
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"202": {
+"name": "Inoa Village: Dog",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+202,
+514,
+606,
+616,
+629,
+639,
+649
+]
+},
+"sets": [
+0,
+1,
+17,
+18,
+19,
+20,
+21
+],
+"script_maps": [
+12,
+15,
+16,
+162,
+165,
+172,
+179
+],
+"playsound_calls": [
+"0x80067b5c"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"203": {
+"name": "Inoa Village: Windmill",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+203,
+515,
+959
+]
+},
+"sets": [
+0,
+1,
+76
+],
+"script_maps": [
+162,
+169,
+176,
+183,
+186,
+193,
+198,
+205,
+212,
+219,
+226,
+230,
+237,
+241,
+248,
+252,
+259,
+266,
+271,
+275,
+282,
+289,
+357,
+364,
+371,
+481
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"204": {
+"name": "Open book",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+204,
+516,
+680
+]
+},
+"sets": [
+0,
+1,
+37
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"205": {
+"name": "Village: Murgg's voice",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 1,
+"tones": 1,
+"chain": [
+205,
+517,
+518,
+522,
+561,
+608,
+613,
+676,
+677,
+751,
+759,
+778,
+788,
+790,
+869
+]
+},
+"sets": [
+1,
+2,
+3,
+4,
+13,
+17,
+18,
+35,
+45,
+46,
+48,
+49,
+50,
+63
+],
+"script_maps": [
+1,
+2,
+15,
+154,
+274,
+362,
+368,
+384,
+386
+],
+"playsound_calls": [
+"0x8006a678",
+"0x8006a8a0",
+"0x8006a9f8",
+"0x800705f4",
+"0x80070b80"
+],
+"native_classes": [
+"Murgg (Boomerang)",
+"Murgg (Bow)",
+"Murgg (Claws)",
+"Zazan's Underling"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"206": {
+"name": "Village: Murgg pounds his chest",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 13,
+"tones": 1,
+"chain": [
+206,
+675,
+866
+]
+},
+"sets": [
+13,
+35,
+63
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"207": {
+"name": "Slime gel appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+207,
+521,
+529,
+539,
+542,
+557,
+565,
+579,
+592,
+632,
+642,
+652,
+656,
+696,
+715,
+728,
+742,
+774,
+860,
+872,
+897,
+923
+]
+},
+"sets": [
+2,
+4,
+5,
+8,
+9,
+11,
+14,
+15,
+16,
+20,
+21,
+22,
+26,
+41,
+42,
+43,
+44,
+47,
+60,
+64,
+66,
+73
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"208": {
+"name": "Rock turtle and rock face appear",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 4,
+"tones": 1,
+"chain": [
+208,
+530,
+545,
+588,
+598,
+609,
+618,
+698,
+717,
+730,
+744,
+772,
+899
+]
+},
+"sets": [
+4,
+5,
+10,
+15,
+17,
+18,
+19,
+41,
+42,
+43,
+44,
+47,
+66
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"209": {
+"name": "Fire breath",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 4,
+"tones": 1,
+"chain": [
+209,
+531,
+546,
+587,
+599,
+610,
+619,
+697,
+716,
+729,
+743,
+765,
+898
+]
+},
+"sets": [
+4,
+5,
+10,
+15,
+17,
+18,
+19,
+41,
+42,
+43,
+44,
+47,
+66
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"210": {
+"name": "Rock turtle roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 4,
+"tones": 1,
+"chain": [
+210,
+532,
+551,
+590,
+600,
+611,
+620,
+718,
+773
+]
+},
+"sets": [
+4,
+5,
+10,
+15,
+17,
+18,
+19,
+42,
+47
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"211": {
+"name": "Beannoid appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+211,
+601,
+621,
+633,
+857,
+920
+]
+},
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"212": {
+"name": "Rock face rolls (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+212
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"213": {
+"name": "Rock face roars (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+213
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"214": {
+"name": "Treasure Eater appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 5,
+"tones": 1,
+"chain": [
+214,
+576,
+631,
+761,
+807
+]
+},
+"sets": [
+5,
+14,
+20,
+46,
+52
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"215": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+215
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"216": {
+"name": "Waterfall",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 16,
+"tones": 2,
+"chain": [
+216,
+607,
+617,
+630,
+640,
+650,
+745,
+766,
+844,
+892
+]
+},
+"sets": [
+16,
+17,
+18,
+19,
+20,
+21,
+44,
+47,
+59,
+66
+],
+"script_maps": [
+4,
+6,
+8,
+19,
+20,
+49,
+53,
+77,
+78,
+80,
+445
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"217": {
+"name": "Tarn's Manor: Door closes",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+217
+]
+},
+"sets": [
+2
+],
+"script_maps": [
+115
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"218": {
+"name": "Switch",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+218,
+528
+]
+},
+"script_maps": [
+77,
+126,
+136,
+152,
+332,
+352,
+399,
+426
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"219": {
+"name": "Bonaire's Dream: Melzas appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+219,
+563,
+843,
+864
+]
+},
+"sets": [
+2,
+13,
+58,
+62
+],
+"script_maps": [
+47
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"220": {
+"name": "Bonaire's Dream: Melzas disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+220,
+838,
+865
+]
+},
+"sets": [
+2,
+56,
+62
+],
+"script_maps": [
+47
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"221": {
+"name": "Tarn's Manor: Bridge appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+221
+]
+},
+"sets": [
+2
+],
+"script_maps": [
+116
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"222": {
+"name": "Tarn's Manor: Mechanical door opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+222
+]
+},
+"sets": [
+2
+],
+"script_maps": [
+115
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"223": {
+"name": "Lid rises",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+223,
+519,
+526,
+533,
+541,
+553,
+559,
+569,
+594,
+685,
+703,
+753,
+762,
+787,
+800,
+834
+]
+},
+"sets": [
+2,
+3,
+4,
+5,
+9,
+11,
+12,
+14,
+16,
+40,
+41,
+45,
+46,
+48,
+50,
+55
+],
+"script_maps": [
+62,
+115,
+363,
+425
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"224": {
+"name": "Iron gate opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+224,
+527,
+534,
+540,
+544,
+549,
+555,
+560,
+574,
+597,
+653,
+682,
+690,
+706,
+720,
+734,
+749,
+767,
+779,
+791,
+803,
+806,
+815,
+820,
+823,
+853,
+873,
+887,
+905,
+939
+]
+},
+"sets": [
+2,
+4,
+5,
+8,
+9,
+10,
+11,
+12,
+14,
+16,
+22,
+40,
+41,
+42,
+43,
+44,
+45,
+47,
+48,
+50,
+52,
+53,
+54,
+55,
+59,
+64,
+66,
+68,
+75
+],
+"script_maps": [
+27,
+42,
+44,
+53,
+72,
+78,
+82,
+117,
+304,
+352,
+383,
+409,
+422,
+424,
+426,
+443,
+444,
+446,
+448
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"225": {
+"name": "Spike Ball (Large): Iron ball falls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 2,
+"tones": 1,
+"chain": [
+225,
+525,
+535,
+550,
+556,
+572,
+589,
+692,
+709,
+722,
+736,
+755,
+849,
+890
+]
+},
+"sets": [
+2,
+4,
+5,
+10,
+11,
+14,
+15,
+41,
+42,
+43,
+44,
+45,
+59,
+66
+],
+"playsound_calls": [
+"0x8007da0c",
+"0x8007dbd4",
+"0x8007dde8",
+"0x80081f28"
+],
+"native_classes": [
+"Spike Ball (Large)",
+"Spike Ball (Small)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"226": {
+"name": "Mine 1: Engine running",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 3,
+"tones": 1,
+"chain": [
+226,
+520,
+686,
+847,
+954
+]
+},
+"sets": [
+3,
+4,
+40,
+59,
+75
+],
+"script_maps": [
+78,
+340,
+363
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"227": {
+"name": "Mine 2: Elevator",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 4,
+"tones": 1,
+"chain": [
+227,
+871
+]
+},
+"sets": [
+4,
+63
+],
+"script_maps": [
+68,
+329
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"228": {
+"name": "Mine 2: Engine activated",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 4,
+"tones": 1,
+"chain": [
+228,
+848
+]
+},
+"sets": [
+4,
+59
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"229": {
+"name": "Mine 2: Cart running",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 4,
+"tones": 1,
+"chain": [
+229
+]
+},
+"sets": [
+4
+],
+"script_maps": [
+61,
+62,
+63,
+64,
+66,
+68,
+329
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"230": {
+"name": "Mine 2: Rocks fall",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 3,
+"tones": 2,
+"chain": [
+230,
+523,
+577,
+591,
+595,
+605,
+752,
+763,
+780,
+792,
+832,
+861,
+924,
+952
+]
+},
+"sets": [
+3,
+4,
+14,
+15,
+16,
+17,
+45,
+46,
+48,
+50,
+55,
+60,
+73,
+75
+],
+"playsound_calls": [
+"0x80081f60"
+],
+"native_classes": [
+"Bombable Rock (Left Side)",
+"Bombable Rock (Top)",
+"Bombable Rock (Vertical)",
+"Boulder (Large)",
+"Boulder (Small)"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"231": {
+"name": "Murgg howls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 13,
+"tones": 1,
+"chain": [
+231,
+870
+]
+},
+"sets": [
+13,
+63
+],
+"script_maps": [
+368
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"232": {
+"name": "Inoa Village: Wolf howls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 1,
+"tones": 1,
+"chain": [
+232,
+562
+]
+},
+"sets": [
+1,
+13
+],
+"script_maps": [
+274,
+357,
+367
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"233": {
+"name": "River",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 17,
+"tones": 1,
+"chain": [
+233,
+614,
+627,
+637,
+647,
+746,
+812,
+819,
+845,
+929
+]
+},
+"sets": [
+17,
+18,
+19,
+20,
+21,
+44,
+53,
+54,
+59,
+74
+],
+"script_maps": [
+3,
+4,
+5,
+6,
+7,
+8,
+15,
+49,
+158,
+393,
+435,
+479
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"234": {
+"name": "Rumbling earth (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+234
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"235": {
+"name": "Lars Crypt: Zombie roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 8,
+"tones": 1,
+"chain": [
+235,
+543
+]
+},
+"sets": [
+8,
+9
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"236": {
+"name": "Mummy roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 8,
+"tones": 1,
+"chain": [
+236,
+558,
+833,
+953
+]
+},
+"sets": [
+8,
+12,
+55,
+75
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"237": {
+"name": "Great Tree: Rusty switch",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 1,
+"chain": [
+237,
+764
+]
+},
+"sets": [
+9,
+46
+],
+"script_maps": [
+22,
+147
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"238": {
+"name": "Lars Crypt: Wallpaper of misfortune",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 1,
+"chain": [
+238
+]
+},
+"sets": [
+9
+],
+"script_maps": [
+21
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"239": {
+"name": "Lars Crypt: Warp gate appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 1,
+"chain": [
+239
+]
+},
+"sets": [
+9
+],
+"script_maps": [
+21
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"240": {
+"name": "Lars Crypt: Sage appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 1,
+"chain": [
+240
+]
+},
+"sets": [
+9
+],
+"script_maps": [
+21,
+22
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"241": {
+"name": "Lars Crypt: Sage disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 1,
+"chain": [
+241
+]
+},
+"sets": [
+9
+],
+"script_maps": [
+21,
+22
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"242": {
+"name": "Bonaire's Dream: Hit gargoyle statue",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 8,
+"tones": 1,
+"chain": [
+242
+]
+},
+"sets": [
+8
+],
+"script_maps": [
+41,
+42
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"243": {
+"name": "Bonaire's Dream: Sarty appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 8,
+"tones": 1,
+"chain": [
+243
+]
+},
+"sets": [
+8
+],
+"script_maps": [
+41
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"244": {
+"name": "Bonaire's Dream: Sarty disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 8,
+"tones": 1,
+"chain": [
+244
+]
+},
+"sets": [
+8
+],
+"script_maps": [
+41,
+42
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"245": {
+"name": "Bonaire's Dream: Block appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 8,
+"tones": 1,
+"chain": [
+245
+]
+},
+"sets": [
+8
+],
+"script_maps": [
+41,
+42
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"246": {
+"name": "Cave cricket jumps",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+246,
+586,
+851,
+856,
+919
+]
+},
+"sets": [
+12,
+15,
+59,
+60,
+73
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"247": {
+"name": "Worm dives into sand",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+247,
+645,
+704
+]
+},
+"sets": [
+12,
+21,
+41
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"248": {
+"name": "Worm emerges from sand",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+248,
+644,
+694,
+714,
+727,
+741,
+895
+]
+},
+"sets": [
+12,
+21,
+41,
+42,
+43,
+44,
+66
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"249": {
+"name": "Union Cell appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+249,
+568,
+582,
+688,
+859,
+922
+]
+},
+"sets": [
+12,
+14,
+15,
+40,
+60,
+73
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"250": {
+"name": "Ancient Shrine: Throne opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+250
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+26
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"251": {
+"name": "Ancient Shrine: Minions chant a mantra",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 2,
+"chain": [
+251
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+30
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"252": {
+"name": "Ancient Shrine: Minions transform",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+252
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+30
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"253": {
+"name": "Ancient Shrine: Goddess appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+253
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+29
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"254": {
+"name": "Ancient Shrine: Put the shape on the plate",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+254
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+27,
+29,
+30,
+400
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"255": {
+"name": "Ancient Shrine: Huge iron ball expands and contracts",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 12,
+"tones": 1,
+"chain": [
+255
+]
+},
+"sets": [
+12
+],
+"script_maps": [
+15,
+40,
+119,
+120,
+361,
+388
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"256": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 20,
+"tones": 0,
+"chain": [
+256
+]
+},
+"sets": [
+20
+],
+"script_maps": [
+13
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"257": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 20,
+"tones": 0,
+"chain": [
+257
+]
+},
+"sets": [
+20
+],
+"script_maps": [
+13
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"258": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 20,
+"tones": 0,
+"chain": [
+258
+]
+},
+"sets": [
+20
+],
+"script_maps": [
+13
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"259": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 20,
+"tones": 0,
+"chain": [
+259
+]
+},
+"sets": [
+20
+],
+"script_maps": [
+13
+],
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"260": {
+"name": "Dragon: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 30,
+"tones": 1,
+"chain": [
+260
+]
+},
+"sets": [
+30
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"261": {
+"name": "Maximus: Lands",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 31,
+"tones": 1,
+"chain": [
+261
+]
+},
+"sets": [
+31
+],
+"script_maps": [
+84,
+411
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"262": {
+"name": "Maximus: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 31,
+"tones": 1,
+"chain": [
+262
+]
+},
+"sets": [
+31
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"263": {
+"name": "Maximus: Roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 31,
+"tones": 2,
+"chain": [
+263
+]
+},
+"sets": [
+31
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"264": {
+"name": "Centipede: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+264
+]
+},
+"sets": [
+32
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"265": {
+"name": "Centipede: Shell is hit",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+265
+]
+},
+"sets": [
+32
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"266": {
+"name": "Centipede: Wags tail",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+266
+]
+},
+"sets": [
+32
+],
+"playsound_calls": [
+"0x80076978"
+],
+"native_classes": [
+"Corpse Worm"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"267": {
+"name": "Centipede: Segments break",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+267
+]
+},
+"sets": [
+32
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"268": {
+"name": "Centipede: Lays eggs",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+268
+]
+},
+"sets": [
+32
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"269": {
+"name": "Centipede: Eggs destroyed",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+269
+]
+},
+"sets": [
+32
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"270": {
+"name": "Centipede: Shell regenerates",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+270
+]
+},
+"sets": [
+32
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"271": {
+"name": "Ronan: Guard spheres appear",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+271
+]
+},
+"sets": [
+33
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"272": {
+"name": "Ronan: Roars",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+272
+]
+},
+"sets": [
+33
+],
+"script_maps": [
+326
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"273": {
+"name": "Ronan: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+273
+]
+},
+"sets": [
+33
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"274": {
+"name": "Ronan: Transforms",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+274
+]
+},
+"sets": [
+33
+],
+"script_maps": [
+326
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"275": {
+"name": "Ronan: Projectiles fall",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+275
+]
+},
+"sets": [
+33
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"276": {
+"name": "Ronan: Back laser",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+276
+]
+},
+"sets": [
+33
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"277": {
+"name": "Ronan: Arm laser",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 2,
+"chain": [
+277
+]
+},
+"sets": [
+33
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"278": {
+"name": "Ronan: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+278
+]
+},
+"sets": [
+33
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"279": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+279
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"280": {
+"name": "Zazan: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 35,
+"tones": 1,
+"chain": [
+280
+]
+},
+"sets": [
+35
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"281": {
+"name": "Zazan: Lands",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 35,
+"tones": 1,
+"chain": [
+281
+]
+},
+"sets": [
+35
+],
+"script_maps": [
+153
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"282": {
+"name": "Zazan: Collapses",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 35,
+"tones": 1,
+"chain": [
+282
+]
+},
+"sets": [
+35
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"283": {
+"name": "Zazan: Spins",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 35,
+"tones": 1,
+"chain": [
+283,
+867
+]
+},
+"sets": [
+35,
+63
+],
+"script_maps": [
+153,
+329
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"284": {
+"name": "Zazan: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 35,
+"tones": 1,
+"chain": [
+284
+]
+},
+"sets": [
+35
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"285": {
+"name": "Sarty: Transforms",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 23,
+"tones": 1,
+"chain": [
+285
+]
+},
+"sets": [
+23
+],
+"script_maps": [
+47
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"286": {
+"name": "Sarty: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 23,
+"tones": 1,
+"chain": [
+286
+]
+},
+"sets": [
+23
+],
+"playsound_calls": [
+"0x800811ec"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"287": {
+"name": "Sarty: Moves",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 23,
+"tones": 1,
+"chain": [
+287
+]
+},
+"sets": [
+23
+],
+"playsound_calls": [
+"0x8007f868"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"288": {
+"name": "Sarty: Warps",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 23,
+"tones": 1,
+"chain": [
+288
+]
+},
+"sets": [
+23
+],
+"script_maps": [
+47
+],
+"playsound_calls": [
+"0x8007f000",
+"0x8007f928",
+"0x8007fb5c",
+"0x80081228"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"289": {
+"name": "Sarty: Projectile",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 23,
+"tones": 1,
+"chain": [
+289
+]
+},
+"sets": [
+23
+],
+"playsound_calls": [
+"0x8007f064"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"290": {
+"name": "Sarty: Jumps",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 23,
+"tones": 1,
+"chain": [
+290
+]
+},
+"sets": [
+23
+],
+"playsound_calls": [
+"0x8007f0d4",
+"0x8007fc24"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"291": {
+"name": "Sarty: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 23,
+"tones": 1,
+"chain": [
+291
+]
+},
+"sets": [
+23
+],
+"script_maps": [
+47
+],
+"playsound_calls": [
+"0x800811d8"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"292": {
+"name": "Melzas Boss Room: Sound 292 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 1,
+"chain": [
+292
+]
+},
+"sets": [
+61
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"293": {
+"name": "Melzas (Main Body): Sound 293 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 2,
+"chain": [
+293,
+908
+]
+},
+"sets": [
+61,
+70
+],
+"playsound_calls": [
+"0x8007c88c"
+],
+"native_classes": [
+"Melzas (Main Body)"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"294": {
+"name": "Sound 294 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 1,
+"chain": [
+294,
+909
+]
+},
+"sets": [
+61,
+70
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"295": {
+"name": "Spiral Projectiles (Slow): Sound 295 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 2,
+"chain": [
+295
+]
+},
+"sets": [
+61
+],
+"playsound_calls": [
+"0x8007ce34"
+],
+"native_classes": [
+"Spiral Projectiles (Slow)"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"296": {
+"name": "Melzas (Main Body): Sound 296 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 1,
+"chain": [
+296
+]
+},
+"sets": [
+61
+],
+"script_maps": [
+327
+],
+"playsound_calls": [
+"0x8007c630"
+],
+"native_classes": [
+"Melzas (Main Body)"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"297": {
+"name": "Melzas (Main Body): Sound 297 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 2,
+"chain": [
+297
+]
+},
+"sets": [
+61
+],
+"playsound_calls": [
+"0x8007c6f4"
+],
+"native_classes": [
+"Melzas (Main Body)"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"298": {
+"name": "Melzas (Main Body): Sound 298 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 1,
+"chain": [
+298,
+910
+]
+},
+"sets": [
+61,
+70
+],
+"script_maps": [
+327,
+347,
+415
+],
+"playsound_calls": [
+"0x8007c3f4",
+"0x8007c680",
+"0x8007cbbc"
+],
+"native_classes": [
+"Melzas (Main Body)",
+"Melzas Double"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"299": {
+"name": "Melzas Boss Room: Sound 299 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 61,
+"tones": 1,
+"chain": [
+299
+]
+},
+"sets": [
+61
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"300": {
+"name": "Klark Ship: Bird",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 56,
+"tones": 1,
+"chain": [
+300
+]
+},
+"sets": [
+56
+],
+"script_maps": [
+389
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"301": {
+"name": "Klark Ship: Flapping wings",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 56,
+"tones": 1,
+"chain": [
+301
+]
+},
+"sets": [
+56
+],
+"script_maps": [
+389
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"302": {
+"name": "Klark Ship: Waves",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 56,
+"tones": 2,
+"chain": [
+302
+]
+},
+"sets": [
+56
+],
+"script_maps": [
+389,
+390
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"303": {
+"name": "Klark Ship: Thunder",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 17,
+"tones": 2,
+"chain": [
+303,
+835
+]
+},
+"sets": [
+17,
+56
+],
+"script_maps": [
+7,
+391,
+392,
+476
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"304": {
+"name": "House collapses",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 49,
+"tones": 1,
+"chain": [
+304,
+836
+]
+},
+"sets": [
+49,
+56
+],
+"script_maps": [
+293,
+391
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"305": {
+"name": "House creaks 2",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 49,
+"tones": 1,
+"chain": [
+305,
+837
+]
+},
+"sets": [
+49,
+56
+],
+"script_maps": [
+293,
+391
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"306": {
+"name": "Klark Ship: Storm",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 56,
+"tones": 2,
+"chain": [
+306
+]
+},
+"sets": [
+56
+],
+"script_maps": [
+391,
+392,
+476
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"307": {
+"name": "Sanctuary: Explosion",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 2,
+"chain": [
+307
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+137
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"308": {
+"name": "Sanctuary: Knock on door",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+308
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+135
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"309": {
+"name": "Lake Shrine Outside: Push pillar",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+309,
+839
+]
+},
+"sets": [
+52,
+57
+],
+"script_maps": [
+135,
+351,
+352
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"310": {
+"name": "Sanctuary: Iron ball breaks",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 55,
+"tones": 1,
+"chain": [
+310,
+840,
+938
+]
+},
+"sets": [
+55,
+57,
+75
+],
+"script_maps": [
+135
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"311": {
+"name": "Sanctuary: Move chair",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+311
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+137
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"312": {
+"name": "Sanctuary: Book warps",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+312
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+136
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"313": {
+"name": "Sanctuary: Put book in bookshelf",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+313
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+136
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"314": {
+"name": "Sanctuary: Bookshelf moves",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+314
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+136
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"315": {
+"name": "Sanctuary: Book falls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+315
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+137
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"316": {
+"name": "Lake Shrine Outside: Sliding door opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+316,
+841
+]
+},
+"sets": [
+52,
+57
+],
+"script_maps": [
+135,
+351,
+352,
+353
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"317": {
+"name": "56:",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+317
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+135
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"318": {
+"name": "56:",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+318
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+137
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"319": {
+"name": "Meia's Dream: Medium disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 58,
+"tones": 1,
+"chain": [
+319
+]
+},
+"sets": [
+58
+],
+"script_maps": [
+440,
+441,
+442
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"320": {
+"name": "Meia's Dream: Medium appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 58,
+"tones": 1,
+"chain": [
+320
+]
+},
+"sets": [
+58
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"321": {
+"name": "Meia's Dream: Medium laughs",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 58,
+"tones": 1,
+"chain": [
+321
+]
+},
+"sets": [
+58
+],
+"script_maps": [
+440
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"322": {
+"name": "Meia's Dream: Flames",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 49,
+"tones": 2,
+"chain": [
+322,
+842
+]
+},
+"sets": [
+49,
+58
+],
+"script_maps": [
+293,
+309
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"323": {
+"name": "Meia's Dream Memory: Crowd",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 58,
+"tones": 2,
+"chain": [
+323
+]
+},
+"sets": [
+58
+],
+"script_maps": [
+309
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"324": {
+"name": "Meia's Dream Memory: Medium cries",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 58,
+"tones": 1,
+"chain": [
+324
+]
+},
+"sets": [
+58
+],
+"script_maps": [
+309
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"325": {
+"name": "Meia's Dream: Stone door collapses",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 58,
+"tones": 2,
+"chain": [
+325
+]
+},
+"sets": [
+58
+],
+"script_maps": [
+440
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"326": {
+"name": "Meia's Dream: Hit Medium's rock",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 58,
+"tones": 1,
+"chain": [
+326
+]
+},
+"sets": [
+58
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"327": {
+"name": "Sucked into whirlpool (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+327
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"328": {
+"name": "Underground Waterway: Driftwood falls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 59,
+"tones": 1,
+"chain": [
+328
+]
+},
+"sets": [
+59
+],
+"script_maps": [
+77,
+78
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"329": {
+"name": "Underground Waterway: Water recedes",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 59,
+"tones": 2,
+"chain": [
+329
+]
+},
+"sets": [
+59
+],
+"script_maps": [
+78
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"330": {
+"name": "Underground Waterway: Driftwood breaks",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 59,
+"tones": 1,
+"chain": [
+330
+]
+},
+"sets": [
+59
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"331": {
+"name": "Elene's Dream: Great door opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 41,
+"tones": 1,
+"chain": [
+331,
+888
+]
+},
+"sets": [
+41,
+66
+],
+"script_maps": [
+54
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"332": {
+"name": "Underground Waterway: Engine collapses",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 59,
+"tones": 1,
+"chain": [
+332
+]
+},
+"sets": [
+59
+],
+"script_maps": [
+78
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"333": {
+"name": "Lake Shrine Outside: Hit rusty chain",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+333
+]
+},
+"sets": [
+52
+],
+"script_maps": [
+352
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"334": {
+"name": "Nirude's Lair: Moai spit fire",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 40,
+"tones": 1,
+"chain": [
+334
+]
+},
+"sets": [
+40
+],
+"script_maps": [
+35,
+421,
+422,
+423,
+424,
+426
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"335": {
+"name": "Nirude's Lair: Hit moai",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 40,
+"tones": 1,
+"chain": [
+335
+]
+},
+"sets": [
+40
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"336": {
+"name": "Nirude's Lair: Moai destroyed",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 40,
+"tones": 1,
+"chain": [
+336
+]
+},
+"sets": [
+40
+],
+"script_maps": [
+423
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"337": {
+"name": "Nirude's Lair: Push statue",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 40,
+"tones": 1,
+"chain": [
+337
+]
+},
+"sets": [
+40
+],
+"script_maps": [
+421,
+423,
+424
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"338": {
+"name": "Nirude's Lair: Spiked ceiling falls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 40,
+"tones": 2,
+"chain": [
+338
+]
+},
+"sets": [
+40
+],
+"script_maps": [
+422
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"339": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+339
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"340": {
+"name": "Gears turn (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+340
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"341": {
+"name": "Nirude's Lair: Moai fire drifts",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 40,
+"tones": 1,
+"chain": [
+341
+]
+},
+"sets": [
+40
+],
+"script_maps": [
+35,
+421,
+422,
+423,
+424,
+426
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"342": {
+"name": "Nirude's Lair: Moai laser",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 40,
+"tones": 1,
+"chain": [
+342
+]
+},
+"sets": [
+40
+],
+"script_maps": [
+422
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"343": {
+"name": "Zorgia attack (unused) (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+343
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"344": {
+"name": "Nirude appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 65,
+"tones": 2,
+"chain": [
+344
+]
+},
+"sets": [
+65
+],
+"script_maps": [
+451
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"345": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+345
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"346": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+346
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"347": {
+"name": "Elene's Dream End: Elin's laughter",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 24,
+"tones": 1,
+"chain": [
+347,
+691,
+708,
+721,
+735,
+889
+]
+},
+"sets": [
+24,
+41,
+42,
+43,
+44,
+66
+],
+"script_maps": [
+435,
+436,
+437,
+438
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"348": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+348
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"349": {
+"name": "Elene's Dream: Crystal shines",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 24,
+"tones": 1,
+"chain": [
+349,
+701,
+710,
+723,
+737,
+902
+]
+},
+"sets": [
+24,
+41,
+42,
+43,
+44,
+66
+],
+"script_maps": [
+48,
+49,
+50,
+51,
+52,
+53,
+435,
+436,
+437,
+438
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"350": {
+"name": "Crystal shatters (unused) (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+350
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"351": {
+"name": "Roper",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 41,
+"tones": 1,
+"chain": [
+351,
+713,
+726,
+740,
+804,
+894
+]
+},
+"sets": [
+41,
+42,
+43,
+44,
+52,
+66
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"352": {
+"name": "Torla Mountain: Lava",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 24,
+"tones": 2,
+"chain": [
+352,
+664,
+707,
+768,
+891
+]
+},
+"sets": [
+24,
+28,
+42,
+47,
+66
+],
+"script_maps": [
+52,
+54,
+438,
+443,
+444,
+445,
+446,
+447,
+448
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"353": {
+"name": "Torla Mountain: Flames",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 42,
+"tones": 2,
+"chain": [
+353,
+750,
+769,
+824,
+940
+]
+},
+"sets": [
+42,
+45,
+47,
+55,
+75
+],
+"script_maps": [
+52,
+343,
+382,
+443,
+444,
+445,
+447,
+448
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"354": {
+"name": "Elene's Dream: Volcanic bombs",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 42,
+"tones": 1,
+"chain": [
+354
+]
+},
+"sets": [
+42
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"355": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+355
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"356": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+356
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"357": {
+"name": "Lake Shrine Inside: Sound 357 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 55,
+"tones": 1,
+"chain": [
+357
+]
+},
+"sets": [
+55
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"358": {
+"name": "Great Tree: Wooden door",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 35,
+"tones": 1,
+"chain": [
+358,
+757,
+904
+]
+},
+"sets": [
+35,
+46,
+67
+],
+"script_maps": [
+140,
+147,
+148,
+149,
+150,
+151,
+152,
+153,
+154,
+369
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"359": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+359
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"360": {
+"name": "Great Tree: Elevator starts",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 46,
+"tones": 2,
+"chain": [
+360
+]
+},
+"sets": [
+46
+],
+"script_maps": [
+148,
+152,
+154,
+156
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"361": {
+"name": "Great Tree: Elevator stops",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 46,
+"tones": 1,
+"chain": [
+361
+]
+},
+"sets": [
+46
+],
+"script_maps": [
+148,
+152,
+154
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"362": {
+"name": "Great Tree: Fence trap",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 46,
+"tones": 2,
+"chain": [
+362
+]
+},
+"sets": [
+46
+],
+"script_maps": [
+1,
+147
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"363": {
+"name": "Great Tree: Murgg rejoices",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 46,
+"tones": 1,
+"chain": [
+363
+]
+},
+"sets": [
+46
+],
+"script_maps": [
+1,
+154
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"364": {
+"name": "Torla Mountain: Lava",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 1,
+"chain": [
+364
+]
+},
+"sets": [
+47
+],
+"script_maps": [
+443,
+444,
+445,
+446,
+447,
+448
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"365": {
+"name": "Torla Mountain: Flames freeze",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 1,
+"chain": [
+365
+]
+},
+"sets": [
+47
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"366": {
+"name": "Torla Mountain: Ice melts",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 1,
+"chain": [
+366
+]
+},
+"sets": [
+47
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"367": {
+"name": "Torla Mountain: Pillars of fire",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 1,
+"chain": [
+367
+]
+},
+"sets": [
+47
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"368": {
+"name": "Lake Shrine Inside: Alundra is blown away",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 55,
+"tones": 1,
+"chain": [
+368,
+949
+]
+},
+"sets": [
+55,
+75
+],
+"script_maps": [
+337
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"369": {
+"name": "Firebird: Winged Bird",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 1,
+"chain": [
+369
+]
+},
+"sets": [
+47
+],
+"playsound_calls": [
+"0x8006f300",
+"0x8006f548"
+],
+"native_classes": [
+"Firebird"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"370": {
+"name": "Nestus's Dream: Goddess disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+370,
+782,
+794
+]
+},
+"sets": [
+25,
+48,
+50
+],
+"script_maps": [
+109
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"371": {
+"name": "Mirror shatters",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 48,
+"tones": 2,
+"chain": [
+371,
+795,
+854,
+915
+]
+},
+"sets": [
+48,
+50,
+60,
+73
+],
+"script_maps": [
+113,
+432
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"372": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+372
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"373": {
+"name": "Nestus's Dream: Goddess fuses",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+373,
+784,
+797
+]
+},
+"sets": [
+25,
+48,
+50
+],
+"script_maps": [
+109
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"374": {
+"name": "Statue shatters",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 46,
+"tones": 1,
+"chain": [
+374,
+785,
+798
+]
+},
+"sets": [
+46,
+48,
+50
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"375": {
+"name": "Nestus's Dream: Before goddess fusion",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 25,
+"tones": 1,
+"chain": [
+375,
+786,
+799
+]
+},
+"sets": [
+25,
+48,
+50
+],
+"script_maps": [
+109
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"376": {
+"name": "Inoa Village: Hot wind",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 49,
+"tones": 2,
+"chain": [
+376
+]
+},
+"sets": [
+49
+],
+"script_maps": [
+293
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"377": {
+"name": "Inoa Village: House creaks 1",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 49,
+"tones": 1,
+"chain": [
+377
+]
+},
+"sets": [
+49
+],
+"script_maps": [
+293
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"378": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+378
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"379": {
+"name": "Ronan Boss Room: Sound 379 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 33,
+"tones": 1,
+"chain": [
+379
+]
+},
+"sets": [
+33
+],
+"script_maps": [
+326
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"380": {
+"name": "Sanctuary: Sound 380 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 57,
+"tones": 1,
+"chain": [
+380
+]
+},
+"sets": [
+57
+],
+"script_maps": [
+135
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"381": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+381
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"382": {
+"name": "Sanctuary: Aggregate of consciousness 1",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 51,
+"tones": 2,
+"chain": [
+382
+]
+},
+"sets": [
+51
+],
+"script_maps": [
+138
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"383": {
+"name": "Sanctuary: Aggregate of consciousness 2",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 51,
+"tones": 2,
+"chain": [
+383
+]
+},
+"sets": [
+51
+],
+"script_maps": [
+138
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"384": {
+"name": "Sanctuary: Birth of Elnard",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 51,
+"tones": 2,
+"chain": [
+384
+]
+},
+"sets": [
+51
+],
+"script_maps": [
+138
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"385": {
+"name": "Iron gate opens (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+385
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"386": {
+"name": "Barrier lifted",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+386,
+814,
+827,
+943
+]
+},
+"sets": [
+52,
+53,
+55,
+75
+],
+"script_maps": [
+337,
+340,
+352,
+434
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"387": {
+"name": "Lake Shrine Outside: Sound 387 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+387
+]
+},
+"sets": [
+52
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"388": {
+"name": "Lake Shrine Outside: Castle gate fully open",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 2,
+"chain": [
+388
+]
+},
+"sets": [
+52
+],
+"script_maps": [
+433
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"389": {
+"name": "Lake Shrine Outside: Chain stopped",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+389
+]
+},
+"sets": [
+52
+],
+"script_maps": [
+352
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"390": {
+"name": "Lake Shrine Inside: Iron door opens",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+390,
+811,
+828,
+944
+]
+},
+"sets": [
+52,
+53,
+55,
+75
+],
+"script_maps": [
+339,
+341,
+348,
+352,
+434
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"391": {
+"name": "Lake Shrine Outside: Magic barrier",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 52,
+"tones": 1,
+"chain": [
+391,
+816,
+829,
+945
+]
+},
+"sets": [
+52,
+53,
+55,
+75
+],
+"script_maps": [
+337,
+351,
+352,
+353,
+434
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"392": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+392
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"393": {
+"name": "Lake Shrine Inside: Iron door rises",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 55,
+"tones": 1,
+"chain": [
+393,
+946
+]
+},
+"sets": [
+55,
+75
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"394": {
+"name": "Lake Shrine Outside: Sound 394 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 53,
+"tones": 2,
+"chain": [
+394
+]
+},
+"sets": [
+53
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"395": {
+"name": "Lake Shrine Inside: Hit armor",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 55,
+"tones": 1,
+"chain": [
+395,
+947
+]
+},
+"sets": [
+55,
+75
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"396": {
+"name": "Lake Shrine Inside: Revolving door",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 55,
+"tones": 1,
+"chain": [
+396,
+948
+]
+},
+"sets": [
+55,
+75
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"397": {
+"name": "Roll rock (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+397
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"398": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+398
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"399": {
+"name": "Sucked into whirlpool",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 2,
+"chain": [
+399,
+846,
+930
+]
+},
+"sets": [
+54,
+59,
+74
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"400": {
+"name": "Alarm",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+400
+]
+},
+"playsound_calls": [
+"0x800308f4"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"401": {
+"name": "Place an emblem",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 3,
+"chain": [
+401
+]
+},
+"script_maps": [
+5,
+479
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"402": {
+"name": "Inoa Village: Bird",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+402,
+960
+]
+},
+"sets": [
+0,
+76
+],
+"script_maps": [
+199
+],
+"playsound_calls": [
+"0x80066114",
+"0x800662a4"
+],
+"native_classes": [
+"Dog"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"403": {
+"name": "Sound 403 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 37,
+"tones": 3,
+"chain": [
+403
+]
+},
+"sets": [
+37
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"404": {
+"name": "Sound 404 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 37,
+"tones": 1,
+"chain": [
+404
+]
+},
+"sets": [
+37
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"405": {
+"name": "E2 Berue's Chamber - Burning Pillars Cave: Crystal appears / disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 36,
+"tones": 2,
+"chain": [
+405
+]
+},
+"sets": [
+36
+],
+"script_maps": [
+396
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"406": {
+"name": "E2 Berue's Chamber - Burning Pillars Cave: Tablet shines",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 36,
+"tones": 1,
+"chain": [
+406
+]
+},
+"sets": [
+36
+],
+"script_maps": [
+396
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"407": {
+"name": "E2 Berue's Chamber - Burning Pillars Cave: Tablet appears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 36,
+"tones": 1,
+"chain": [
+407
+]
+},
+"sets": [
+36
+],
+"script_maps": [
+396
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"408": {
+"name": "E2 Berue's Chamber - Burning Pillars Cave: Stood on the tablet",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 36,
+"tones": 1,
+"chain": [
+408
+]
+},
+"sets": [
+36
+],
+"script_maps": [
+396
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"409": {
+"name": "Melzas: Takes damage",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 38,
+"tones": 1,
+"chain": [
+409
+]
+},
+"sets": [
+38
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"410": {
+"name": "Melzas: Disappears",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 38,
+"tones": 2,
+"chain": [
+410
+]
+},
+"sets": [
+38
+],
+"script_maps": [
+471
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"411": {
+"name": "Melzas: Crush",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 38,
+"tones": 1,
+"chain": [
+411
+]
+},
+"sets": [
+38
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"412": {
+"name": "Melzas: Heartbeat",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 38,
+"tones": 1,
+"chain": [
+412
+]
+},
+"sets": [
+38
+],
+"playsound_calls": [
+"0x80063d80"
+],
+"native_classes": [
+"Final Melzas"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"413": {
+"name": "Melzas: Laser comes down",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 38,
+"tones": 1,
+"chain": [
+413
+]
+},
+"sets": [
+38
+],
+"playsound_calls": [
+"0x80064134"
+],
+"native_classes": [
+"Arm, Projectiles"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"414": {
+"name": "Melzas: Eye attack",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 38,
+"tones": 1,
+"chain": [
+414
+]
+},
+"sets": [
+38
+],
+"playsound_calls": [
+"0x8006527c"
+],
+"native_classes": [
+"Tentacle"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"415": {
+"name": "Melzas: Fires laser",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 38,
+"tones": 1,
+"chain": [
+415
+]
+},
+"sets": [
+38
+],
+"playsound_calls": [
+"0x800655ec",
+"0x80065844"
+],
+"native_classes": [
+"Tentacle"
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"416": {
+"name": "Fairy Pond: Rocks collide",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 1,
+"chain": [
+416,
+931
+]
+},
+"sets": [
+54,
+74
+],
+"script_maps": [
+159
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"417": {
+"name": "Fairy Pond: Rock reaches bottom",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 1,
+"chain": [
+417,
+932
+]
+},
+"sets": [
+54,
+74
+],
+"script_maps": [
+159,
+160
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"418": {
+"name": "Fairy Pond: Rock falls into water",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 2,
+"chain": [
+418,
+933
+]
+},
+"sets": [
+54,
+74
+],
+"script_maps": [
+158,
+161
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"419": {
+"name": "Fairy Pond: Rock falls on ground",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 1,
+"chain": [
+419,
+934
+]
+},
+"sets": [
+54,
+74
+],
+"script_maps": [
+158
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"420": {
+"name": "Fairy Pond: Mine explodes",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 1,
+"chain": [
+420,
+935
+]
+},
+"sets": [
+54,
+74
+],
+"script_maps": [
+160
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"421": {
+"name": "Fairy Pond: Bubbles",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 1,
+"chain": [
+421,
+936
+]
+},
+"sets": [
+54,
+74
+],
+"script_maps": [
+159,
+160
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"422": {
+"name": "Fairy Pond: Bubbles burst",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 1,
+"chain": [
+422,
+937
+]
+},
+"sets": [
+54,
+74
+],
+"script_maps": [
+159,
+160
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"423": {
+"name": "Nava's Keep: Entrance closes",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 60,
+"tones": 2,
+"chain": [
+423,
+916
+]
+},
+"sets": [
+60,
+73
+],
+"script_maps": [
+432
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"424": {
+"name": "Nava's Keep: Buried treasure",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 60,
+"tones": 1,
+"chain": [
+424,
+917
+]
+},
+"sets": [
+60,
+73
+],
+"script_maps": [
+432
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"425": {
+"name": "Lamp lights up",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 2,
+"chain": [
+425,
+567,
+855,
+918
+]
+},
+"sets": [
+9,
+14,
+60,
+73
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"426": {
+"name": "Nava's Keep 1 & Cabin: Lamp stand falls",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 60,
+"tones": 2,
+"chain": [
+426
+]
+},
+"sets": [
+60
+],
+"script_maps": [
+144
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"427": {
+"name": "Floor rises",
+"verified": true,
+"evidence": {
+"record": {
+"bank": 60,
+"tones": 1,
+"chain": [
+427
+]
+},
+"sets": [
+60
+],
+"why": "upstream debug name (data/upstream-sound-names.csv)"
+}
+},
+"428": {
+"name": "Global: Sound 428 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+428,
+862
+]
+},
+"playsound_calls": [
+"0x8002fa64"
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"429": {
+"name": "Global: Sound 429 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+429
+]
+},
+"why": "no debug name; owner from map sound set"
+}
+},
+"430": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+430
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"431": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+431
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"432": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+432
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"433": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+433
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"434": {
+"name": "Underground Waterway: Sound 434 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 59,
+"tones": 1,
+"chain": [
+434
+]
+},
+"sets": [
+59
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"435": {
+"name": "Fairy Pond: Sound 435 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 54,
+"tones": 1,
+"chain": [
+435
+]
+},
+"sets": [
+54
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"436": {
+"name": "Fairy Pond: Sound 436 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 74,
+"tones": 1,
+"chain": [
+436
+]
+},
+"sets": [
+74
+],
+"script_maps": [
+161
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"437": {
+"name": "Fairy Pond: Sound 437 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 74,
+"tones": 1,
+"chain": [
+437
+]
+},
+"sets": [
+74
+],
+"script_maps": [
+161
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"438": {
+"name": "Torla Mountain: Sound 438 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 2,
+"chain": [
+438
+]
+},
+"sets": [
+47
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"439": {
+"name": "Torla Mountain: Sound 439 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 2,
+"chain": [
+439
+]
+},
+"sets": [
+47
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"440": {
+"name": "Torla Mountain: Sound 440 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 2,
+"chain": [
+440
+]
+},
+"sets": [
+47
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"441": {
+"name": "Torla Mountain: Sound 441 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 47,
+"tones": 2,
+"chain": [
+441
+]
+},
+"sets": [
+47
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"442": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+442
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"443": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+443
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"444": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+444
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"445": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+445
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"446": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+446
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"447": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+447
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"448": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+448
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"449": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+449
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"450": {
+"name": "Overworld A2 Murgg Woods: Sound 450 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 18,
+"tones": 1,
+"chain": [
+450,
+756
+]
+},
+"sets": [
+18,
+45
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"451": {
+"name": "Sound 451 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 39,
+"tones": 1,
+"chain": [
+451
+]
+},
+"sets": [
+39
+],
+"script_maps": [
+472,
+473
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"452": {
+"name": "Sound 452 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 39,
+"tones": 1,
+"chain": [
+452
+]
+},
+"sets": [
+39
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"453": {
+"name": "Sound 453 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 39,
+"tones": 1,
+"chain": [
+453
+]
+},
+"sets": [
+39
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"454": {
+"name": "Sound 454 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 39,
+"tones": 1,
+"chain": [
+454
+]
+},
+"sets": [
+39
+],
+"playsound_calls": [
+"0x80066f74"
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"455": {
+"name": "Sound 455 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 39,
+"tones": 1,
+"chain": [
+455
+]
+},
+"sets": [
+39
+],
+"playsound_calls": [
+"0x80066f84"
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"456": {
+"name": "Sound 456 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 39,
+"tones": 1,
+"chain": [
+456
+]
+},
+"sets": [
+39
+],
+"playsound_calls": [
+"0x80066ff0"
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"457": {
+"name": "Sound 457 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 39,
+"tones": 1,
+"chain": [
+457
+]
+},
+"sets": [
+39
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"458": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+458
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"459": {
+"name": "Sound 459 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 1,
+"chain": [
+459,
+808
+]
+},
+"sets": [
+9,
+52
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"460": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+460
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"461": {
+"name": "Reaper: Sound 461 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 9,
+"tones": 1,
+"chain": [
+461,
+809
+]
+},
+"sets": [
+9,
+52
+],
+"playsound_calls": [
+"0x8006a424"
+],
+"native_classes": [
+"Reaper"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"462": {
+"name": "Inoa Village: Sound 462 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 13,
+"tones": 1,
+"chain": [
+462
+]
+},
+"sets": [
+13
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"463": {
+"name": "Ancient Golem: Sound 463 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 6,
+"tones": 1,
+"chain": [
+463
+]
+},
+"sets": [
+6
+],
+"script_maps": [
+399
+],
+"playsound_calls": [
+"0x80072dbc"
+],
+"native_classes": [
+"Ancient Golem"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"464": {
+"name": "Sound 464 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 13,
+"tones": 1,
+"chain": [
+464,
+874
+]
+},
+"sets": [
+13,
+64
+],
+"script_maps": [
+44,
+367
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"465": {
+"name": "Wendell's Dream: Sound 465 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 64,
+"tones": 1,
+"chain": [
+465
+]
+},
+"sets": [
+64
+],
+"script_maps": [
+44
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"466": {
+"name": "Inoa Village: Sound 466 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+466
+]
+},
+"sets": [
+0
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"467": {
+"name": "Inoa Village: Sound 467 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+467
+]
+},
+"sets": [
+0
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"468": {
+"name": "Crow: Sound 468 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+468
+]
+},
+"sets": [
+0
+],
+"playsound_calls": [
+"0x80065fbc"
+],
+"native_classes": [
+"Crow"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"469": {
+"name": "Inoa Village: Sound 469 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+469
+]
+},
+"sets": [
+0
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"470": {
+"name": "Chicken: Sound 470 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+470,
+961
+]
+},
+"sets": [
+0,
+76
+],
+"playsound_calls": [
+"0x80065b68",
+"0x80065c04"
+],
+"native_classes": [
+"Chicken"
+],
+"why": "no debug name; owner from native PlaySound call"
+}
+},
+"471": {
+"name": "Sound 471 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 18,
+"tones": 1,
+"chain": [
+471
+]
+},
+"sets": [
+18
+],
+"why": "no debug name; owner from nothing"
+}
+},
+"472": {
+"name": "Global: Sound 472 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+472
+]
+},
+"why": "no debug name; owner from map sound set"
+}
+},
+"473": {
+"name": "Giles's Dream: Sound 473 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 14,
+"tones": 1,
+"chain": [
+473
+]
+},
+"sets": [
+14
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"474": {
+"name": "Giles's Dream: Sound 474 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 14,
+"tones": 1,
+"chain": [
+474
+]
+},
+"sets": [
+14
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"475": {
+"name": "Giles's Dream: Sound 475 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+475,
+578
+]
+},
+"sets": [
+11,
+14
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"476": {
+"name": "Fire Manor + (Cavern): Sound 476 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 67,
+"tones": 1,
+"chain": [
+476
+]
+},
+"sets": [
+67
+],
+"script_maps": [
+140
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"477": {
+"name": "Fire Manor + (Cavern): Sound 477 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 67,
+"tones": 1,
+"chain": [
+477
+]
+},
+"sets": [
+67
+],
+"script_maps": [
+140
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"478": {
+"name": "Global: Sound 478 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+478
+]
+},
+"why": "no debug name; owner from map sound set"
+}
+},
+"479": {
+"name": "Inoa Village: Sound 479 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+479
+]
+},
+"sets": [
+0
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"480": {
+"name": "Global: Sound 480 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 2,
+"chain": [
+480
+]
+},
+"why": "no debug name; owner from map sound set"
+}
+},
+"481": {
+"name": "Global: Sound 481 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": -1,
+"tones": 1,
+"chain": [
+481
+]
+},
+"why": "no debug name; owner from map sound set"
+}
+},
+"482": {
+"name": "E2 Berue's Chamber - Burning Pillars Cave: Sound 482 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 36,
+"tones": 2,
+"chain": [
+482
+]
+},
+"sets": [
+36
+],
+"script_maps": [
+396
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"483": {
+"name": "Inoa Village: Sound 483 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 1,
+"tones": 1,
+"chain": [
+483
+]
+},
+"sets": [
+1
+],
+"script_maps": [
+274,
+357
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"484": {
+"name": "Megalith Portal Chamber: Sound 484 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 69,
+"tones": 3,
+"chain": [
+484
+]
+},
+"sets": [
+69
+],
+"script_maps": [
+381
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"485": {
+"name": "Kline's Dream: Sound 485 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 11,
+"tones": 1,
+"chain": [
+485,
+955
+]
+},
+"sets": [
+11,
+76
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"486": {
+"name": "Reptile Lair: Sound 486 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 31,
+"tones": 1,
+"chain": [
+486
+]
+},
+"sets": [
+31
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"487": {
+"name": "Inoa Village: Sound 487 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+487
+]
+},
+"sets": [
+0
+],
+"script_maps": [
+199,
+227,
+231,
+249,
+253,
+260,
+267,
+276,
+298
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"488": {
+"name": "Inoa Village: Sound 488 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+488
+]
+},
+"sets": [
+0
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"489": {
+"name": "Lake Shrine Final Room: Sound 489 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 71,
+"tones": 1,
+"chain": [
+489
+]
+},
+"sets": [
+71
+],
+"script_maps": [
+480
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"490": {
+"name": "Magyscar: Sound 490 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 32,
+"tones": 1,
+"chain": [
+490
+]
+},
+"sets": [
+32
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"491": {
+"name": "Nava's Keep: Sound 491 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 27,
+"tones": 1,
+"chain": [
+491
+]
+},
+"sets": [
+27
+],
+"script_maps": [
+432
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"492": {
+"name": "Lake Shrine Inside: Sound 492 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 70,
+"tones": 1,
+"chain": [
+492
+]
+},
+"sets": [
+70
+],
+"script_maps": [
+347
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"493": {
+"name": "Lake Shrine Inside: Sound 493 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 70,
+"tones": 1,
+"chain": [
+493
+]
+},
+"sets": [
+70
+],
+"script_maps": [
+347
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"494": {
+"name": "Lake Shrine Inside: Sound 494 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 70,
+"tones": 1,
+"chain": [
+494
+]
+},
+"sets": [
+70
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"495": {
+"name": "Empty record (no tones)",
+"verified": true,
+"evidence": {
+"record": {
+"bank": -2,
+"tones": 0,
+"chain": [
+495
+]
+},
+"why": "record bank -2 or tone count (+0x14) 0"
+}
+},
+"496": {
+"name": "Yustel Map: Sound 496 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 0,
+"tones": 1,
+"chain": [
+496
+]
+},
+"sets": [
+0
+],
+"script_maps": [
+475
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"497": {
+"name": "Bonaire's Dream: Sound 497 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 8,
+"tones": 1,
+"chain": [
+497
+]
+},
+"sets": [
+8
+],
+"script_maps": [
+41
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"498": {
+"name": "Lurvy's Well: Sound 498 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 72,
+"tones": 2,
+"chain": [
+498
+]
+},
+"sets": [
+72
+],
+"script_maps": [
+311
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"499": {
+"name": "Sound 499 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 17,
+"tones": 2,
+"chain": [
+499
+]
+},
+"sets": [
+17
+],
+"script_maps": [
+7,
+10,
+331
+],
+"why": "no debug name; owner from map scripts"
+}
+},
+"500": {
+"name": "Nava's Keep: Sound 500 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 73,
+"tones": 2,
+"chain": [
+500
+]
+},
+"sets": [
+73
+],
+"why": "no debug name; owner from map sound set"
+}
+},
+"501": {
+"name": "Sound 501 (unverified)",
+"verified": false,
+"evidence": {
+"record": {
+"bank": 22,
+"tones": 1,
+"chain": [
+501,
+662
+]
+},
+"sets": [
+22,
+26
+],
+"why": "no debug name; owner from nothing"
+}
+}
+}

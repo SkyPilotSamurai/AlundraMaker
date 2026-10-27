@@ -1,0 +1,21 @@
+{
+  "actual_full_editor": true,
+  "actual_database_picker": true,
+  "actual_typed_dialogue_and_money_forms": true,
+  "default_trigger": "interact",
+  "actual_apply_preflight": "pass",
+  "actual_toolbar_button": "Build game",
+  "actual_background_worker": true,
+  "independent_module_readback": true,
+  "datas_sha256": "95fa46e0cf368e9b4a45d415da8542179df8bf149cf1a5a739dbcf381ae53146",
+  "exe_sha256": "078f61adc5771c2ac411d766e12d69a4335d31ca33fb97a3dcc1760de00c6eea",
+  "optional_features": [],
+  "catalogue": 303,
+  "timings": {
+    "boot_seconds": 52.719,
+    "build_seconds": 10.86
+  },
+  "errors": [],
+  "emulator_launched": false,
+  "scope": "Actual UI authoring and full exported module pipeline; gameplay reported separately"
+}

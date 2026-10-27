@@ -1,0 +1,120 @@
+A1     402 entities  maps 7 9 12 13 14 18 19 22 24 26 27 28 32 33 40 41 42 44 51 61 ...
+A2      89 entities  maps 3 8 12 52 58 61 63 66 67 69 70 72 73 74 75 89 443 445 446
+A3      28 entities  maps 4 5 13 101 139 146 149 150 155 353 380 479
+A4      40 entities  maps 100 101 102 103 106 125 127 128
+A6      26 entities  maps 2 382 383 384 386
+A7      35 entities  maps 59 444 445 447 448
+A8       1 entities  maps 76
+A9       2 entities  maps 84 411
+A10      3 entities  maps 25 34 399
+A11      1 entities  maps 109
+A12      2 entities  maps 95 322
+A14      2 entities  maps 324
+A15      1 entities  maps 325
+A16      1 entities  maps 326
+A17      3 entities  maps 327 347 415
+A19     56 entities  maps 87 88 90 92 94 158
+A20     39 entities  maps 12 14 15 17 60 77 139 144 145 342 356 380 407 431 439 447
+A21      6 entities  maps 435 436 437 438
+A22      1 entities  maps 471
+A254    65 entities  maps 17 48 52 53 54 140 147 158 159 160 163 170 177 184 187 194 199 206 213 220 ...
+A255   597 entities  maps 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 ...
+C1     105 entities  maps 7 9 12 14 24 40 44 63 64 66 67 116 117 144 472 473
+C2      98 entities  maps 16 43 80 81 82 83 84 158 409 410 411
+C3      86 entities  maps 3 8 12 52 58 61 63 66 67 69 70 72 73 75 89 443 445 446
+C4     135 entities  maps 22 23 24 27 28 29 30 32 33 38 39 43 52 53 57 67 69 70 71 72 ...
+C5      37 entities  maps 27 29 31 32 33 343 345
+C6      19 entities  maps 5 139 146 149 150 155 353 380 479
+C7      56 entities  maps 86 87 88 89 92 105 106 423 426 429
+C8       4 entities  maps 78
+C9      14 entities  maps 351 353
+C10     28 entities  maps 110 114 151 152 271 293 383
+C11     21 entities  maps 50 54 351 352
+C12     31 entities  maps 54 103 125 126 338 344 346 351 353
+C13      6 entities  maps 78 426
+C14     13 entities  maps 38 39 40 426
+C15     33 entities  maps 4 5 18 19 119 121 450 479
+C16     51 entities  maps 3 7 11 15 48 69 71 72 73 75 119 120
+C17      2 entities  maps 3
+C18     13 entities  maps 12 14 30 32
+C19     40 entities  maps 4 8 12 14 79 139 141 158 429 430
+C20     28 entities  maps 100 101 106 125 127 128
+C21     10 entities  maps 22 24 41
+C23   1995 entities  maps 3 4 7 11 21 22 23 24 27 29 30 31 32 33 61 63 64 66 67 69 ...
+C24      2 entities  maps 382 386
+C25     22 entities  maps 2 383 384 386
+C26     78 entities  maps 9 13 41 42 61 85 124 125 139 141 146 445
+C27      6 entities  maps 4 13
+C28     19 entities  maps 429 430
+C29     76 entities  maps 18 19 26 27 28 32 33 51 450
+C30     35 entities  maps 59 444 445 447 448
+C31     13 entities  maps 16 70 72
+C32     25 entities  maps 80 82 83 409 410
+C33      3 entities  maps 151 383
+C34     32 entities  maps 80 81 82 83 84 408 409 410 411
+C35     14 entities  maps 111 114 151
+C44      1 entities  maps 321
+C47      2 entities  maps 95 322
+C48      1 entities  maps 99
+C51      1 entities  maps 325
+C60      3 entities  maps 309
+C69     57 entities  maps 50 125 126 128 304
+C70     49 entities  maps 86 87 88 89 90 92 93 94 441 442
+C71      1 entities  maps 92
+C72     65 entities  maps 17 48 52 53 54 140 147 158 159 160 163 170 177 184 187 194 199 206 213 220 ...
+C74     33 entities  maps 12 14 15 17 77 139 144 145 342 356 380 407 431 439 447
+C76     11 entities  maps 26 30 341 343 344 346 347
+C87      1 entities  maps 432
+C88      1 entities  maps 471
+C91     41 entities  maps 162 169 176 183 186 193 198 205 212 230 237 241 248 259 266 275 282 364 371 473 ...
+C92     47 entities  maps 162 169 176 193 198 205 212 230 237 241 248 259 266 275 282 289 297 364 371 478
+C93    150 entities  maps 162 169 176 183 186 193 198 205 212 226 230 237 241 248 259 266 275 282 297 364 ...
+C102     1 entities  maps 44
+C255    59 entities  maps 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 20 331 ...
+D1     248 entities  maps 7 9 12 13 14 22 24 40 41 42 44 61 63 64 66 67 68 85 87 98 ...
+D2     178 entities  maps 16 43 80 81 82 83 84 153 158 329 368 408 409 410 411
+D3      89 entities  maps 3 8 12 52 58 61 63 66 67 69 70 72 73 74 75 89 443 445 446
+D5     112 entities  maps 3 4 5 13 27 29 30 31 32 33 88 90 92 94 101 139 146 149 150 155 ...
+D6     323 entities  maps 2 4 8 12 14 18 19 26 27 28 32 33 50 51 54 79 86 87 88 89 ...
+D7       4 entities  maps 78
+D8      16 entities  maps 21 351 353
+D9     198 entities  maps 1 2 15 61 64 110 114 115 148 149 150 151 152 154 155 271 293 329 362 368 ...
+D10     56 entities  maps 47 54 103 104 105 106 125 126 338 339 341 344 346 351 353
+D11    157 entities  maps 12 14 16 17 21 22 24 30 32 35 38 39 40 41 59 70 72 74 78 274 ...
+D12     94 entities  maps 3 4 5 7 11 15 18 19 48 69 71 72 73 74 75 119 120 121 450 479
+D13     39 entities  maps 148 149 150 151 152 155 382 383 384 386
+D14      1 entities  maps 76
+D16      2 entities  maps 84 411
+D17      3 entities  maps 25 34 399
+D19      4 entities  maps 321 388 432 451
+D20      1 entities  maps 109
+D21      2 entities  maps 95 322
+D22      3 entities  maps 99 123 449
+D24      2 entities  maps 323 480
+D25      2 entities  maps 324
+D26      1 entities  maps 325
+D27      1 entities  maps 326
+D28      2 entities  maps 327 415
+D30      1 entities  maps 362
+D31    292 entities  maps 5 6 7 8 9 15 19 52 69 70 71 72 73 74 75 80 81 82 83 140 ...
+D32      2 entities  maps 8
+D33     57 entities  maps 50 125 126 128 304
+D34    157 entities  maps 2 3 4 7 13 14 15 86 87 88 89 90 92 93 94 311 380 398 441 442 ...
+D40      6 entities  maps 435 436 437 438
+D42      1 entities  maps 471
+D46      2 entities  maps 44
+E1    1538 entities  maps 1 2 3 4 5 7 8 9 11 12 13 14 15 16 17 18 19 21 22 24 ...
+E2    2161 entities  maps 3 4 7 11 21 22 23 24 27 28 29 30 31 32 33 38 39 43 52 53 ...
+E3      19 entities  maps 382 386 388 432 451
+E9       3 entities  maps 309
+E11     16 entities  maps 95 99 123 321 322 323 326 327 347 388 415 432 449 451 471 480
+E12      1 entities  maps 362
+E13      1 entities  maps 321
+E14     94 entities  maps 6 14 61 62 63 66 67 68 84 115 116 126 147 158 159 160 161 328 329 335 ...
+E15    263 entities  maps 5 6 7 8 9 15 19 52 69 70 71 72 73 74 75 80 81 82 83 140 ...
+E16     29 entities  maps 408
+E18    341 entities  maps 2 22 23 26 28 30 37 40 41 42 43 48 52 53 54 71 72 73 74 75 ...
+E19     60 entities  maps 2 6 7 14 17 33 47 61 62 63 64 67 74 80 85 97 104 107 113 119 ...
+E20     57 entities  maps 86 87 88 89 90 92 93 94 441 442
+F1      65 entities  maps 17 48 52 53 54 140 147 158 159 160 163 170 177 184 187 194 199 206 213 220 ...
+F255   502 entities  maps 0 1 2 3 4 5 6 7 8 9 11 12 13 14 15 16 17 18 19 20 ...

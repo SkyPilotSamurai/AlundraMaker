@@ -1,0 +1,206 @@
+{
+  "module": "ALUN_CD.EXE",
+  "sha256": "12f12eafa3e34dac6aca40b52f4f85f95811d40de7e48db77c52a35aa18833a3",
+  "build": "Local USA-labelled Rev1 input; exact module fingerprint, no revision delta",
+  "address_space": "PS1 virtual + EXE file offsets",
+  "state_source": "0x801DD2D8",
+  "state_copy_bytes": 1880,
+  "flag_bank_start": "0x801DD334",
+  "flag_bank_end_inclusive": "0x801DD433",
+  "flag_bank_bytes": 256,
+  "flag_offset_within_native_state": 92,
+  "flag_bank_fully_within_state_copy": true,
+  "native_slot_staging_base": "0x80122898",
+  "native_slot_stride": 1900,
+  "card_blob_base": "0x80122698",
+  "card_blob_bytes": 8192,
+  "checksum_span_bytes": 8188,
+  "checksum_result_address": "0x80124694",
+  "checksum_polynomial": "0x04C11DB7",
+  "checksum_initial": "0xFFFFFFFF",
+  "checksum_final_xor": "0xFFFFFFFF",
+  "checksum_reflected": false,
+  "independent_temporary_state_copy_base": "0x80010000",
+  "native_sites": [
+    {
+      "virtual_address": "0x80029B68",
+      "exe_offset": "0xA368",
+      "words": [
+        "80010000"
+      ]
+    },
+    {
+      "virtual_address": "0x80031AEC",
+      "exe_offset": "0x122EC",
+      "words": [
+        "3C10801E",
+        "2610D324"
+      ]
+    },
+    {
+      "virtual_address": "0x80031B1C",
+      "exe_offset": "0x1231C",
+      "words": [
+        "2604FFB4",
+        "24050758"
+      ]
+    },
+    {
+      "virtual_address": "0x80031B34",
+      "exe_offset": "0x12334",
+      "words": [
+        "0C018385",
+        "24060001"
+      ]
+    },
+    {
+      "virtual_address": "0x80060158",
+      "exe_offset": "0x40958",
+      "words": [
+        "02002021",
+        "0C0210AB",
+        "24062000"
+      ]
+    },
+    {
+      "virtual_address": "0x80060E38",
+      "exe_offset": "0x41638",
+      "words": [
+        "3C01801E",
+        "AC2493E8",
+        "3C018015",
+        "AC252BDC"
+      ]
+    },
+    {
+      "virtual_address": "0x80063718",
+      "exe_offset": "0x43F18",
+      "words": [
+        "3C048012",
+        "24842898",
+        "00128100",
+        "02128023",
+        "001080C0",
+        "02128023",
+        "00108080",
+        "02128023",
+        "00108080",
+        "02042021"
+      ]
+    },
+    {
+      "virtual_address": "0x80063740",
+      "exe_offset": "0x43F40",
+      "words": [
+        "3C05801E",
+        "8CA593E8",
+        "3C068015",
+        "8CC62BDC",
+        "0C02119D",
+        "00008821"
+      ]
+    },
+    {
+      "virtual_address": "0x800637F4",
+      "exe_offset": "0x43FF4",
+      "words": [
+        "0C018E30",
+        "24041FFC",
+        "3C108012",
+        "26104694",
+        "AE020000"
+      ]
+    },
+    {
+      "virtual_address": "0x80063810",
+      "exe_offset": "0x44010",
+      "words": [
+        "0C01802A",
+        "2606E004"
+      ]
+    },
+    {
+      "virtual_address": "0x800638C0",
+      "exe_offset": "0x440C0",
+      "words": [
+        "10800019",
+        "2403FFFF",
+        "3C088000",
+        "3C0704C1",
+        "34E71DB7",
+        "3C068012",
+        "24C62698",
+        "00862021",
+        "90C20000",
+        "00002821",
+        "00021600",
+        "00621826",
+        "00681024",
+        "10400003",
+        "00031040",
+        "08018E42",
+        "00471826",
+        "00031840",
+        "24A50001",
+        "2CA20008",
+        "1440FFF8",
+        "00681024",
+        "24C60001",
+        "00C4102B",
+        "1440FFEF",
+        "00000000",
+        "03E00008",
+        "00031027"
+      ]
+    },
+    {
+      "virtual_address": "0x800638C8",
+      "exe_offset": "0x440C8",
+      "words": [
+        "3C088000",
+        "3C0704C1",
+        "34E71DB7",
+        "3C068012",
+        "24C62698"
+      ]
+    },
+    {
+      "virtual_address": "0x80063928",
+      "exe_offset": "0x44128",
+      "words": [
+        "03E00008",
+        "00031027"
+      ]
+    },
+    {
+      "virtual_address": "0x80083E3C",
+      "exe_offset": "0x6463C",
+      "words": [
+        "3C06801E",
+        "24C6D2D8",
+        "24C80750"
+      ]
+    },
+    {
+      "virtual_address": "0x80084684",
+      "exe_offset": "0x64E84",
+      "words": [
+        "90A20000",
+        "24A50001",
+        "24C6FFFF",
+        "A0820000",
+        "1CC0FFFB",
+        "24840001"
+      ]
+    }
+  ],
+  "confidence": "native static encoded instructions and span arithmetic",
+  "runtime_verified": false,
+  "unused_flag_bits_proven": false,
+  "memory_card_filesystem_offsets_established": false,
+  "limits": [
+    "No unused/persistent project-bit allocation established",
+    "No actual card readback, reload or emulator state comparison",
+    "Staging blob offsets are distinct from emulator full-card file offsets"
+  ]
+}

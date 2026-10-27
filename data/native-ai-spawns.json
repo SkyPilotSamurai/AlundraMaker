@@ -1,0 +1,2156 @@
+{
+ "A0": {
+  "function": "SetSpawnFlagFromZPos",
+  "file": "FunctionTypeA.cs",
+  "line": 9,
+  "spawns": []
+ },
+ "A1": {
+  "function": "SetAnimationTo2",
+  "file": "FunctionTypeA.cs",
+  "line": 17,
+  "spawns": []
+ },
+ "A2": {
+  "function": "SetRandomizedAnimIdAndFlag",
+  "file": "FunctionTypeA.cs",
+  "line": 23,
+  "spawns": []
+ },
+ "A3": {
+  "function": "SetAnimationTo4",
+  "file": "FunctionTypeA.cs",
+  "line": 31,
+  "spawns": []
+ },
+ "A4": {
+  "function": "SetAnimationTo9",
+  "file": "FunctionTypeA.cs",
+  "line": 37,
+  "spawns": []
+ },
+ "A5": {
+  "function": "SetAnimationTo7",
+  "file": "FunctionTypeA.cs",
+  "line": 43,
+  "spawns": []
+ },
+ "A6": {
+  "function": "SetAnimationTo3",
+  "file": "FunctionTypeA.cs",
+  "line": 49,
+  "spawns": []
+ },
+ "A7": {
+  "function": "SetAnimationTo9_2",
+  "file": "FunctionTypeA.cs",
+  "line": 55,
+  "spawns": []
+ },
+ "A8": {
+  "function": "SetAnimationTo8AndCustomByte3",
+  "file": "FunctionTypeA.cs",
+  "line": 61,
+  "spawns": []
+ },
+ "A9": {
+  "function": "SetAnimationTo10",
+  "file": "FunctionTypeA.cs",
+  "line": 68,
+  "spawns": []
+ },
+ "A10": {
+  "function": "SetAnimationTo6",
+  "file": "FunctionTypeA.cs",
+  "line": 74,
+  "spawns": []
+ },
+ "A11": {
+  "function": "SpawnWarpAndSetAnim",
+  "file": "FunctionTypeA.cs",
+  "line": 80,
+  "spawns": [
+   {
+    "line": 82,
+    "local": true,
+    "index_text": "0xF5",
+    "ids": [
+     245
+    ],
+    "animation": null,
+    "in": "SpawnWarpAndSetAnim"
+   }
+  ]
+ },
+ "A12": {
+  "function": "TriggerMultipleWarpsAndClearHistory",
+  "file": "FunctionTypeA.cs",
+  "line": 98,
+  "spawns": []
+ },
+ "A14": {
+  "function": "SetAnim8AndResetLoader",
+  "file": "FunctionTypeA.cs",
+  "line": 118,
+  "spawns": []
+ },
+ "A15": {
+  "function": "SpawnSpecificWarpAndResetLoader",
+  "file": "FunctionTypeA.cs",
+  "line": 125,
+  "spawns": [
+   {
+    "line": 127,
+    "local": true,
+    "index_text": "0x9D",
+    "ids": [
+     157
+    ],
+    "animation": null,
+    "in": "SpawnSpecificWarpAndResetLoader"
+   }
+  ]
+ },
+ "A16": {
+  "function": "SetAnim0AndResetLoader",
+  "file": "FunctionTypeA.cs",
+  "line": 141,
+  "spawns": []
+ },
+ "A17": {
+  "function": "SetAnimEAndResetLoader",
+  "file": "FunctionTypeA.cs",
+  "line": 148,
+  "spawns": []
+ },
+ "A18": {
+  "function": "SetTargetAnimationTo14",
+  "file": "FunctionTypeA.cs",
+  "line": 157,
+  "spawns": []
+ },
+ "A19": {
+  "function": "SetCustomByteFromProgramIndex",
+  "file": "FunctionTypeA.cs",
+  "line": 165,
+  "spawns": []
+ },
+ "A20": {
+  "function": "SetCustomByteFromZPos",
+  "file": "FunctionTypeA.cs",
+  "line": 172,
+  "spawns": []
+ },
+ "A21": {
+  "function": "SpawnWarpDropAndAdjustPosition",
+  "file": "FunctionTypeA.cs",
+  "line": 178,
+  "spawns": [
+   {
+    "line": 180,
+    "local": true,
+    "index_text": "0xD8",
+    "ids": [
+     216
+    ],
+    "animation": null,
+    "in": "SpawnWarpDropAndAdjustPosition"
+   }
+  ]
+ },
+ "A22": {
+  "function": "SpawnVerticalWarpColumns",
+  "file": "AI_Melzas2.cs",
+  "line": 9,
+  "spawns": [
+   {
+    "line": 22,
+    "local": true,
+    "index_text": "0xD1",
+    "ids": [
+     209
+    ],
+    "animation": null,
+    "in": "SpawnVerticalWarpColumns"
+   },
+   {
+    "line": 28,
+    "local": true,
+    "index_text": "0xD1",
+    "ids": [
+     209
+    ],
+    "animation": null,
+    "in": "SpawnVerticalWarpColumns"
+   },
+   {
+    "line": 35,
+    "local": true,
+    "index_text": "0xD1",
+    "ids": [
+     209
+    ],
+    "animation": null,
+    "in": "SpawnVerticalWarpColumns"
+   },
+   {
+    "line": 41,
+    "local": true,
+    "index_text": "0xD1",
+    "ids": [
+     209
+    ],
+    "animation": null,
+    "in": "SpawnVerticalWarpColumns"
+   }
+  ]
+ },
+ "A254": {
+  "function": "FUN_80061bcc",
+  "file": "FunctionTypeA.cs",
+  "line": 188,
+  "spawns": []
+ },
+ "A255": {
+  "function": "FUN_80061bd4",
+  "file": "FunctionTypeA.cs",
+  "line": 195,
+  "spawns": []
+ },
+ "C1": {
+  "function": "AI_UpdateEntityAI_IdleSkittish",
+  "file": "FunctionTypeC.cs",
+  "line": 107,
+  "spawns": []
+ },
+ "C2": {
+  "function": "AI_UpdateEntityAI_CuriousFlying",
+  "file": "FunctionTypeC.cs",
+  "line": 264,
+  "spawns": []
+ },
+ "C3": {
+  "function": "AI_UpdateEntityAI_1",
+  "file": "FunctionTypeC.cs",
+  "line": 407,
+  "spawns": []
+ },
+ "C4": {
+  "function": "AI_FUN_80066984",
+  "file": "FunctionTypeC.cs",
+  "line": 557,
+  "spawns": []
+ },
+ "C5": {
+  "function": "AI_UpdateEntityAI_0",
+  "file": "FunctionTypeC.cs",
+  "line": 8148,
+  "spawns": []
+ },
+ "C6": {
+  "function": "AI_UpdateEntityAI_3",
+  "file": "FunctionTypeC.cs",
+  "line": 8340,
+  "spawns": []
+ },
+ "C7": {
+  "function": "AI_UpdateEntityAI_4",
+  "file": "FunctionTypeC.cs",
+  "line": 8436,
+  "spawns": [
+   {
+    "line": 8719,
+    "local": true,
+    "index_text": "0x91",
+    "ids": [
+     145
+    ],
+    "animation": 7,
+    "in": "AI_UpdateEntityAI_4"
+   },
+   {
+    "line": 8743,
+    "local": true,
+    "index_text": "0x91",
+    "ids": [
+     145
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_4"
+   }
+  ]
+ },
+ "C8": {
+  "function": "AI_UpdateEntityAI_5",
+  "file": "FunctionTypeC.cs",
+  "line": 8777,
+  "spawns": [
+   {
+    "line": 8894,
+    "local": true,
+    "index_text": "0x8b",
+    "ids": [
+     139
+    ],
+    "animation": 5,
+    "in": "AI_UpdateEntityAI_5"
+   }
+  ]
+ },
+ "C9": {
+  "function": "AI_UpdateEntityAI_6",
+  "file": "FunctionTypeC.cs",
+  "line": 8983,
+  "spawns": []
+ },
+ "C10": {
+  "function": "AI_UpdateEntityAI_6_2",
+  "file": "FunctionTypeC.cs",
+  "line": 9171,
+  "spawns": []
+ },
+ "C11": {
+  "function": "AI_UpdateEntityAI_7",
+  "file": "FunctionTypeC.cs",
+  "line": 9493,
+  "spawns": []
+ },
+ "C12": {
+  "function": "AI_UpdateEntityAI_8",
+  "file": "FunctionTypeC.cs",
+  "line": 9652,
+  "spawns": []
+ },
+ "C13": {
+  "function": "AI_UpdateEntityAI_8_2",
+  "file": "FunctionTypeC.cs",
+  "line": 10126,
+  "spawns": []
+ },
+ "C14": {
+  "function": "AI_UpdateEntityAI_9",
+  "file": "FunctionTypeC.cs",
+  "line": 10296,
+  "spawns": []
+ },
+ "C15": {
+  "function": "AI_UpdateEntityAI_10",
+  "file": "FunctionTypeC.cs",
+  "line": 10418,
+  "spawns": []
+ },
+ "C16": {
+  "function": "AI_FUN_80069f44",
+  "file": "FunctionTypeC.cs",
+  "line": 715,
+  "spawns": []
+ },
+ "C17": {
+  "function": "AI_UpdateEntityAI_11",
+  "file": "FunctionTypeC.cs",
+  "line": 10547,
+  "spawns": []
+ },
+ "C18": {
+  "function": "AI_FUN_8006a564",
+  "file": "FunctionTypeC.cs",
+  "line": 7919,
+  "spawns": []
+ },
+ "C19": {
+  "function": "AI_UpdateEntityAI_12",
+  "file": "FunctionTypeC.cs",
+  "line": 10697,
+  "spawns": []
+ },
+ "C20": {
+  "function": "AI_UpdateEntityAI_13",
+  "file": "FunctionTypeC.cs",
+  "line": 10879,
+  "spawns": []
+ },
+ "C21": {
+  "function": "AI_UpdateEntityAI_14",
+  "file": "FunctionTypeC.cs",
+  "line": 11226,
+  "spawns": []
+ },
+ "C22": {
+  "function": "AI_FUN_8006b510",
+  "file": "FunctionTypeC.cs",
+  "line": 2114,
+  "spawns": []
+ },
+ "C23": {
+  "function": "AI_FUN_8006b848",
+  "file": "FunctionTypeC.cs",
+  "line": 2263,
+  "spawns": []
+ },
+ "C24": {
+  "function": "AI_FUN_8006b8cc",
+  "file": "FunctionTypeC.cs",
+  "line": 2305,
+  "spawns": []
+ },
+ "C25": {
+  "function": "AI_UpdateEntityAI_15",
+  "file": "FunctionTypeC.cs",
+  "line": 11358,
+  "spawns": [
+   {
+    "line": 11469,
+    "local": true,
+    "index_text": "0xbc",
+    "ids": [
+     188
+    ],
+    "animation": 5,
+    "in": "AI_UpdateEntityAI_15"
+   },
+   {
+    "line": 11470,
+    "local": true,
+    "index_text": "0xbc",
+    "ids": [
+     188
+    ],
+    "animation": 5,
+    "in": "AI_UpdateEntityAI_15"
+   },
+   {
+    "line": 11471,
+    "local": true,
+    "index_text": "0xbc",
+    "ids": [
+     188
+    ],
+    "animation": 5,
+    "in": "AI_UpdateEntityAI_15"
+   },
+   {
+    "line": 11472,
+    "local": true,
+    "index_text": "0xbc",
+    "ids": [
+     188
+    ],
+    "animation": 5,
+    "in": "AI_UpdateEntityAI_15"
+   }
+  ]
+ },
+ "C26": {
+  "function": "AI_UpdateEntityAI_17",
+  "file": "FunctionTypeC.cs",
+  "line": 11524,
+  "spawns": [
+   {
+    "line": 11623,
+    "local": true,
+    "index_text": "0x4a",
+    "ids": [
+     74
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_17"
+   }
+  ]
+ },
+ "C27": {
+  "function": "AI_UpdateEntityAI_18",
+  "file": "FunctionTypeC.cs",
+  "line": 11681,
+  "spawns": [
+   {
+    "line": 11787,
+    "local": true,
+    "index_text": "0xce",
+    "ids": [
+     206
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_18"
+   }
+  ]
+ },
+ "C28": {
+  "function": "AI_UpdateEntityAI_19",
+  "file": "FunctionTypeC.cs",
+  "line": 11861,
+  "spawns": [
+   {
+    "line": 11995,
+    "local": true,
+    "index_text": "0xd4",
+    "ids": [
+     212
+    ],
+    "animation": 4,
+    "in": "AI_UpdateEntityAI_19"
+   }
+  ]
+ },
+ "C29": {
+  "function": "AI_UpdateEntityAI_20",
+  "file": "FunctionTypeC.cs",
+  "line": 12054,
+  "spawns": [
+   {
+    "line": 12196,
+    "local": true,
+    "index_text": "0x9b",
+    "ids": [
+     155
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_20"
+   }
+  ]
+ },
+ "C30": {
+  "function": "AI_FUN_8006ce08",
+  "file": "FunctionTypeC.cs",
+  "line": 2322,
+  "spawns": [
+   {
+    "line": 2410,
+    "local": true,
+    "index_text": "0xda",
+    "ids": [
+     218
+    ],
+    "animation": 8,
+    "in": "AI_FUN_8006ce08"
+   }
+  ]
+ },
+ "C31": {
+  "function": "AI_UpdateEntityAI_20_2",
+  "file": "FunctionTypeC.cs",
+  "line": 12262,
+  "spawns": [
+   {
+    "line": 12401,
+    "local": true,
+    "index_text": "0xb0",
+    "ids": [
+     176
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_20_2"
+   }
+  ]
+ },
+ "C32": {
+  "function": "AI_UpdateEntityAI_21",
+  "file": "FunctionTypeC.cs",
+  "line": 12462,
+  "spawns": [
+   {
+    "line": 12574,
+    "local": true,
+    "index_text": "0x6e",
+    "ids": [
+     110
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_21"
+   },
+   {
+    "line": 12605,
+    "local": true,
+    "index_text": "0x74",
+    "ids": [
+     116
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_21"
+   }
+  ]
+ },
+ "C33": {
+  "function": "AI_UpdateEntityAI_22",
+  "file": "FunctionTypeC.cs",
+  "line": 12698,
+  "spawns": [
+   {
+    "line": 12725,
+    "local": true,
+    "index_text": "0x5f",
+    "ids": [
+     95
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_22"
+   }
+  ]
+ },
+ "C34": {
+  "function": "AI_UpdateEntityAI_21",
+  "file": "FunctionTypeC.cs",
+  "line": 12462,
+  "spawns": [
+   {
+    "line": 12574,
+    "local": true,
+    "index_text": "0x6e",
+    "ids": [
+     110
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_21"
+   },
+   {
+    "line": 12605,
+    "local": true,
+    "index_text": "0x74",
+    "ids": [
+     116
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_21"
+   }
+  ]
+ },
+ "C35": {
+  "function": "AI_UpdateEntityAI_23",
+  "file": "FunctionTypeC.cs",
+  "line": 12879,
+  "spawns": [
+   {
+    "line": 12926,
+    "local": true,
+    "index_text": "0x65",
+    "ids": [
+     101
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_23"
+   }
+  ]
+ },
+ "C36": {
+  "function": "AI_FUN_8006e83c",
+  "file": "FunctionTypeC.cs",
+  "line": 2559,
+  "spawns": []
+ },
+ "C37": {
+  "function": "AI_UpdateEntityAI_23_2",
+  "file": "FunctionTypeC.cs",
+  "line": 13099,
+  "spawns": []
+ },
+ "C38": {
+  "function": "AI_FUN_8006eb9c",
+  "file": "FunctionTypeC.cs",
+  "line": 2587,
+  "spawns": [
+   {
+    "line": 2658,
+    "local": true,
+    "index_text": "(uint)(0xE6 | (spawnIndex & 1))",
+    "ids": [
+     230,
+     231
+    ],
+    "animation": null,
+    "in": "AI_FUN_8006eb9c"
+   },
+   {
+    "line": 2694,
+    "local": true,
+    "index_text": "(uint)(0xE6 | (spawnIndex & 1))",
+    "ids": [
+     230,
+     231
+    ],
+    "animation": null,
+    "in": "AI_FUN_8006eb9c"
+   },
+   {
+    "line": 2761,
+    "local": true,
+    "index_text": "0xE4",
+    "ids": [
+     228
+    ],
+    "animation": null,
+    "in": "AI_FUN_8006eb9c"
+   },
+   {
+    "line": 2793,
+    "local": true,
+    "index_text": "0xE6",
+    "ids": [
+     230
+    ],
+    "animation": null,
+    "in": "AI_FUN_8006eb9c"
+   },
+   {
+    "line": 2937,
+    "local": true,
+    "index_text": "0xE4",
+    "ids": [
+     228
+    ],
+    "animation": null,
+    "in": "AI_FUN_8006eb9c"
+   },
+   {
+    "line": 2968,
+    "local": true,
+    "index_text": "(uint)(0xE6 | (spawnIndex & 1))",
+    "ids": [
+     230,
+     231
+    ],
+    "animation": null,
+    "in": "AI_FUN_8006eb9c"
+   }
+  ]
+ },
+ "C39": {
+  "function": "AI_UpdateEntityAI_Boss",
+  "file": "FunctionTypeC.cs",
+  "line": 13236,
+  "spawns": []
+ },
+ "C40": {
+  "function": "AI_UpdateBossEntityState",
+  "file": "AncientGuardian.cs",
+  "line": 23,
+  "spawns": [
+   {
+    "line": 252,
+    "local": true,
+    "index_text": "0xf3",
+    "ids": [
+     243
+    ],
+    "animation": 2,
+    "in": "AI_UpdateBossEntityState"
+   },
+   {
+    "line": 352,
+    "local": true,
+    "index_text": "0xf3",
+    "ids": [
+     243
+    ],
+    "animation": 12,
+    "in": "AI_UpdateBossEntityState"
+   }
+  ]
+ },
+ "C41": {
+  "function": "AI_UpdateBossEntityState2",
+  "file": "AncientGuardian.cs",
+  "line": 358,
+  "spawns": [
+   {
+    "line": 449,
+    "local": true,
+    "index_text": "0xf2",
+    "ids": [
+     242
+    ],
+    "animation": null,
+    "in": "AI_UpdateBossEntityState2"
+   },
+   {
+    "line": 483,
+    "local": true,
+    "index_text": "0xf2",
+    "ids": [
+     242
+    ],
+    "animation": null,
+    "in": "AI_UpdateBossEntityState2"
+   },
+   {
+    "line": 513,
+    "local": true,
+    "index_text": "0xf2",
+    "ids": [
+     242
+    ],
+    "animation": null,
+    "in": "AI_UpdateBossEntityState2"
+   },
+   {
+    "line": 546,
+    "local": true,
+    "index_text": "0xf2",
+    "ids": [
+     242
+    ],
+    "animation": null,
+    "in": "AI_UpdateBossEntityState2"
+   },
+   {
+    "line": 574,
+    "local": true,
+    "index_text": "0xf2",
+    "ids": [
+     242
+    ],
+    "animation": null,
+    "in": "AI_UpdateBossEntityState2"
+   }
+  ]
+ },
+ "C42": {
+  "function": "AI_FUN_8006f8e4",
+  "file": "FunctionTypeC.cs",
+  "line": 3022,
+  "spawns": [
+   {
+    "line": 3050,
+    "local": true,
+    "index_text": "0xE4",
+    "ids": [
+     228
+    ],
+    "animation": 1,
+    "in": "AI_FUN_8006f8e4"
+   }
+  ]
+ },
+ "C43": {
+  "function": "AI_UpdateEntityAI_BoosPhase3",
+  "file": "FunctionTypeC.cs",
+  "line": 13574,
+  "spawns": [
+   {
+    "line": 13795,
+    "local": true,
+    "index_text": "0xFC",
+    "ids": [
+     252
+    ],
+    "animation": 2,
+    "in": "AI_UpdateEntityAI_BoosPhase3"
+   },
+   {
+    "line": 13818,
+    "local": true,
+    "index_text": "0xFB",
+    "ids": [
+     251
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_BoosPhase3"
+   }
+  ]
+ },
+ "C44": {
+  "function": "AI_UpdateEntityAI_SpecialBoss",
+  "file": "FunctionTypeC.cs",
+  "line": 13969,
+  "spawns": [
+   {
+    "line": 13997,
+    "local": true,
+    "index_text": "0xFF",
+    "ids": [
+     255
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_SpecialBoss"
+   },
+   {
+    "line": 14026,
+    "local": true,
+    "index_text": "0xD5",
+    "ids": [
+     213
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_SpecialBoss"
+   },
+   {
+    "line": 14200,
+    "local": true,
+    "index_text": "0xFE",
+    "ids": [
+     254
+    ],
+    "animation": 3,
+    "in": "AI_UpdateEntityAI_SpecialBoss"
+   }
+  ]
+ },
+ "C45": {
+  "function": "AI_UpdateEntityIA_WatcherBehavior",
+  "file": "FunctionTypeC.cs",
+  "line": 14292,
+  "spawns": [
+   {
+    "line": 14335,
+    "local": true,
+    "index_text": "0xFF",
+    "ids": [
+     255
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityIA_WatcherBehavior"
+   }
+  ]
+ },
+ "C46": {
+  "function": "AI_UpdateEntityAI_TwinBoss",
+  "file": "FunctionTypeC.cs",
+  "line": 14367,
+  "spawns": [
+   {
+    "line": 14826,
+    "local": true,
+    "index_text": "0x00D6",
+    "ids": [
+     214
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_TwinBoss"
+   },
+   {
+    "line": 14840,
+    "local": true,
+    "index_text": "0x00D6",
+    "ids": [
+     214
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_TwinBoss"
+   },
+   {
+    "line": 14893,
+    "local": true,
+    "index_text": "0x00F4",
+    "ids": [
+     244
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_TwinBoss"
+   },
+   {
+    "line": 14911,
+    "local": true,
+    "index_text": "0x00F4",
+    "ids": [
+     244
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_TwinBoss"
+   }
+  ]
+ },
+ "C47": {
+  "function": "AI_UpdateEntityAI_0_00",
+  "file": "FunctionTypeC.cs",
+  "line": 15144,
+  "spawns": [
+   {
+    "line": 15493,
+    "local": true,
+    "index_text": "0xF9",
+    "ids": [
+     249
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_0_00"
+   },
+   {
+    "line": 15140,
+    "local": true,
+    "index_text": "spriteTableIndex",
+    "ids": [],
+    "animation": null,
+    "in": "UpdateWarpSpawnBehavior"
+   },
+   {
+    "line": 15075,
+    "local": true,
+    "index_text": "0xF8",
+    "ids": [
+     248
+    ],
+    "animation": null,
+    "in": "FUN_800737D0"
+   }
+  ]
+ },
+ "C48": {
+  "function": "AI_UpdateEntityAI_WarpBoss",
+  "file": "FunctionTypeC.cs",
+  "line": 15605,
+  "spawns": [
+   {
+    "line": 15702,
+    "local": true,
+    "index_text": "0xDD",
+    "ids": [
+     221
+    ],
+    "animation": 1,
+    "in": "AI_UpdateEntityAI_WarpBoss"
+   },
+   {
+    "line": 15703,
+    "local": false,
+    "index_text": "0xEC",
+    "ids": [
+     236
+    ],
+    "animation": 1,
+    "in": "AI_UpdateEntityAI_WarpBoss"
+   },
+   {
+    "line": 15742,
+    "local": false,
+    "index_text": "0xEC",
+    "ids": [
+     236
+    ],
+    "animation": 2,
+    "in": "AI_UpdateEntityAI_WarpBoss"
+   },
+   {
+    "line": 15845,
+    "local": false,
+    "index_text": "0xEC",
+    "ids": [
+     236
+    ],
+    "animation": 4,
+    "in": "AI_UpdateEntityAI_WarpBoss"
+   },
+   {
+    "line": 15919,
+    "local": true,
+    "index_text": "0xDE",
+    "ids": [
+     222
+    ],
+    "animation": 5,
+    "in": "AI_UpdateEntityAI_WarpBoss"
+   }
+  ]
+ },
+ "C49": {
+  "function": "AI_FUN_80075a3c",
+  "file": "FunctionTypeC.cs",
+  "line": 3445,
+  "spawns": [
+   {
+    "line": 3516,
+    "local": true,
+    "index_text": "0xE0",
+    "ids": [
+     224
+    ],
+    "animation": null,
+    "in": "AI_FUN_80075a3c"
+   },
+   {
+    "line": 4008,
+    "local": true,
+    "index_text": "0xE0",
+    "ids": [
+     224
+    ],
+    "animation": null,
+    "in": "AI_FUN_80075a3c"
+   },
+   {
+    "line": 4043,
+    "local": true,
+    "index_text": "0xE1",
+    "ids": [
+     225
+    ],
+    "animation": null,
+    "in": "AI_FUN_80075a3c"
+   }
+  ]
+ },
+ "C50": {
+  "function": "AI_UpdateLoaderBossAI",
+  "file": "FunctionTypeC.cs",
+  "line": 15992,
+  "spawns": [
+   {
+    "line": 16137,
+    "local": true,
+    "index_text": "(uint)(spriteId - 0x100)",
+    "ids": [
+     256
+    ],
+    "animation": null,
+    "in": "AI_UpdateLoaderBossAI"
+   }
+  ]
+ },
+ "C51": {
+  "function": "AI_FUN_80077734",
+  "file": "FunctionTypeC.cs",
+  "line": 4222,
+  "spawns": [
+   {
+    "line": 4514,
+    "local": true,
+    "index_text": "0x9F",
+    "ids": [
+     159
+    ],
+    "animation": null,
+    "in": "AI_FUN_80077734"
+   },
+   {
+    "line": 4592,
+    "local": true,
+    "index_text": "0x9E",
+    "ids": [
+     158
+    ],
+    "animation": null,
+    "in": "AI_FUN_80077734"
+   },
+   {
+    "line": 4623,
+    "local": false,
+    "index_text": "0xEC",
+    "ids": [
+     236
+    ],
+    "animation": null,
+    "in": "AI_FUN_80077734"
+   },
+   {
+    "line": 4973,
+    "local": true,
+    "index_text": "0x9F",
+    "ids": [
+     159
+    ],
+    "animation": null,
+    "in": "AI_FUN_80077734"
+   }
+  ]
+ },
+ "C52": {
+  "function": "AI_FUN_80078a5c",
+  "file": "FunctionTypeC.cs",
+  "line": 5053,
+  "spawns": []
+ },
+ "C53": {
+  "function": "AI_FUN_80078b54",
+  "file": "FunctionTypeC.cs",
+  "line": 5097,
+  "spawns": []
+ },
+ "C54": {
+  "function": "AI_UpdateEntityIA_Fire",
+  "file": "FunctionTypeC.cs",
+  "line": 16315,
+  "spawns": [
+   {
+    "line": 16374,
+    "local": false,
+    "index_text": "0x19",
+    "ids": [
+     25
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityIA_Fire"
+   },
+   {
+    "line": 16541,
+    "local": true,
+    "index_text": "0xBF",
+    "ids": [
+     191
+    ],
+    "animation": 1,
+    "in": "AI_UpdateEntityIA_Fire"
+   },
+   {
+    "line": 16586,
+    "local": true,
+    "index_text": "0xBF",
+    "ids": [
+     191
+    ],
+    "animation": 2,
+    "in": "AI_UpdateEntityIA_Fire"
+   },
+   {
+    "line": 16644,
+    "local": true,
+    "index_text": "0xC2",
+    "ids": [
+     194
+    ],
+    "animation": 4,
+    "in": "AI_UpdateEntityIA_Fire"
+   },
+   {
+    "line": 16654,
+    "local": true,
+    "index_text": "0xC0",
+    "ids": [
+     192
+    ],
+    "animation": 4,
+    "in": "AI_UpdateEntityIA_Fire"
+   },
+   {
+    "line": 16660,
+    "local": true,
+    "index_text": "0xC0",
+    "ids": [
+     192
+    ],
+    "animation": 4,
+    "in": "AI_UpdateEntityIA_Fire"
+   }
+  ]
+ },
+ "C55": {
+  "function": "AI_FUN_80079b14",
+  "file": "FunctionTypeC.cs",
+  "line": 5510,
+  "spawns": [
+   {
+    "line": 5598,
+    "local": true,
+    "index_text": "0xa7",
+    "ids": [
+     167
+    ],
+    "animation": 3,
+    "in": "AI_FUN_80079b14"
+   },
+   {
+    "line": 5621,
+    "local": true,
+    "index_text": "0xa4",
+    "ids": [
+     164
+    ],
+    "animation": 3,
+    "in": "AI_FUN_80079b14"
+   },
+   {
+    "line": 5685,
+    "local": true,
+    "index_text": "0xa3",
+    "ids": [
+     163
+    ],
+    "animation": 5,
+    "in": "AI_FUN_80079b14"
+   },
+   {
+    "line": 5786,
+    "local": true,
+    "index_text": "0xa8",
+    "ids": [
+     168
+    ],
+    "animation": 14,
+    "in": "AI_FUN_80079b14"
+   }
+  ]
+ },
+ "C56": {
+  "function": "AI_FUN_8007a2f8",
+  "file": "FunctionTypeC.cs",
+  "line": 5857,
+  "spawns": []
+ },
+ "C57": {
+  "function": "AI_FUN_8007a4a8",
+  "file": "FunctionTypeC.cs",
+  "line": 5965,
+  "spawns": []
+ },
+ "C58": {
+  "function": "AI_FUN_8007a4b0",
+  "file": "FunctionTypeC.cs",
+  "line": 5976,
+  "spawns": []
+ },
+ "C59": {
+  "function": "AI_FUN_8007a680",
+  "file": "FunctionTypeC.cs",
+  "line": 6041,
+  "spawns": []
+ },
+ "C60": {
+  "function": "AI_UpdateIceProjectile",
+  "file": "FunctionTypeC.cs",
+  "line": 6161,
+  "spawns": []
+ },
+ "C61": {
+  "function": "AI_FUN_8007a958",
+  "file": "FunctionTypeC.cs",
+  "line": 6199,
+  "spawns": []
+ },
+ "C62": {
+  "function": "AI_FUN_8007a978",
+  "file": "FunctionTypeC.cs",
+  "line": 6214,
+  "spawns": []
+ },
+ "C63": {
+  "function": "AI_FUN_8007ac60",
+  "file": "FunctionTypeC.cs",
+  "line": 6351,
+  "spawns": []
+ },
+ "C64": {
+  "function": "AI_ApplyMatchingEntity",
+  "file": "FunctionTypeC.cs",
+  "line": 16749,
+  "spawns": []
+ },
+ "C65": {
+  "function": "AI_UpdateHomingProject",
+  "file": "FunctionTypeC.cs",
+  "line": 16790,
+  "spawns": []
+ },
+ "C66": {
+  "function": "AI_FUN_8007b04c",
+  "file": "FunctionTypeC.cs",
+  "line": 6429,
+  "spawns": []
+ },
+ "C67": {
+  "function": "AI_FUN_8007b1f0",
+  "file": "FunctionTypeC.cs",
+  "line": 6498,
+  "spawns": []
+ },
+ "C68": {
+  "function": "AI_FUN_8007b3c4",
+  "file": "FunctionTypeC.cs",
+  "line": 6510,
+  "spawns": []
+ },
+ "C69": {
+  "function": "AI_FUN_8007b6ec",
+  "file": "FunctionTypeC.cs",
+  "line": 6664,
+  "spawns": []
+ },
+ "C70": {
+  "function": "AI_FUN_8007b7b0",
+  "file": "FunctionTypeC.cs",
+  "line": 6714,
+  "spawns": []
+ },
+ "C71": {
+  "function": "AI_FUN_8007b834",
+  "file": "FunctionTypeC.cs",
+  "line": 6749,
+  "spawns": []
+ },
+ "C72": {
+  "function": "AI_ProcessWarpTransitionState",
+  "file": "FunctionTypeC.cs",
+  "line": 6824,
+  "spawns": []
+ },
+ "C73": {
+  "function": "AI_FUN_8007bb30",
+  "file": "FunctionTypeC.cs",
+  "line": 6954,
+  "spawns": []
+ },
+ "C74": {
+  "function": "MagicPotTick",
+  "file": "FunctionTypeC.cs",
+  "line": 6987,
+  "spawns": []
+ },
+ "C75": {
+  "function": "AI_FUN_8007bd8c",
+  "file": "FunctionTypeC.cs",
+  "line": 7069,
+  "spawns": []
+ },
+ "C76": {
+  "function": "AI_UpdatePushablePillarPushState",
+  "file": "FunctionTypeC.cs",
+  "line": 7161,
+  "spawns": []
+ },
+ "C77": {
+  "function": "AI_ApplyZGravityIfIdle",
+  "file": "AncientGuardian.cs",
+  "line": 8,
+  "spawns": []
+ },
+ "C78": {
+  "function": "AI_FUN_8007c768",
+  "file": "FunctionTypeC.cs",
+  "line": 7260,
+  "spawns": [
+   {
+    "line": 7393,
+    "local": true,
+    "index_text": "0xc4",
+    "ids": [
+     196
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007c768"
+   },
+   {
+    "line": 7421,
+    "local": true,
+    "index_text": "0xc4",
+    "ids": [
+     196
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007c768"
+   },
+   {
+    "line": 7446,
+    "local": true,
+    "index_text": "0xc4",
+    "ids": [
+     196
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007c768"
+   },
+   {
+    "line": 7494,
+    "local": true,
+    "index_text": "0xc4",
+    "ids": [
+     196
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007c768"
+   },
+   {
+    "line": 7571,
+    "local": true,
+    "index_text": "0xc4",
+    "ids": [
+     196
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007c768"
+   },
+   {
+    "line": 7596,
+    "local": true,
+    "index_text": "0xc4",
+    "ids": [
+     196
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007c768"
+   }
+  ]
+ },
+ "C79": {
+  "function": "AI_FUN_8006f860",
+  "file": "FunctionTypeC.cs",
+  "line": 2990,
+  "spawns": []
+ },
+ "C80": {
+  "function": "AI_FUN_800756ec",
+  "file": "FunctionTypeC.cs",
+  "line": 3321,
+  "spawns": []
+ },
+ "C81": {
+  "function": "AI_UpdateFollowerBehaviour",
+  "file": "FunctionTypeC.cs",
+  "line": 16893,
+  "spawns": []
+ },
+ "C82": {
+  "function": "AI_FUN_80074ae8",
+  "file": "FunctionTypeC.cs",
+  "line": 3254,
+  "spawns": [
+   {
+    "line": 3310,
+    "local": true,
+    "index_text": "0xca",
+    "ids": [
+     202
+    ],
+    "animation": null,
+    "in": "AI_FUN_80074ae8"
+   }
+  ]
+ },
+ "C83": {
+  "function": "AI_FUN_8007763c",
+  "file": "FunctionTypeC.cs",
+  "line": 4152,
+  "spawns": []
+ },
+ "C84": {
+  "function": "AI_FUN_8007d554",
+  "file": "FunctionTypeC.cs",
+  "line": 7734,
+  "spawns": []
+ },
+ "C85": {
+  "function": "AI_FUN_80073728",
+  "file": "FunctionTypeC.cs",
+  "line": 3216,
+  "spawns": []
+ },
+ "C86": {
+  "function": "AI_FUN_80079950",
+  "file": "FunctionTypeC.cs",
+  "line": 5394,
+  "spawns": []
+ },
+ "C87": {
+  "function": "AI_UpdateEntityDelayed",
+  "file": "FunctionTypeC.cs",
+  "line": 16962,
+  "spawns": []
+ },
+ "C88": {
+  "function": "AI_Melzas2_FinalBoss",
+  "file": "AI_Melzas2.cs",
+  "line": 54,
+  "spawns": [
+   {
+    "line": 93,
+    "local": true,
+    "index_text": "0xD0",
+    "ids": [
+     208
+    ],
+    "animation": null,
+    "in": "AI_Melzas2_FinalBoss"
+   },
+   {
+    "line": 115,
+    "local": true,
+    "index_text": "0xD0",
+    "ids": [
+     208
+    ],
+    "animation": null,
+    "in": "AI_Melzas2_FinalBoss"
+   }
+  ]
+ },
+ "C89": {
+  "function": "AI_SpawnWarpIfValid",
+  "file": "FunctionTypeC.cs",
+  "line": 17002,
+  "spawns": [
+   {
+    "line": 17105,
+    "local": true,
+    "index_text": "entity.SpriteTableIndex - 0x100",
+    "ids": [
+     256
+    ],
+    "animation": null,
+    "in": "AI_SpawnWarpIfValid"
+   }
+  ]
+ },
+ "C90": {
+  "function": "AI_UpdateMelzas2CutsceneChannels",
+  "file": "FunctionTypeC.cs",
+  "line": 17481,
+  "spawns": []
+ },
+ "C91": {
+  "function": "AI_UpdateEntityAI_IdleLookAround",
+  "file": "FunctionTypeC.cs",
+  "line": 17493,
+  "spawns": []
+ },
+ "C92": {
+  "function": "AI_UpdateEntityTriggerWarpBehavior",
+  "file": "FunctionTypeC.cs",
+  "line": 17670,
+  "spawns": []
+ },
+ "C93": {
+  "function": "AI_UpdateEntityAI_IdleCurious",
+  "file": "FunctionTypeC.cs",
+  "line": 17697,
+  "spawns": []
+ },
+ "C94": {
+  "function": "AI_FUN_8007c0d8",
+  "file": "FunctionTypeC.cs",
+  "line": 7235,
+  "spawns": []
+ },
+ "C95": {
+  "function": "AI_FUN_80064294",
+  "file": "FunctionTypeC.cs",
+  "line": 864,
+  "spawns": []
+ },
+ "C96": {
+  "function": "AI_FUN_800647b0",
+  "file": "FunctionTypeC.cs",
+  "line": 1098,
+  "spawns": []
+ },
+ "C97": {
+  "function": "AI_FUN_80064884",
+  "file": "FunctionTypeC.cs",
+  "line": 1132,
+  "spawns": []
+ },
+ "C98": {
+  "function": "AI_FUN_80064d90",
+  "file": "FunctionTypeC.cs",
+  "line": 1345,
+  "spawns": []
+ },
+ "C99": {
+  "function": "AI_FUN_80065100",
+  "file": "FunctionTypeC.cs",
+  "line": 1486,
+  "spawns": []
+ },
+ "C100": {
+  "function": "AI_FUN_80065204",
+  "file": "FunctionTypeC.cs",
+  "line": 1543,
+  "spawns": []
+ },
+ "C101": {
+  "function": "AI_FUN_80065750",
+  "file": "FunctionTypeC.cs",
+  "line": 1728,
+  "spawns": []
+ },
+ "C102": {
+  "function": "AI_FUN_80065b0c",
+  "file": "FunctionTypeC.cs",
+  "line": 1874,
+  "spawns": []
+ },
+ "C255": {
+  "function": "FUN_8007c174",
+  "file": "FunctionTypeC.cs",
+  "line": 17876,
+  "spawns": []
+ },
+ "D1": {
+  "function": "AI_FUN_8007d9a4",
+  "file": "FunctionTypeD.cs",
+  "line": 8,
+  "spawns": []
+ },
+ "D2": {
+  "function": "AI_FUN_8007da08",
+  "file": "FunctionTypeD.cs",
+  "line": 22,
+  "spawns": []
+ },
+ "D3": {
+  "function": "AI_FUN_8007db38",
+  "file": "FunctionTypeD.cs",
+  "line": 84,
+  "spawns": []
+ },
+ "D5": {
+  "function": "AI_FUN_8007dbe0",
+  "file": "FunctionTypeD.cs",
+  "line": 116,
+  "spawns": []
+ },
+ "D6": {
+  "function": "AI_FUN_8007dcd8",
+  "file": "FunctionTypeD.cs",
+  "line": 160,
+  "spawns": []
+ },
+ "D7": {
+  "function": "AI_FUN_8007dd3c",
+  "file": "FunctionTypeD.cs",
+  "line": 178,
+  "spawns": []
+ },
+ "D8": {
+  "function": "AI_FUN_8007dda0",
+  "file": "FunctionTypeD.cs",
+  "line": 189,
+  "spawns": []
+ },
+ "D9": {
+  "function": "AI_FUN_8007de04",
+  "file": "FunctionTypeD.cs",
+  "line": 201,
+  "spawns": []
+ },
+ "D10": {
+  "function": "AI_FUN_8007de68",
+  "file": "FunctionTypeD.cs",
+  "line": 213,
+  "spawns": []
+ },
+ "D11": {
+  "function": "AI_FUN_8007dee8",
+  "file": "FunctionTypeD.cs",
+  "line": 231,
+  "spawns": []
+ },
+ "D12": {
+  "function": "AI_FUN_8007df4c",
+  "file": "FunctionTypeD.cs",
+  "line": 255,
+  "spawns": []
+ },
+ "D13": {
+  "function": "AI_FUN_8007e074",
+  "file": "FunctionTypeD.cs",
+  "line": 318,
+  "spawns": []
+ },
+ "D14": {
+  "function": "AI_FUN_8007e0d8",
+  "file": "FunctionTypeD.cs",
+  "line": 330,
+  "spawns": []
+ },
+ "D15": {
+  "function": "AI_FUN_8007e114",
+  "file": "FunctionTypeD.cs",
+  "line": 347,
+  "spawns": []
+ },
+ "D16": {
+  "function": "AI_FUN_8007e140",
+  "file": "FunctionTypeD.cs",
+  "line": 376,
+  "spawns": []
+ },
+ "D17": {
+  "function": "AI_FUN_8007e1c4",
+  "file": "FunctionTypeD.cs",
+  "line": 403,
+  "spawns": []
+ },
+ "D18": {
+  "function": "AI_FUN_8007e228",
+  "file": "FunctionTypeD.cs",
+  "line": 426,
+  "spawns": []
+ },
+ "D19": {
+  "function": "AI_FUN_8007e2a0",
+  "file": "FunctionTypeD.cs",
+  "line": 441,
+  "spawns": []
+ },
+ "D20": {
+  "function": "AI_FUN_8007e304",
+  "file": "FunctionTypeD.cs",
+  "line": 453,
+  "spawns": []
+ },
+ "D21": {
+  "function": "AI_FUN_8007e424",
+  "file": "FunctionTypeD.cs",
+  "line": 510,
+  "spawns": [
+   {
+    "line": 15493,
+    "local": true,
+    "index_text": "0xF9",
+    "ids": [
+     249
+    ],
+    "animation": null,
+    "in": "AI_UpdateEntityAI_0_00"
+   },
+   {
+    "line": 15140,
+    "local": true,
+    "index_text": "spriteTableIndex",
+    "ids": [],
+    "animation": null,
+    "in": "UpdateWarpSpawnBehavior"
+   },
+   {
+    "line": 15075,
+    "local": true,
+    "index_text": "0xF8",
+    "ids": [
+     248
+    ],
+    "animation": null,
+    "in": "FUN_800737D0"
+   }
+  ]
+ },
+ "D22": {
+  "function": "AI_FUN_8007e548",
+  "file": "FunctionTypeD.cs",
+  "line": 676,
+  "spawns": []
+ },
+ "D23": {
+  "function": "AI_FUN_8007e5b0",
+  "file": "FunctionTypeD.cs",
+  "line": 695,
+  "spawns": []
+ },
+ "D24": {
+  "function": "AI_FUN_8007e628",
+  "file": "FunctionTypeD.cs",
+  "line": 714,
+  "spawns": []
+ },
+ "D25": {
+  "function": "AI_FUN_8007e68c",
+  "file": "FunctionTypeD.cs",
+  "line": 726,
+  "spawns": []
+ },
+ "D26": {
+  "function": "AI_FUN_8007e694",
+  "file": "FunctionTypeD.cs",
+  "line": 732,
+  "spawns": []
+ },
+ "D27": {
+  "function": "AI_FUN_8007e704",
+  "file": "FunctionTypeD.cs",
+  "line": 749,
+  "spawns": []
+ },
+ "D28": {
+  "function": "AI_FUN_8007e754",
+  "file": "FunctionTypeD.cs",
+  "line": 764,
+  "spawns": []
+ },
+ "D29": {
+  "function": "AI_FUN_8007e790",
+  "file": "FunctionTypeD.cs",
+  "line": 776,
+  "spawns": []
+ },
+ "D30": {
+  "function": "AI_FUN_8007e79c",
+  "file": "FunctionTypeD.cs",
+  "line": 788,
+  "spawns": []
+ },
+ "D31": {
+  "function": "AI_FUN_8007e7e4",
+  "file": "FunctionTypeD.cs",
+  "line": 804,
+  "spawns": []
+ },
+ "D32": {
+  "function": "AI_FUN_8007e828",
+  "file": "FunctionTypeD.cs",
+  "line": 826,
+  "spawns": []
+ },
+ "D33": {
+  "function": "AI_FUN_8007e86c",
+  "file": "FunctionTypeD.cs",
+  "line": 838,
+  "spawns": []
+ },
+ "D34": {
+  "function": "AI_FUN_8007e8ac",
+  "file": "FunctionTypeD.cs",
+  "line": 854,
+  "spawns": []
+ },
+ "D35": {
+  "function": "AI_FUN_8007e8f0",
+  "file": "FunctionTypeD.cs",
+  "line": 871,
+  "spawns": []
+ },
+ "D36": {
+  "function": "AI_FUN_8007e994",
+  "file": "FunctionTypeD.cs",
+  "line": 902,
+  "spawns": []
+ },
+ "D37": {
+  "function": "AI_FUN_8007e9ac",
+  "file": "FunctionTypeD.cs",
+  "line": 915,
+  "spawns": []
+ },
+ "D38": {
+  "function": "AI_FUN_8007e9e8",
+  "file": "FunctionTypeD.cs",
+  "line": 932,
+  "spawns": []
+ },
+ "D39": {
+  "function": "AI_FUN_8007ea24",
+  "file": "FunctionTypeD.cs",
+  "line": 949,
+  "spawns": []
+ },
+ "D40": {
+  "function": "AI_FUN_8007ea84",
+  "file": "FunctionTypeD.cs",
+  "line": 969,
+  "spawns": []
+ },
+ "D41": {
+  "function": "AI_FUN_8007eb1c",
+  "file": "FunctionTypeD.cs",
+  "line": 1007,
+  "spawns": []
+ },
+ "D42": {
+  "function": "AI_FUN_8007eb58",
+  "file": "FunctionTypeD.cs",
+  "line": 1025,
+  "spawns": []
+ },
+ "D43": {
+  "function": "AI_FUN_8007eba8",
+  "file": "FunctionTypeD.cs",
+  "line": 1047,
+  "spawns": []
+ },
+ "D44": {
+  "function": "AI_FUN_8007ebf0",
+  "file": "FunctionTypeD.cs",
+  "line": 1068,
+  "spawns": []
+ },
+ "D45": {
+  "function": "AI_FUN_8007ec60",
+  "file": "FunctionTypeD.cs",
+  "line": 1094,
+  "spawns": []
+ },
+ "D46": {
+  "function": "AI_FUN_8007ec9c",
+  "file": "FunctionTypeD.cs",
+  "line": 1109,
+  "spawns": []
+ },
+ "E0": {
+  "function": "FUN_8007ed10",
+  "file": "FunctionTypeE.cs",
+  "line": 8,
+  "spawns": []
+ },
+ "E1": {
+  "function": "FUN_8007ed10",
+  "file": "FunctionTypeE.cs",
+  "line": 8,
+  "spawns": []
+ },
+ "E2": {
+  "function": "AI_FUN_8007ed30",
+  "file": "FunctionTypeE.cs",
+  "line": 23,
+  "spawns": []
+ },
+ "E3": {
+  "function": "AI_FUN_8007eda0",
+  "file": "FunctionTypeE.cs",
+  "line": 53,
+  "spawns": []
+ },
+ "E4": {
+  "function": "AI_FUN_8007ee04",
+  "file": "FunctionTypeE.cs",
+  "line": 83,
+  "spawns": []
+ },
+ "E5": {
+  "function": "AI_FUN_8007ee68",
+  "file": "FunctionTypeE.cs",
+  "line": 102,
+  "spawns": []
+ },
+ "E6": {
+  "function": "AI_FUN_8007eef0",
+  "file": "FunctionTypeE.cs",
+  "line": 127,
+  "spawns": []
+ },
+ "E7": {
+  "function": "AI_FUN_8007ef10",
+  "file": "FunctionTypeE.cs",
+  "line": 140,
+  "spawns": []
+ },
+ "E8": {
+  "function": "AI_FUN_8007ef30",
+  "file": "FunctionTypeE.cs",
+  "line": 153,
+  "spawns": []
+ },
+ "E9": {
+  "function": "AI_HandleIceLightHitEffect",
+  "file": "FunctionTypeE.cs",
+  "line": 164,
+  "spawns": []
+ },
+ "E10": {
+  "function": "AI_FUN_8007f23c",
+  "file": "FunctionTypeE.cs",
+  "line": 261,
+  "spawns": []
+ },
+ "E11": {
+  "function": "AI_FUN_8007f25c",
+  "file": "FunctionTypeE.cs",
+  "line": 275,
+  "spawns": []
+ },
+ "E12": {
+  "function": "AI_FUN_8007f27c",
+  "file": "FunctionTypeE.cs",
+  "line": 349,
+  "spawns": []
+ },
+ "E13": {
+  "function": "AI_FUN_8007f30c",
+  "file": "FunctionTypeE.cs",
+  "line": 371,
+  "spawns": []
+ },
+ "E14": {
+  "function": "AI_FUN_8007f378",
+  "file": "FunctionTypeE.cs",
+  "line": 396,
+  "spawns": []
+ },
+ "E15": {
+  "function": "AI_FUN_8007f3b0",
+  "file": "FunctionTypeE.cs",
+  "line": 409,
+  "spawns": []
+ },
+ "E16": {
+  "function": "AI_FUN_8007f3e8",
+  "file": "FunctionTypeE.cs",
+  "line": 427,
+  "spawns": []
+ },
+ "E17": {
+  "function": "AI_UpdateArrows",
+  "file": "FunctionTypeE.cs",
+  "line": 439,
+  "spawns": []
+ },
+ "E18": {
+  "function": "AI_FUN_8007f658",
+  "file": "FunctionTypeE.cs",
+  "line": 574,
+  "spawns": []
+ },
+ "E19": {
+  "function": "AI_FUN_8007f690",
+  "file": "FunctionTypeE.cs",
+  "line": 587,
+  "spawns": []
+ },
+ "E20": {
+  "function": "AI_FUN_8007f6c8",
+  "file": "FunctionTypeE.cs",
+  "line": 601,
+  "spawns": [
+   {
+    "line": 614,
+    "local": false,
+    "index_text": "0x0C",
+    "ids": [
+     12
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007f6c8"
+   }
+  ]
+ },
+ "E21": {
+  "function": "AI_FUN_8007f7cc",
+  "file": "FunctionTypeE.cs",
+  "line": 648,
+  "spawns": []
+ },
+ "E22": {
+  "function": "AI_FUN_8007f878",
+  "file": "FunctionTypeE.cs",
+  "line": 678,
+  "spawns": []
+ },
+ "E23": {
+  "function": "AI_FUN_8007f8ac",
+  "file": "FunctionTypeE.cs",
+  "line": 697,
+  "spawns": []
+ },
+ "E24": {
+  "function": "AI_FUN_8007f974",
+  "file": "FunctionTypeE.cs",
+  "line": 727,
+  "spawns": [
+   {
+    "line": 756,
+    "local": true,
+    "index_text": "0xe3",
+    "ids": [
+     227
+    ],
+    "animation": null,
+    "in": "AI_FUN_8007f974"
+   }
+  ]
+ },
+ "E25": {
+  "function": "AI_FUN_8007faa0",
+  "file": "FunctionTypeE.cs",
+  "line": 783,
+  "spawns": []
+ },
+ "E26": {
+  "function": "AI_FUN_8007fac0",
+  "file": "FunctionTypeE.cs",
+  "line": 796,
+  "spawns": []
+ },
+ "E27": {
+  "function": "AI_DestroyEntity",
+  "file": "FunctionTypeE.cs",
+  "line": 816,
+  "spawns": []
+ },
+ "E28": {
+  "function": "AI_FUN_8007fb58",
+  "file": "FunctionTypeE.cs",
+  "line": 829,
+  "spawns": []
+ }
+}

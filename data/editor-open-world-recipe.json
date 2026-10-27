@@ -1,0 +1,1683 @@
+{
+  "format": "alundra-editor-open-world-recipe-v1",
+  "source_commit": "4bbc2bdf7a82adeb1d9ff5a3ab8b11033efe9b5c",
+  "stock_datas_sha256": "327c5226195991a385250b54f6d7adbd019e45fb0963c62a22268f866ebf25ce",
+  "starting_flags": [
+    {
+      "name": "FLAG_HUD_ALLOWED",
+      "operand": 1662,
+      "byte_address": "0x801dd403",
+      "byte_mask": 64
+    },
+    {
+      "name": "FLAG_UNDERGROUND_WATERWAY_OPENED",
+      "operand": 484,
+      "byte_address": "0x801dd370",
+      "byte_mask": 16
+    },
+    {
+      "name": "FLAG_REMOVED_TREE_TO_CLIFFS_OF_MADNESS",
+      "operand": 349,
+      "byte_address": "0x801dd35f",
+      "byte_mask": 32
+    },
+    {
+      "name": "FLAG_CHANGE_SIGN_TO_CLIFFS_OF_MADNESS",
+      "operand": 219,
+      "byte_address": "0x801dd34f",
+      "byte_mask": 8
+    },
+    {
+      "name": "FLAG_LEARNED_ABOUT_MERRICK_WANTING_FALCONS",
+      "operand": 1430,
+      "byte_address": "0x801dd3e6",
+      "byte_mask": 64
+    },
+    {
+      "name": "FLAG_TALKED_WITH_MERRICK",
+      "operand": 1431,
+      "byte_address": "0x801dd3e6",
+      "byte_mask": 128
+    },
+    {
+      "name": "FLAG_TALKED_WITH_MERRICK_ABOUT_FALCONS",
+      "operand": 1432,
+      "byte_address": "0x801dd3e7",
+      "byte_mask": 1
+    },
+    {
+      "name": "FLAG_ACCEPTED_MERRICK_DEAL_ABOUT_FALCONS",
+      "operand": 1449,
+      "byte_address": "0x801dd3e9",
+      "byte_mask": 2
+    },
+    {
+      "name": "FLAG_MAGYSCAR_WALL_IS_CRACKED",
+      "operand": 285,
+      "byte_address": "0x801dd357",
+      "byte_mask": 32
+    },
+    {
+      "name": "FLAG_TORLA_GEYSERS_ACTIVE",
+      "operand": 563,
+      "byte_address": "0x801dd37a",
+      "byte_mask": 8
+    },
+    {
+      "name": "FLAG_NIRUDE_LOWER_BOULDER_REMOVED",
+      "operand": 1239,
+      "byte_address": "0x801dd3ce",
+      "byte_mask": 128
+    },
+    {
+      "name": "FLAG_CAN_EXIT_LARS_CRYPT",
+      "operand": 208,
+      "byte_address": "0x801dd34e",
+      "byte_mask": 1
+    },
+    {
+      "name": "FLAG_OTHER_FLOWERS_ARE_IN_GRAVEYARD",
+      "operand": 207,
+      "byte_address": "0x801dd34d",
+      "byte_mask": 128
+    },
+    {
+      "name": "FLAG_LURVY_WELCOMED_US_ONCE",
+      "operand": 1106,
+      "byte_address": "0x801dd3be",
+      "byte_mask": 4
+    },
+    {
+      "name": "FLAG_LARS_CRYPT_TALKED_WITH_MASTER_SAGE_ONCE",
+      "operand": 1191,
+      "byte_address": "0x801dd3c8",
+      "byte_mask": 128
+    }
+  ],
+  "map_variant_stores": [
+    {
+      "address": "0x801dd578",
+      "width_bits": 16,
+      "value": 241
+    },
+    {
+      "address": "0x801dd586",
+      "width_bits": 16,
+      "value": 241
+    },
+    {
+      "address": "0x801dd63a",
+      "width_bits": 16,
+      "value": 241
+    },
+    {
+      "address": "0x801dd618",
+      "width_bits": 16,
+      "value": 260
+    },
+    {
+      "address": "0x801dd44c",
+      "width_bits": 16,
+      "value": 407
+    },
+    {
+      "address": "0x801dd456",
+      "width_bits": 16,
+      "value": 439
+    }
+  ],
+  "patches": [
+    {
+      "map_id": 1,
+      "stock_file_offset": "0x105e29",
+      "before": "38a200ba00",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 117
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 14
+    },
+    {
+      "map_id": 30,
+      "stock_file_offset": "0x82e6dc",
+      "before": "38a200cd00",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 3",
+        "relative_offset": 84
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 17
+    },
+    {
+      "map_id": 76,
+      "stock_file_offset": "0x127b08a",
+      "before": "38a200d400",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 246
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 20
+    },
+    {
+      "map_id": 153,
+      "stock_file_offset": "0x22ead1f",
+      "before": "38a2001a01",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 259
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 23
+    },
+    {
+      "map_id": 25,
+      "stock_file_offset": "0x72e55f",
+      "before": "38a200c100",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 251
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 26
+    },
+    {
+      "map_id": 84,
+      "stock_file_offset": "0x1442734",
+      "before": "38a200ed00",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 3",
+        "relative_offset": 292
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 29
+    },
+    {
+      "map_id": 411,
+      "stock_file_offset": "0x5931734",
+      "before": "38a200ed00",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 3",
+        "relative_offset": 292
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 30
+    },
+    {
+      "map_id": 17,
+      "stock_file_offset": "0x5478da",
+      "before": "38a2000301",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 20",
+        "relative_offset": 266
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 33
+    },
+    {
+      "map_id": 439,
+      "stock_file_offset": "0x5f3c8e6",
+      "before": "38a2000301",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 20",
+        "relative_offset": 266
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 34
+    },
+    {
+      "map_id": 325,
+      "stock_file_offset": "0x4817a26",
+      "before": "38a2002101",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 186
+      },
+      "source_path": "src/patches/patch_neutralize_map_variant_changes.hpp",
+      "source_line": 37
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x3654c4",
+      "before": "05c602",
+      "after": "020300",
+      "anchor": {
+        "kind": "process",
+        "key": "C 7",
+        "relative_offset": 72
+      },
+      "source_path": "src/patches/patch_neutralize_flags.hpp",
+      "source_line": 14
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494f5f8",
+      "before": "05c602",
+      "after": "020300",
+      "anchor": {
+        "kind": "process",
+        "key": "C 7",
+        "relative_offset": 72
+      },
+      "source_path": "src/patches/patch_neutralize_flags.hpp",
+      "source_line": 15
+    },
+    {
+      "map_id": 95,
+      "stock_file_offset": "0x1683d14",
+      "before": "10",
+      "after": "11",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 140
+      },
+      "source_path": "src/patches/patch_neutralize_flags.hpp",
+      "source_line": 18
+    },
+    {
+      "map_id": 7,
+      "stock_file_offset": "0x29b3a6",
+      "before": "8b02",
+      "after": "7e06",
+      "anchor": {
+        "kind": "process",
+        "key": "B 9",
+        "relative_offset": 2
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 12
+    },
+    {
+      "map_id": 7,
+      "stock_file_offset": "0x29af35",
+      "before": "8b02",
+      "after": "7e06",
+      "anchor": {
+        "kind": "process",
+        "key": "A 6",
+        "relative_offset": 1
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 13
+    },
+    {
+      "map_id": 7,
+      "stock_file_offset": "0x29b5e5",
+      "before": "8b02",
+      "after": "7e06",
+      "anchor": {
+        "kind": "process",
+        "key": "F 6",
+        "relative_offset": 1
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 14
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364bfe",
+      "before": "e900",
+      "after": "2031",
+      "anchor": {
+        "kind": "process",
+        "key": "B 3",
+        "relative_offset": 6
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 17
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ed32",
+      "before": "e900",
+      "after": "2031",
+      "anchor": {
+        "kind": "process",
+        "key": "B 3",
+        "relative_offset": 6
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 18
+    },
+    {
+      "map_id": 13,
+      "stock_file_offset": "0x43f774",
+      "before": "5f00",
+      "after": "0500",
+      "anchor": {
+        "kind": "process",
+        "key": "C 1",
+        "relative_offset": 12
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 21
+    },
+    {
+      "map_id": 13,
+      "stock_file_offset": "0x43f7db",
+      "before": "5e00",
+      "after": "0500",
+      "anchor": {
+        "kind": "process",
+        "key": "C 2",
+        "relative_offset": 7
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 22
+    },
+    {
+      "map_id": 13,
+      "stock_file_offset": "0x43f83f",
+      "before": "5e00",
+      "after": "0500",
+      "anchor": {
+        "kind": "process",
+        "key": "C 3",
+        "relative_offset": 7
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 23
+    },
+    {
+      "map_id": 13,
+      "stock_file_offset": "0x43f8a3",
+      "before": "5e00",
+      "after": "0500",
+      "anchor": {
+        "kind": "process",
+        "key": "C 4",
+        "relative_offset": 7
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 24
+    },
+    {
+      "map_id": 13,
+      "stock_file_offset": "0x43f907",
+      "before": "6900",
+      "after": "0500",
+      "anchor": {
+        "kind": "process",
+        "key": "C 5",
+        "relative_offset": 7
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 25
+    },
+    {
+      "map_id": 396,
+      "stock_file_offset": "0x567029a",
+      "before": "8d05",
+      "after": "0031",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 42
+      },
+      "source_path": "src/patches/patch_change_flag_checks.hpp",
+      "source_line": 29
+    },
+    {
+      "map_id": 258,
+      "stock_file_offset": "0x3a672a4",
+      "before": "a200",
+      "after": "f100",
+      "anchor": {
+        "kind": "process",
+        "key": "B 6",
+        "relative_offset": 76
+      },
+      "source_path": "src/patches/patch_fix_wrong_map_transitions.hpp",
+      "source_line": 16
+    },
+    {
+      "map_id": 332,
+      "stock_file_offset": "0x4996868",
+      "before": "a600",
+      "after": "f500",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 8
+      },
+      "source_path": "src/patches/patch_fix_wrong_map_transitions.hpp",
+      "source_line": 22
+    },
+    {
+      "map_id": 258,
+      "stock_file_offset": "0x3a6729e",
+      "before": "31c9000e00",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 6",
+        "relative_offset": 70
+      },
+      "source_path": "src/patches/patch_fix_wrong_map_transitions.hpp",
+      "source_line": 15
+    },
+    {
+      "map_id": 332,
+      "stock_file_offset": "0x4996860",
+      "before": "31c9000d00",
+      "after": "0205000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 0
+      },
+      "source_path": "src/patches/patch_fix_wrong_map_transitions.hpp",
+      "source_line": 21
+    },
+    {
+      "map_id": 407,
+      "stock_file_offset": "0x584d6bf",
+      "before": "0c",
+      "after": "0d",
+      "anchor": {
+        "kind": "entity",
+        "index": 7,
+        "relative_offset": 7
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 28
+    },
+    {
+      "map_id": 407,
+      "stock_file_offset": "0x584d6c8",
+      "before": "4005",
+      "after": "d606",
+      "anchor": {
+        "kind": "entity",
+        "index": 7,
+        "relative_offset": 16
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 29
+    },
+    {
+      "map_id": 407,
+      "stock_file_offset": "0x584d6ca",
+      "before": "29",
+      "after": "26",
+      "anchor": {
+        "kind": "entity",
+        "index": 7,
+        "relative_offset": 18
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 30
+    },
+    {
+      "map_id": 407,
+      "stock_file_offset": "0x584d6ab",
+      "before": "5e",
+      "after": "5f",
+      "anchor": {
+        "kind": "entity",
+        "index": 6,
+        "relative_offset": 7
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 35
+    },
+    {
+      "map_id": 407,
+      "stock_file_offset": "0x584d6b4",
+      "before": "4205",
+      "after": "d706",
+      "anchor": {
+        "kind": "entity",
+        "index": 6,
+        "relative_offset": 16
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 36
+    },
+    {
+      "map_id": 407,
+      "stock_file_offset": "0x584d6b6",
+      "before": "26",
+      "after": "25",
+      "anchor": {
+        "kind": "entity",
+        "index": 6,
+        "relative_offset": 18
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 37
+    },
+    {
+      "map_id": 87,
+      "stock_file_offset": "0x14e1fae",
+      "before": "2706",
+      "after": "0700",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 14
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 52
+    },
+    {
+      "map_id": 87,
+      "stock_file_offset": "0x14e1fa1",
+      "before": "2706",
+      "after": "0700",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 1
+      },
+      "source_path": "src/patches/patch_fix_map_inconsistencies.hpp",
+      "source_line": 55
+    },
+    {
+      "map_id": 323,
+      "stock_file_offset": "0x47c9e12",
+      "before": "067e06",
+      "after": "020300",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 66
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 35
+    },
+    {
+      "map_id": 2,
+      "stock_file_offset": "0x13f339",
+      "before": "302701",
+      "after": "020d00",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 5
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 41
+    },
+    {
+      "map_id": 1,
+      "stock_file_offset": "0x105db4",
+      "before": "302701",
+      "after": "027c00",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 0
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 44
+    },
+    {
+      "map_id": 6,
+      "stock_file_offset": "0x245a04",
+      "before": "051d02",
+      "after": "020300",
+      "anchor": {
+        "kind": "process",
+        "key": "B 9",
+        "relative_offset": 88
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 49
+    },
+    {
+      "map_id": 6,
+      "stock_file_offset": "0x245a0b",
+      "before": "5a",
+      "after": "47",
+      "anchor": {
+        "kind": "process",
+        "key": "B 10",
+        "relative_offset": 3
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 55
+    },
+    {
+      "map_id": 6,
+      "stock_file_offset": "0x245a50",
+      "before": "2701",
+      "after": "0d03",
+      "anchor": {
+        "kind": "process",
+        "key": "B 10",
+        "relative_offset": 72
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 58
+    },
+    {
+      "map_id": 6,
+      "stock_file_offset": "0x2458a1",
+      "before": "2701",
+      "after": "0d03",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 1
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 62
+    },
+    {
+      "map_id": 145,
+      "stock_file_offset": "0x2122c20",
+      "before": "31d600",
+      "after": "021700",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 0
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 72
+    },
+    {
+      "map_id": 145,
+      "stock_file_offset": "0x2122c38",
+      "before": "31d600",
+      "after": "022f00",
+      "anchor": {
+        "kind": "process",
+        "key": "B 3",
+        "relative_offset": 0
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 73
+    },
+    {
+      "map_id": 21,
+      "stock_file_offset": "0x63ac96",
+      "before": "6c02",
+      "after": "7f00",
+      "anchor": {
+        "kind": "process",
+        "key": "B 13",
+        "relative_offset": 18
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 80
+    },
+    {
+      "map_id": 325,
+      "stock_file_offset": "0x4817a36",
+      "before": "2201",
+      "after": "f200",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 202
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 90
+    },
+    {
+      "map_id": 325,
+      "stock_file_offset": "0x4817a02",
+      "before": "10",
+      "after": "11",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 150
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 94
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b44",
+      "before": "31c9000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 0
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 22
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b4c",
+      "before": "31ca000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 8
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 23
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b54",
+      "before": "31cb000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 16
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 24
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b5c",
+      "before": "31cc000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 24
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 25
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b64",
+      "before": "31cd000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 32
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 26
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b6c",
+      "before": "31ce000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 40
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 27
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b7d",
+      "before": "31d1000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 57
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 29
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b85",
+      "before": "31d2000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 65
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 30
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b8d",
+      "before": "31d3000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 73
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 31
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b95",
+      "before": "31d4000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 81
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 32
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364b9d",
+      "before": "31d5000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 89
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 33
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364ba5",
+      "before": "31d6000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 97
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 34
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364bad",
+      "before": "31d7000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 105
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 35
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364bce",
+      "before": "31d9000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 138
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 36
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364bd6",
+      "before": "31da000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 146
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 37
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364bde",
+      "before": "31db000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 154
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 38
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364be6",
+      "before": "31dc000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 162
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 39
+    },
+    {
+      "map_id": 10,
+      "stock_file_offset": "0x364bee",
+      "before": "31dd000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 170
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 40
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ec78",
+      "before": "31c9000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 0
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 43
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ec80",
+      "before": "31ca000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 8
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 44
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ec88",
+      "before": "31cb000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 16
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 45
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ec90",
+      "before": "31cc000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 24
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 46
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ec98",
+      "before": "31cd000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 32
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 47
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494eca0",
+      "before": "31ce000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 40
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 48
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ecb1",
+      "before": "31d1000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 57
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 50
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ecb9",
+      "before": "31d2000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 65
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 51
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ecc1",
+      "before": "31d3000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 73
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 52
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ecc9",
+      "before": "31d4000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 81
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 53
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ecd1",
+      "before": "31d5000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 89
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 54
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ecd9",
+      "before": "31d6000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 97
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 55
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ece1",
+      "before": "31d7000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 105
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 56
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ed02",
+      "before": "31d9000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 138
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 57
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ed0a",
+      "before": "31da000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 146
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 58
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ed12",
+      "before": "31db000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 154
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 59
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ed1a",
+      "before": "31dc000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 162
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 60
+    },
+    {
+      "map_id": 331,
+      "stock_file_offset": "0x494ed22",
+      "before": "31dd000800",
+      "after": "0208000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 2",
+        "relative_offset": 170
+      },
+      "source_path": "src/patches/patch_remove_useless_cephas.hpp",
+      "source_line": 61
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea7e1",
+      "before": "31ca000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 1
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 20
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea7ef",
+      "before": "31cb000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 15
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 21
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea7fd",
+      "before": "31cc000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 29
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 22
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea80b",
+      "before": "31cd000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 43
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 23
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea819",
+      "before": "31ce000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 57
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 24
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea827",
+      "before": "31cf000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 71
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 25
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea835",
+      "before": "31d0000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 85
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 26
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea843",
+      "before": "31d1000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 99
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 27
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea851",
+      "before": "31d2000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 113
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 28
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea85f",
+      "before": "31d3000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 127
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 29
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea86d",
+      "before": "31d4000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 141
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 30
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea87b",
+      "before": "31d5000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 155
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 31
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea889",
+      "before": "31d6000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 169
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 32
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea897",
+      "before": "31d7000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 183
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 33
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8a5",
+      "before": "31d8000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 197
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 34
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8b3",
+      "before": "31d9000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 211
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 35
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8c1",
+      "before": "31da000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 225
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 36
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8cf",
+      "before": "31db000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 239
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 37
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8dd",
+      "before": "31dc000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 253
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 38
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8eb",
+      "before": "31dd000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 267
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 39
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8f9",
+      "before": "31de000600",
+      "after": "0206000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 281
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 40
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea8ff",
+      "before": "31df000e00",
+      "after": "020e000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 287
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 41
+    },
+    {
+      "map_id": 144,
+      "stock_file_offset": "0x20ea90d",
+      "before": "31e0002100",
+      "after": "0221000000",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 301
+      },
+      "source_path": "src/patches/patch_remove_nava_instances.hpp",
+      "source_line": 42
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aea9c3",
+      "before": "2600",
+      "after": "4031",
+      "anchor": {
+        "kind": "process",
+        "key": "B 3",
+        "relative_offset": 15
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 16
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeab71",
+      "before": "2600",
+      "after": "4031",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 5
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 17
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeab86",
+      "before": "a601",
+      "after": "1010",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 26
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 20
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeab92",
+      "before": "a70200",
+      "after": "020300",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 38
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 21
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeabb1",
+      "before": "0d8a01",
+      "after": "020300",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 69
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 24
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeabb7",
+      "before": "5c818e0039",
+      "after": "38f200f200",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 75
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 28
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeabef",
+      "before": "067e06",
+      "after": "020300",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 131
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 31
+    },
+    {
+      "map_id": 242,
+      "stock_file_offset": "0x36f3907",
+      "before": "0e0e",
+      "after": "ffff",
+      "anchor": {
+        "kind": "entity",
+        "index": 4,
+        "relative_offset": 7
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 42
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeabf4",
+      "before": "38a200",
+      "after": "020500",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 136
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 44
+    },
+    {
+      "map_id": 323,
+      "stock_file_offset": "0x47c9e15",
+      "before": "53e201221e010000",
+      "after": "5347010d37140200",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 69
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 32
+    },
+    {
+      "map_id": 324,
+      "stock_file_offset": "0x47e7b57",
+      "before": "53c3010b130400000000ff",
+      "after": "3811001100531100192800",
+      "anchor": {
+        "kind": "process",
+        "key": "B 1",
+        "relative_offset": 51
+      },
+      "source_path": "src/patches/patch_remove_cutscenes.hpp",
+      "source_line": 110
+    },
+    {
+      "map_id": 260,
+      "stock_file_offset": "0x3aeabf9",
+      "before": "534d0128090200",
+      "after": "1153f200070801",
+      "anchor": {
+        "kind": "process",
+        "key": "C 8",
+        "relative_offset": 141
+      },
+      "source_path": "src/patches/patch_adapt_blue_chest.hpp",
+      "source_line": 39
+    }
+  ],
+  "dream_mode": false,
+  "stock_variant_setter_opcode": 56,
+  "neutralization_uses_native_opcode2": true,
+  "source_behaviors": "Ordinary world-access/cutscene/map consistency recipes, no item shuffle or dream dungeon routing",
+  "license": "MIT, Copyright (c) 2022 Dinopony; docs/OPEN_WORLD_RANDOMIZER_LICENSE.txt"
+}

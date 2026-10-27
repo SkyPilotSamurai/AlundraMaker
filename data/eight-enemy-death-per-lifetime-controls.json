@@ -1,0 +1,3008 @@
+{
+  "format": "alundra-eight-enemy-death-per-native-lifetime-v1",
+  "cases": [
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          2964
+        ],
+        [
+          7,
+          14,
+          4770
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 2964,
+          "disposed_frame": 2966,
+          "stable_frames": 812,
+          "hp_values": [
+            0,
+            9
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4770,
+          "disposed_frame": 4772,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            9
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 329,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-329-death-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-329-death-v7\\runtime-1",
+      "trace_sha256": "7954fc463eb425a723ccf69da62d3ef8f0b7aa6a39cda2dd702c10043e920650",
+      "datas_sha256": "d0d8e007668585b573c336aaa09e77308d6b5c5e2f5fddf98ccc0b9eb20b6aa6",
+      "exe_sha256": "b77be22099f1f66d463e9fd3025355163359d26c9f5f23af1bb1848da42646b1",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-329-death-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "070b090da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f65",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f6d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f75",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4105",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f410d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4115",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42a5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42b5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "13111513a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac185",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac18d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac195",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac325",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac32d",
+          "before": 128,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac335",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4c5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4d5",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 329,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-329-living-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-329-living-v7\\runtime-1",
+      "trace_sha256": "4c2980a2680708bfbe410e738c4dad6e932553524670235d264da9771132db34",
+      "datas_sha256": "a3e2db8de804e3698df6cf5e64283fedf7de17004bef643c12060c446c6c9244",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-329-living-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 329,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-329-delete-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-329-delete-v7\\runtime-1",
+      "trace_sha256": "0cc68d1b4a00f9efb4c38f095ae6f990aa70405dd03796597dda55db9d58a49e",
+      "datas_sha256": "65a523da739691f4478ff2ac8d04f53a823c71609fc9e72c564a32bb413c1a62",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-329-delete-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          3084
+        ],
+        [
+          7,
+          14,
+          4974
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 3084,
+          "disposed_frame": 3086,
+          "stable_frames": 818,
+          "hp_values": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            9
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4974,
+          "disposed_frame": 4976,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            9
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 335,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-puku-death-v6\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-puku-death-v6\\runtime-1",
+      "trace_sha256": "8761bab73f55c6539e6cbc0a418831e4e41820039b83e709a1a71ab7f74b40f5",
+      "datas_sha256": "26f46ca25689935beacee85f2b0a73f8757f3b60bee9e3bccd893befb160a380",
+      "exe_sha256": "d334dd200c50372e08fe75f28b983771182d65e9b9fab4e7ed36faf958759c55",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-puku-death-v6\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "080d080da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "14131413a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "starting_equipment": [
+        1
+      ],
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 335,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-puku-living-v5\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-puku-living-v5\\runtime-1",
+      "trace_sha256": "4fc5657d7c7cfe02b67e649380d8f48c3b15d3eba85df0e16066feacff361082",
+      "datas_sha256": "82b3cfd70a3c7c58b983666191603edd08de7e22a5582e8eaf91125c63f8234b",
+      "exe_sha256": "1fd8510cc135a9a49af0592160081fa49f2bc3af1ee28e05173cc35785ed2641",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-puku-living-v5\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        1
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 335,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-puku-delete-v5\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-puku-delete-v5\\runtime-1",
+      "trace_sha256": "4f2ab091e10e7d3861f805db238971b20585f7be98f6db5132e7297084ec2032",
+      "datas_sha256": "baf5bbd4ad5e66953660c95e664b9a41a97ae5835e9df3d84b4396306e703ed7",
+      "exe_sha256": "1fd8510cc135a9a49af0592160081fa49f2bc3af1ee28e05173cc35785ed2641",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-puku-delete-v5\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        1
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          2964
+        ],
+        [
+          7,
+          14,
+          4770
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 2964,
+          "disposed_frame": 2966,
+          "stable_frames": 825,
+          "hp_values": [
+            0,
+            9
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4770,
+          "disposed_frame": 4772,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            9
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 338,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-338-death-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-338-death-v7\\runtime-1",
+      "trace_sha256": "55cd8fb1d0d47135581fc4ded8e0f8796c98fb5dae5ef9ac72dc929bf9dee277",
+      "datas_sha256": "0a6ce145fd64cb9fb60dd54093335f028bc1c3f166c44fb8d2e420006d47f98d",
+      "exe_sha256": "b77be22099f1f66d463e9fd3025355163359d26c9f5f23af1bb1848da42646b1",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-338-death-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "070b090da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f65",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f6d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f75",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4105",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f410d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4115",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42a5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42b5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "13111513a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac185",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac18d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac195",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac325",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac32d",
+          "before": 128,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac335",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4c5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4d5",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 338,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-338-living-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-338-living-v7\\runtime-1",
+      "trace_sha256": "55f2ae706db3ea64e7587eb4d7f08018a309e1238a49d07b73bee4dc756219d2",
+      "datas_sha256": "1d57b56028454c9a9fa8b13e02e8808c455cc7c991b5c7d5e10db0742fc8a7a4",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-338-living-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 338,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-338-delete-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-338-delete-v7\\runtime-1",
+      "trace_sha256": "8a318544d3dd20ae0afae117b62e7ef48c9cb5b91b6381bc9b646e491cb3ce9a",
+      "datas_sha256": "f984abec01fe180fa9d51230b1f16f5d9a0089de715f857d2f9ccbf6a7e37682",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-338-delete-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          2964
+        ],
+        [
+          7,
+          14,
+          4794
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 2964,
+          "disposed_frame": 2966,
+          "stable_frames": 811,
+          "hp_values": [
+            0,
+            9
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4794,
+          "disposed_frame": 4796,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            9
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 341,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-341-death-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-341-death-v7\\runtime-1",
+      "trace_sha256": "aca979faa41f7eb59f3997caa09c08c082c9eeae2d555dcca0a8e3c60c0db56f",
+      "datas_sha256": "9ff1f6b03031326c8773113fa4884536152ce6646398ba0083ddb055cd3aa25c",
+      "exe_sha256": "b77be22099f1f66d463e9fd3025355163359d26c9f5f23af1bb1848da42646b1",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-341-death-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "070b090da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f65",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f6d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f75",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4105",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f410d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4115",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42a5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42b5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "13111513a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac185",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac18d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac195",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac325",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac32d",
+          "before": 128,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac335",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4c5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4d5",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 341,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-341-living-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-341-living-v7\\runtime-1",
+      "trace_sha256": "55f2ae706db3ea64e7587eb4d7f08018a309e1238a49d07b73bee4dc756219d2",
+      "datas_sha256": "bbd9677598e9904843b2d0bee1c6010159fd8881b0fdbf4df1fa79c6a57a9e51",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-341-living-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 341,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-341-delete-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-341-delete-v7\\runtime-1",
+      "trace_sha256": "8a318544d3dd20ae0afae117b62e7ef48c9cb5b91b6381bc9b646e491cb3ce9a",
+      "datas_sha256": "56315473c7f2175334413b971e996375a382c097ceee4d56ae1657be88143f2a",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-341-delete-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          2994
+        ],
+        [
+          7,
+          14,
+          4865
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 2994,
+          "disposed_frame": 2996,
+          "stable_frames": 811,
+          "hp_values": [
+            0,
+            9
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4865,
+          "disposed_frame": 4867,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            9
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 344,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-344-death-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-344-death-v7\\runtime-1",
+      "trace_sha256": "79c17c6cce0a7c9331e0ee95bc3268829d504b5d00eed342013450992c8cb26f",
+      "datas_sha256": "0cba5fc4093471aa97f42e514abdc8dc1cf09fde56ac8d0bc9ee725cdf759526",
+      "exe_sha256": "b77be22099f1f66d463e9fd3025355163359d26c9f5f23af1bb1848da42646b1",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-344-death-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "070b090da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f65",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f6d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f75",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4105",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f410d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4115",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42a5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42b5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "13111513a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac185",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac18d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac195",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac325",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac32d",
+          "before": 128,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac335",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4c5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4d5",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 344,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-344-living-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-344-living-v7\\runtime-1",
+      "trace_sha256": "7f5d5ac7b19a64de9e0ef17e1df243ad822b5cac86c39933e89ab09e9ad28355",
+      "datas_sha256": "cd96812559c7077b6b2579bb0665b72c08c7a4912b45511fdc0b7a4a0d7140cb",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-344-living-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        9
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 344,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-344-delete-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-344-delete-v7\\runtime-1",
+      "trace_sha256": "a912cc8158375f30c0aee2cb1cb70073e04b3d90733888ad8c4c675a5f2de05e",
+      "datas_sha256": "5ccafa98adcbd54ee73941442b31ec51da3982793ece69ffa207a5c41744f9c1",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-344-delete-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          2960
+        ],
+        [
+          7,
+          14,
+          4838
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 2960,
+          "disposed_frame": 2962,
+          "stable_frames": 810,
+          "hp_values": [
+            0,
+            12
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4838,
+          "disposed_frame": 4840,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            12
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 362,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-362-death-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-362-death-v7\\runtime-1",
+      "trace_sha256": "8e56990619a8ce52a55068e5750e26c4aade3be6d23ee3d891b409645c44c1a7",
+      "datas_sha256": "e35e2867f6aaae94b0dea3f0dfe5b8367b8ffe660a3b1136ec6c42f14b1ed55e",
+      "exe_sha256": "b77be22099f1f66d463e9fd3025355163359d26c9f5f23af1bb1848da42646b1",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-362-death-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "070b090da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f65",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f6d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f75",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4105",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f410d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4115",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42a5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42b5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "13111513a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac185",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac18d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac195",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac325",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac32d",
+          "before": 128,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac335",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4c5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4d5",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        12
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 362,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-362-living-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-362-living-v7\\runtime-1",
+      "trace_sha256": "da2b0946ef2d009e94ff27c717e3cf2b21258f6ccb31b6686237dad84d7ddf9a",
+      "datas_sha256": "437c1a72b31cd2c3508584da8fe19982e1f2acea7989f6b7ece7a24304910f84",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-362-living-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        12
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 362,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-362-delete-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-362-delete-v7\\runtime-1",
+      "trace_sha256": "3e70caf490655acd17f8eef7316f602352ac6decf74707bae9becc600a14ef24",
+      "datas_sha256": "25884c47810bfcc6121220becf013995dd64c572f0a3bf2aa765a14a2da37682",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-362-delete-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          2998
+        ],
+        [
+          7,
+          14,
+          4835
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 2998,
+          "disposed_frame": 3000,
+          "stable_frames": 819,
+          "hp_values": [
+            0,
+            12
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4835,
+          "disposed_frame": 4837,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            12
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 365,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-365-death-v8\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-365-death-v8\\runtime-2",
+      "trace_sha256": "ef8cb57cf5e856180b34645c7a9df4bff9be0857a4e3a55fa78345296235b886",
+      "datas_sha256": "9e06049785d1cfbe274bc23c47166e456a1d0af66f1c7fa23a786f6be48de79c",
+      "exe_sha256": "b77be22099f1f66d463e9fd3025355163359d26c9f5f23af1bb1848da42646b1",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-365-death-v8\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "070b090da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f65",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f6d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 11,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f3f75",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4105",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f410d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 12,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f4115",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 7,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42a5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 8,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 163,
+          "x": 9,
+          "y": 13,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42b5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "13111513a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac185",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac18d",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 17,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac195",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac325",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac32d",
+          "before": 128,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 18,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac335",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 19,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4c5",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 20,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "x": 21,
+          "y": 19,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4d5",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "test_only_flat_arena_changes": [
+        {
+          "x": 2,
+          "y": 6,
+          "offset": "0x24f371c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 6,
+          "offset": "0x24f3724",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "offset": "0x24f372c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 5,
+          "y": 6,
+          "offset": "0x24f3734",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "offset": "0x24f373c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 7,
+          "y": 6,
+          "offset": "0x24f3744",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "offset": "0x24f374c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 9,
+          "y": 6,
+          "offset": "0x24f3754",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 10,
+          "y": 6,
+          "offset": "0x24f375c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 11,
+          "y": 6,
+          "offset": "0x24f3764",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 12,
+          "y": 6,
+          "offset": "0x24f376c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 2,
+          "y": 7,
+          "offset": "0x24f38bc",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 7,
+          "offset": "0x24f38c4",
+          "before_hex": "41100404",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 4,
+          "y": 7,
+          "offset": "0x24f38cc",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 5,
+          "y": 7,
+          "offset": "0x24f38d4",
+          "before_hex": "41100404",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 6,
+          "y": 7,
+          "offset": "0x24f38dc",
+          "before_hex": "01100402",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 8,
+          "y": 7,
+          "offset": "0x24f38ec",
+          "before_hex": "00000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 10,
+          "y": 7,
+          "offset": "0x24f38fc",
+          "before_hex": "01100403",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 11,
+          "y": 7,
+          "offset": "0x24f3904",
+          "before_hex": "00000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 12,
+          "y": 7,
+          "offset": "0x24f390c",
+          "before_hex": "00000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "offset": "0x24f3a5c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 8,
+          "offset": "0x24f3a64",
+          "before_hex": "01000401",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 2,
+          "y": 9,
+          "offset": "0x24f3bfc",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 9,
+          "offset": "0x24f3c04",
+          "before_hex": "01000401",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 4,
+          "y": 9,
+          "offset": "0x24f3c0c",
+          "before_hex": "01000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 8,
+          "y": 9,
+          "offset": "0x24f3c2c",
+          "before_hex": "00000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 2,
+          "y": 10,
+          "offset": "0x24f3d9c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 10,
+          "offset": "0x24f3da4",
+          "before_hex": "01000401",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 2,
+          "y": 11,
+          "offset": "0x24f3f3c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 11,
+          "offset": "0x24f3f44",
+          "before_hex": "01000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 4,
+          "y": 11,
+          "offset": "0x24f3f4c",
+          "before_hex": "01000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 5,
+          "y": 11,
+          "offset": "0x24f3f54",
+          "before_hex": "01000402",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 2,
+          "y": 12,
+          "offset": "0x24f40dc",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 12,
+          "offset": "0x24f40e4",
+          "before_hex": "01000403",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 2,
+          "y": 13,
+          "offset": "0x24f427c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 13,
+          "offset": "0x24f4284",
+          "before_hex": "01000403",
+          "after_hex": "00000401"
+        },
+        {
+          "x": 2,
+          "y": 14,
+          "offset": "0x24f441c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 2,
+          "y": 15,
+          "offset": "0x24f45bc",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 2,
+          "y": 16,
+          "offset": "0x24f475c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 2,
+          "y": 17,
+          "offset": "0x24f48fc",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 2,
+          "y": 18,
+          "offset": "0x24f4a9c",
+          "before_hex": "41100405",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 3,
+          "y": 18,
+          "offset": "0x24f4aa4",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 4,
+          "y": 18,
+          "offset": "0x24f4aac",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 6,
+          "y": 18,
+          "offset": "0x24f4abc",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 7,
+          "y": 18,
+          "offset": "0x24f4ac4",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 8,
+          "y": 18,
+          "offset": "0x24f4acc",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 9,
+          "y": 18,
+          "offset": "0x24f4ad4",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 10,
+          "y": 18,
+          "offset": "0x24f4adc",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 11,
+          "y": 18,
+          "offset": "0x24f4ae4",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        },
+        {
+          "x": 12,
+          "y": 18,
+          "offset": "0x24f4aec",
+          "before_hex": "41100401",
+          "after_hex": "00100401"
+        }
+      ],
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        12
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 365,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-365-living-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-365-living-v7\\runtime-1",
+      "trace_sha256": "da2b0946ef2d009e94ff27c717e3cf2b21258f6ccb31b6686237dad84d7ddf9a",
+      "datas_sha256": "2a3090ba6c032d1a5c7732f1a637ab38237fe3b4d7aada5669081d1cfb2aed61",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-365-living-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        12
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 365,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-365-delete-v7\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-365-delete-v7\\runtime-1",
+      "trace_sha256": "3e70caf490655acd17f8eef7316f602352ac6decf74707bae9becc600a14ef24",
+      "datas_sha256": "83eac4b033706e93b4490bca9cbca033c6f1d2eebb4f04cd700cd4771f37b5e5",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-365-delete-v7\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "emulator_volume": 0,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "map_sequence": [
+        163,
+        162,
+        163
+      ],
+      "money_transitions": [
+        [
+          0,
+          7,
+          2994
+        ],
+        [
+          7,
+          14,
+          4764
+        ]
+      ],
+      "lifetimes": [
+        {
+          "lifetime": 1,
+          "reward_frame": 2994,
+          "disposed_frame": 2996,
+          "stable_frames": 818,
+          "hp_values": [
+            0,
+            12
+          ]
+        },
+        {
+          "lifetime": 2,
+          "reward_frame": 4764,
+          "disposed_frame": 4766,
+          "stable_frames": 651,
+          "hp_values": [
+            0,
+            12
+          ]
+        }
+      ],
+      "money_final": 14,
+      "herb_quantity_final": 2,
+      "latch_final": 0,
+      "native_E1_and_drop_retained": true,
+      "scope": "Two controller-driven native room lifetimes; no save/load persistence claim",
+      "catalogue_index": 371,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-371-death-v6\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-371-death-v6\\runtime-1",
+      "trace_sha256": "fd3ab5157d244034cb08e159f9d074456dbb90c5a71ad7738f42ed73947e1b51",
+      "datas_sha256": "10a78dcc268c9d061d7d585b05bfb212272783d12701f82ddf4f3898fb2c9c8f",
+      "exe_sha256": "b77be22099f1f66d463e9fd3025355163359d26c9f5f23af1bb1848da42646b1",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-371-death-v6\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "test_only_roundtrip": true,
+      "test_only_warp_changes": [
+        {
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512a2001e1a00000100",
+          "original_destination": 162
+        },
+        {
+          "index": 1,
+          "offset": "0x24f2454",
+          "before_hex": "0a150a16a3002416000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 2,
+          "offset": "0x24f2460",
+          "before_hex": "27162717a3000b15000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 3,
+          "offset": "0x24f246c",
+          "before_hex": "0e320e33a3002832000007f0",
+          "original_destination": 163
+        },
+        {
+          "index": 4,
+          "offset": "0x24f2478",
+          "before_hex": "25322533a3000d32000007a0",
+          "original_destination": 163
+        },
+        {
+          "index": 5,
+          "offset": "0x24f2484",
+          "before_hex": "052e052ea2001f2200000100",
+          "original_destination": 162
+        },
+        {
+          "map_id": 163,
+          "index": 0,
+          "offset": "0x24f2448",
+          "before_hex": "05120512ffff1e1a00000100",
+          "replacement_hex": "080d080da20014140a000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 163,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24f42ad",
+          "before": 0,
+          "after": 128
+        },
+        {
+          "map_id": 162,
+          "index": 0,
+          "offset": "0x24a9c48",
+          "before_hex": "1e1a1e1aa300051200000150",
+          "replacement_hex": "14131413a300080e01000140",
+          "test_only_roundtrip": true
+        },
+        {
+          "map_id": 162,
+          "test_only_warp_tile_ground": true,
+          "offset": "0x24ac4cd",
+          "before": 0,
+          "after": 128
+        }
+      ],
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "living",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        12
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "E_handed_back": true,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 2,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 371,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-371-living-v6\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-371-living-v6\\runtime-1",
+      "trace_sha256": "e18c2bc1ff7878f1059a3060d891b3a3fc8c16b36da190f78967bab0b627e56e",
+      "datas_sha256": "3c2dbbfeb6a263a5cb7a5e321afc349b280110378ef27cd45955a8f40a69d98f",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-371-living-v6\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    },
+    {
+      "result": "pass",
+      "mode": "delete",
+      "assigned_Herb_collection_required": true,
+      "money_transitions": [],
+      "hp_values": [
+        0,
+        12
+      ],
+      "status_values": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "E_handed_back": false,
+      "native_E1_retained": true,
+      "drop_count_initial": 1,
+      "drop_count_max": 1,
+      "money_final": 0,
+      "latch_final": 0,
+      "scope": "This concrete class and tested controller path; no universal enemy/boss or save persistence certification",
+      "catalogue_index": 371,
+      "fixture": "private-inputs\\editor-100-case-tests\\death-enemy-371-delete-v6\\fixture.json",
+      "runtime": "private-inputs\\editor-100-case-tests\\death-enemy-371-delete-v6\\runtime-1",
+      "trace_sha256": "16fc8089747c6e757ca528fb7d0d28bb8b4c6f1491c166f0fdf46e8b831b070c",
+      "datas_sha256": "e307cae0c323d2213e58fddaa1ded3c727bd766144f0b5c74214fb49dda700a5",
+      "exe_sha256": "f8e386a87a91219ec9d938450ffc416fe8367bfa35b1609c26ec9af1ba3f39fe",
+      "payload_archive": "private-inputs\\editor-100-case-tests\\death-enemy-371-delete-v6\\death-test.payloads.zip",
+      "payload_archive_verified": true,
+      "source_contents": 36,
+      "starting_equipment": [
+        4,
+        20
+      ],
+      "test_only_direct_combat_spawn": false,
+      "test_only_disabled_warps": [],
+      "production_enabled": false,
+      "controller_only": true,
+      "ram_writes": false,
+      "savestate_used": false
+    }
+  ],
+  "passes": 24,
+  "production_ready_classes": [
+    329,
+    335,
+    338,
+    341,
+    344,
+    362,
+    365,
+    371
+  ],
+  "native_contract": "data/2026-10-06-1502-enemy-death-native-contract.json",
+  "per_class_proof": "Two natural HP-zero deaths separated by controller-driven native room reentry, plus independent living deactivation and direct deletion negatives",
+  "continuation_lifetime": "Latch cleared immediately before native40 runtime E-root handback; one award per native actor lifetime observed",
+  "save_persistence": "Not certified",
+  "passive_placement_unchanged": true,
+  "native_AI_and_contents_retained": true,
+  "lizard365_geometry_limit": "Stock-room second chase blocked by existing wall. Success fixture explicitly flattens test collision region; native AI/HP/attacks unchanged. The stock geometry partial is preserved separately.",
+  "original_room_partial": "data/2026-10-06-Lizard365-room-geometry-partial.json",
+  "audio": "Earlier completed isolated volume5; after renewed request all launches muted0",
+  "counts_supplemental_to_100_matrix": true
+}

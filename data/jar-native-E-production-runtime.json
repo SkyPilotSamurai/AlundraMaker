@@ -1,0 +1,51 @@
+{
+  "runtime": "pass_scoped",
+  "catalogue": 291,
+  "mode": "carry",
+  "assigned_event": true,
+  "production_compiler": true,
+  "evidence": "private-inputs\\editor-100-case-tests\\carry-291-carry-continued-v3\\runtime-1",
+  "fixture_hashes": {
+    "datas_sha256": "0ac613963531165769e3c11af7147a628379e9fbd936fe6129812441337b206f",
+    "exe_sha256": "f6b90dde11ed7a8fe130ee811835f5e0b73582dbb9c01c09af7f1c3b36daba7b"
+  },
+  "events": [
+    {
+      "frame": "3463",
+      "status": "3",
+      "animation": "2",
+      "animation_complete": "0",
+      "money": "0"
+    },
+    {
+      "frame": "3464",
+      "status": "3",
+      "animation": "2",
+      "animation_complete": "1",
+      "money": "0"
+    },
+    {
+      "frame": "3465",
+      "status": "3",
+      "animation": "2",
+      "animation_complete": "1",
+      "money": "7"
+    },
+    {
+      "frame": "3466",
+      "status": "4",
+      "animation": "2",
+      "animation_complete": "1",
+      "money": "7"
+    }
+  ],
+  "immutable_prefix_sha256": "944717fcc5f45b6264afcb26a317072dd84cb562f2dfaad9b89c6408e1eef113",
+  "no_ram_writes": true,
+  "no_savestates": true,
+  "sound_volume": 0,
+  "scope": "Natural carry/throw/native E2 animation completion, one authored reward and native destruction",
+  "limitations": [
+    "Only the bounded jar291 money continuation is production-enabled",
+    "No arbitrary attacks, drops, save persistence or hardware proof"
+  ]
+}
